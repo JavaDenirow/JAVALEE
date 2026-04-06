@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+#EXTM3U x-tvg-url="https://www.free-epg.de/api/epg?country=BR"
 
 #EXTINF:-1 tvg-id="adessotv.br" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="VARIEDADES", ADESSO TV
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
@@ -6,10 +6,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-logo="https://i.postimg.cc/hGWcHY3K/ADRENALINA-PURA-TV.png" group-title="CANAIS DE FILMES", ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
 
-#EXTINF:-1 tvg-id="322" tvg-name="Adult Swim HD" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="Canais | Variedades",Adult Swim HD
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="Adult Swim HD" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="Canais | Variedades",Adult Swim HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12057.ts
 
-#EXTINF:-1 tvg-id="80" tvg-name="Agro+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="Canais | Abertos",Agro+
+#EXTINF:-1 tvg-id="agro.br" tvg-name="Agro+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="Canais | Abertos",Agro+
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17049.ts
 
 #EXTINF:-1 tvg-id="Primevideo.br" tvg-name="Amazon Prime Video  1" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="CANAIS | ESPORTES",Amazon Prime Video  1
@@ -60,7 +60,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 #EXTINF:-1 tvg-id="band.br" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="TV ABERTA", BAND SP
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28021.ts
 
-#EXTINF:-1 tvg-id="bandnews.br" tvg-logo="https://i.postimg.cc/yNmsBTwm/BAND-NEWS.png" group-title="NOTÍCIAS", BAND NEWS HD
+#EXTINF:-1 tvg-bandnews.br" tvg-logo="https://i.postimg.cc/yNmsBTwm/BAND-NEWS.png" group-title="NOTÍCIAS", BAND NEWS HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25001.ts
 
 #EXTINF:-1 tvg-id="bandsports.br" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="CANAIS DE ESPORTES", BAND SPORTS
