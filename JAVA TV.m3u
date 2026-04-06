@@ -531,7 +531,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/110.m3u8
 #EXTINF:-1 tvg-id="ukids.br" tvg-logo="https://i.postimg.cc/mgMGNw2T/URBAN%20KIDS.png" group-title="INFANTIL", URBAN KIDS
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/105.m3u8
 
-#EXTINF:-1 tvg-id="udrive.br" tvg-logo="" group-title="VARIEDADES", URBAN DRIVE
+#EXTINF:-1 tvg-id="udrive.br" tvg-logo="https://i.postimg.cc/sDXLBHSr/URBAN-DRIVE.png" group-title="VARIEDADES", URBAN DRIVE
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/106.m3u8
 
 #EXTINF:-1 tvg-id="utravel.br" tvg-logo="https://i.postimg.cc/YSHBXWhK/URBAN%20TRAVEL.png" group-title="VARIEDADES", URBAN TRAVEL
