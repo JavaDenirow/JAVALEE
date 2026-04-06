@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz
 
 #EXTINF:-1 tvg-id="adessotv.br" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="VARIEDADES", ADESSO TV
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
