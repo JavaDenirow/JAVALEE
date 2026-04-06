@@ -522,22 +522,22 @@ https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-id="studiouniversal.br" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="CANAIS DE FILMES", STUDIO UNIVERSAL
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13045.ts
 
-#EXTINF:-1 tvg-id="umovies.br" tvg-logo="https://i.postimg.cc/y89zXPY1/URBAN%20MOVIES.png" group-title="CANAIS DE FILMES", URBAN MOVIES
+#EXTINF:-1 tvg-id="umovies.br" tvg-logo="https://i.postimg.cc/W4Ldxr8k/URBAN-MOVIES.png" group-title="CANAIS DE FILMES", URBAN MOVIES
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/108.m3u8
 
-#EXTINF:-1 tvg-id="useries.br" tvg-logo="https://i.postimg.cc/YSHBXWj5/URBAN%20S%C3%89RIES.png" group-title="CANAIS DE FILMES", URBAN SÉRIES
+#EXTINF:-1 tvg-id="useries.br" tvg-logo="https://i.postimg.cc/d0Phgd6r/URBAN-SERIES.png" group-title="CANAIS DE FILMES", URBAN SÉRIES
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/110.m3u8
 
-#EXTINF:-1 tvg-id="ukids.br" tvg-logo="https://i.postimg.cc/mgMGNw2T/URBAN%20KIDS.png" group-title="INFANTIL", URBAN KIDS
+#EXTINF:-1 tvg-id="ukids.br" tvg-logo="https://i.postimg.cc/MG2ngR5f/URBAN%20KIDS.png" group-title="INFANTIL", URBAN KIDS
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/105.m3u8
 
 #EXTINF:-1 tvg-id="udrive.br" tvg-logo="https://i.postimg.cc/sDXLBHSr/URBAN-DRIVE.png" group-title="VARIEDADES", URBAN DRIVE
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/106.m3u8
 
-#EXTINF:-1 tvg-id="utravel.br" tvg-logo="https://i.postimg.cc/YSHBXWhK/URBAN%20TRAVEL.png" group-title="VARIEDADES", URBAN TRAVEL
+#EXTINF:-1 tvg-id="utravel.br" tvg-logo="https://i.postimg.cc/CKTR9D7b/URBAN-TRAVEL.png" group-title="VARIEDADES", URBAN TRAVEL
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/111.m3u8
 
-#EXTINF:-1 tvg-id="uturbo.br" tvg-logo="https://i.postimg.cc/ZqSzfdCh/URBAN%20TURBO.png" group-title="VARIEDADES", URBAN TURBO
+#EXTINF:-1 tvg-id="uturbo.br" tvg-logo="https://i.postimg.cc/0NRzhmnY/URBAN-TURBO.png" group-title="VARIEDADES", URBAN TURBO
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA FHD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="Canais | Filmes e Séries",USA FHD
