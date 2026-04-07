@@ -204,7 +204,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24009.m3u8
 #EXTINF:-1 tvg-id="doishomensemeio.br" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS%20HOMENS%20E%20MEIO.png" group-title="24 HORAS", DOIS HOMENS E MEIO
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38004.m3u8
 
-DUMDUM #EXTINF:-1 tvg-id="dumdum.br" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL", DUNDUM
+#EXTINF:-1 tvg-id="dumdum.br" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL", DUNDUM
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24030.m3u8
 
 #EXTINF:-1 tvg-id="e.br" tvg-logo="https://i.postimg.cc/TwQx5325/E.png" group-title="VARIEDADES", E!
