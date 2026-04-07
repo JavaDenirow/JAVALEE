@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.free-epg.de/api/epg?country=BR"
 
-#EXTINF:-1 tvg-id="adessotv.br" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="VARIEDADES", ADESSO TV
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="VARIEDADES", ADESSO TV
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-logo="https://i.postimg.cc/hGWcHY3K/ADRENALINA-PURA-TV.png" group-title="CANAIS DE FILMES", ADRENALINA PURA TV
@@ -36,10 +36,10 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="amc.br" tvg-logo="https://i.postimg.cc/KYSxdWsk/AMC.png" group-title="CANAIS DE FILMES", AMC
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
 
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS", ANIMAL PLANET HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23000.ts
 
-#EXTINF:-1 tvg-id="arte.1.br" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES", ARTE 1 HD
+#EXTINF:-1 tvg-id="arte1.br" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES", ARTE 1 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23003.ts
 
 #EXTINF:-1 tvg-id="awtv.br" tvg-logo="https://i.postimg.cc/jjHtKhGN/AWTV.png" group-title="TV ABERTA", AWTV HD
@@ -123,7 +123,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24006.ts
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="Cazé tv 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="CANAIS | ESPORTES PPV",CAZÉ TV 1 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.ts
 
-#EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="Cazé tv 2 HD" tvg-logo="Cazetv.br" group-title="CANAIS | ESPORTES PPV",Cazé tv 2 HD
+#EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="Cazé tv 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="CANAIS | ESPORTES PPV",Cazé tv 2 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19069.ts
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="TV ABERTA", CENTRAL TV
@@ -450,31 +450,31 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21004.ts
 #EXTINF:-1 tvg-id="sportv3.br" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="CANAIS DE ESPORTES", SPORTV 3
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
 
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="CANAIS DE FILMES", STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="CANAIS DE FILMES", STUDIO UNIVERSAL HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13048.ts
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="Canais | Filmes e Séries",TCM HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13054.ts
 
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="CANAIS DE FILMES", TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="CANAIS DE FILMES", TELECINE PREMIUM HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15012.ts
 
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="CANAIS DE FILMES", TELECINE ACTION HD
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="CANAIS DE FILMES", TELECINE ACTION HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15000.ts
 
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="CANAIS DE FILMES", TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="CANAIS DE FILMES", TELECINE PIPOCA HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15009.ts
 
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="CANAIS DE FILMES", TELECINE FUN HD
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="CANAIS DE FILMES", TELECINE FUN HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15006.ts
 
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="CANAIS DE FILMES", TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="CANAIS DE FILMES", TELECINE TOUCH HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15015.ts
 
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="CANAIS DE FILMES", TELECINE CULT HD
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="CANAIS DE FILMES", TELECINE CULT HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15003.ts
 
-#EXTINF:-1 tvg-id="timesbrasilcnbc.br" tvg-name="Times Brasil (CNBC) FHD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="Canais | Notícias",Times Brasil (CNBC) FHD
+#EXTINF:-1 tvg-id="TimesBrasilCnbc.br" tvg-name="Times Brasil (CNBC) FHD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="Canais | Notícias",Times Brasil (CNBC) FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25018.ts
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES", TLC HD
@@ -483,7 +483,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12051.ts
 #EXTINF:-1 tvg-id="tnt.br" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="CANAIS DE FILMES", TNT HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13039.ts
 
-#EXTINF:-1 tvg-id="tntseries.br" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="CANAIS DE FILMES", TNT SÉRIES HD
+#EXTINF:-1 tvg-id="TntSeries.br" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="CANAIS DE FILMES", TNT SÉRIES HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13042.ts
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES", TNT NOVELAS HD
