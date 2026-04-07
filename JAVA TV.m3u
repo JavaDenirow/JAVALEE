@@ -252,16 +252,16 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
 #EXTINF:-1 tvg-id="ge.br" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="CANAIS DE ESPORTES", TVGE
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19009.ts
 
-#EXTINF:-1 tvg-id="globorj.br" tvg-logo="https://i.postimg.cc/Z53hFcYG/TV%20GLOBO.png" group-title="TV ABERTA", GLOBO RJ
+#EXTINF:-1 tvg-id="globo.br" tvg-logo="https://i.postimg.cc/Z53hFcYG/TV%20GLOBO.png" group-title="TV ABERTA", GLOBO RJ
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18021.ts
 
-#EXTINF:-1 tvg-id="tvintegracaojf.br" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="TV ABERTA", TV INTEGRAÇÃO JUIZ DE FORA
+#EXTINF:-1 tvg-id="globo.br" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="TV ABERTA", TV INTEGRAÇÃO JUIZ DE FORA
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18243.ts
 
-#EXTINF:-1 tvg-id="tvintegracaojf.br" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="TV ABERTA", TV INTEGRAÇÃO JUIZ DE FORA
+#EXTINF:-1 tvg-id="globo.br" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="TV ABERTA", TV INTEGRAÇÃO JUIZ DE FORA
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18244.ts
 
-#EXTINF:-1 tvg-id="tvriosul.br" tvg-name="TV Rio Sul HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV%20RIO%20SUL.png" group-title="Canais | Globo",TV Rio Sul HD
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV Rio Sul HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV%20RIO%20SUL.png" group-title="Canais | Globo",TV Rio Sul HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18171.ts
 
 #EXTINF:-1 tvg-id="globonews.br" tvg-logo="https://i.postimg.cc/Hnxgw1j0/GLOBO%20NEWS.png" group-title="NOTÍCIAS", GLOBO NEWS HD
