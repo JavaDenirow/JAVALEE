@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+#EXTM3U
 
 ##########################
 # CANAIS ABERTOS
@@ -663,7 +663,7 @@ https://antena1campanha.crossradio.com.br:29090/camp2;?1762387700833
 https://high.antena1.com.br/?FYC=1773682110224
 
 #EXTINF:-1 tvg-id="antena1.sp" tvg-name="ANTENA 1 FM 105,1 Mhz (BELO HORIZONTE - MG)" tvg-logo="https://i.postimg.cc/xdvnYPWT/ANTENA-1-FM-BH.png" group-title="RÁDIOS",ANTENA 1 FM 105,1 Mhz (BELO HORIZONTE - MG)
-https://antenaone.crossradio.com.br/stream/1;
+https://antenaone.crossradio.com.br/stream/1
 
 #EXTINF:-1 tvg-id="antenna1.roma" tvg-name="ANTENA 1 FM 107,1 Mhz (ROMA - ITÁLIA)" tvg-logo="https://i.postimg.cc/Lst2RVr4/ANTENA-1-FM-ROMA-ITALIA.png" group-title="RÁDIOS",ANTENA 1 FM 107,1 Mhz (ROMA - ITÁLIA)
 https://a1-it.newradio.it/stream3?FYC=1773682944201
