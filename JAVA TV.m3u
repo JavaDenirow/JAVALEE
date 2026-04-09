@@ -1,32 +1,32 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
 ##########################
 # CANAIS ABERTOS
 ##########################
 
 #EXTINF:-1 tvg-id="globo.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/Z53hFcYG/TV%20GLOBO.png"" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18021.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18021.ts
 
 #EXTINF:-1 tvg-id="globo.br" tvg-name="TV INTEGRAÇÃO HD - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18243.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18243.ts
 
 #EXTINF:-1 tvg-id="globo.br" tvg-name="TV INTEGRAÇÃO HD - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18244.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18244.ts
 
 #EXTINF:-1 tvg-id="globo.br" tvg-name="TV Rio Sul HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV%20RIO%20SUL.png" group-title="CANAIS ABERTOS",TV Rio Sul HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18171.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18171.ts
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28015.ts
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD 3" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 3
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQxYjFmZGQwLTc1MWUtNGUxOS05OTQxLTYzZWZmMzU4ZjI4NiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3Mzc2MDgxMywibmJmIjoxNzczNzYwODEzLCJleHAiOjE3NzYzNTI4MTMsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6ImQxYjFmZGQwLTc1MWUtNGUxOS05OTQxLTYzZWZmMzU4ZjI4NiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.yEMsf3gmFOkhaToooQL-HuyjAlj89DBaeAer4mkTb54&uid=d1b1fdd0-751e-4e19-9941-63eff358f286&magica=sim
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.ts?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQxYjFmZGQwLTc1MWUtNGUxOS05OTQxLTYzZWZmMzU4ZjI4NiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3Mzc2MDgxMywibmJmIjoxNzczNzYwODEzLCJleHAiOjE3NzYzNTI4MTMsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6ImQxYjFmZGQwLTc1MWUtNGUxOS05OTQxLTYzZWZmMzU4ZjI4NiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.yEMsf3gmFOkhaToooQL-HuyjAlj89DBaeAer4mkTb54&uid=d1b1fdd0-751e-4e19-9941-63eff358f286&magica=sim
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28021.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28021.ts
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
@@ -35,13 +35,13 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.ts
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ 2 HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27051.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27051.ts
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27060.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27060.ts
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1527745619.m3u8
@@ -50,7 +50,7 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SP HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17036.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17036.ts
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/55.m3u8
@@ -59,7 +59,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/55.m3u8
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvcultura" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17003.ts
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w938629533.m3u8
@@ -71,289 +71,289 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/79.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="Canais | Abertos",AGRO+
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17049.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17049.ts
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.ts
 
 #EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17045.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17045.ts
 
 ##########################
 # VARIEDADES
 ##########################
 
 #EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12057.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12057.ts
 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23003.ts
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.ts
 
 #EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="VARIEDADES",CANAL OFF HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12048.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12048.ts
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12012.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12012.ts
 
 #EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E!" tvg-logo="https://i.postimg.cc/TwQx5325/E.png" group-title="VARIEDADES",E!
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12018.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12018.ts
 
 #EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/gjJWVbrL/FISH%20TV.png" group-title="VARIEDADES",FISH TV
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12021.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12021.ts
 
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/3NRTXQWm/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12024.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12024.ts
 
 #EXTINF:-1 tvg-id="globoplaynovelas.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://i.postimg.cc/2y6DQN3x/GLOBO%20PLAY%20NOVELAS.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12060.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12060.ts
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/8c0VwXrt/HGTV.png" group-title="VARIEDADES",HGTV HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23024.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23024.ts
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/D0ZTr3mB/GNT.png" group-title="VARIEDADES",GNT HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12027.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12027.ts
 
 #EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.postimg.cc/VvVc4ZCQ/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12033.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12033.ts
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12051.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12051.ts
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13036.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13036.ts
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12039.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12039.ts
 
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/Pqjn6wPx/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12063.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12063.ts
 
 ##########################
 # FILMES
 ##########################
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/KYSxdWsk/AMC.png" group-title="FILMES",AMC
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13006.ts
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13009.ts
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23006.ts
 
 #EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13057.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13057.ts
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14000.ts
 
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/ZnRS8z07/HBO%202.png" group-title="FILMES",HBO 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14003.ts
 
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/7h6k3rbt/HBO%20FAMILY.png" group-title="FILMES",HBO FAMILY HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14006.ts
 
 #EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.postimg.cc/mkDsYWh5/HBO%20MUNDI.png" group-title="FILMES",HBO MUNDI HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14009.ts
 
 #EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/qqRTsHgY/HBO%20PLUS.png" group-title="FILMES",HBO PLUS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14012.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14012.ts
 
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://i.postimg.cc/Hnxgw1jF/HBO%20POP.png" group-title="FILMES",HBO POP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14015.ts
 
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/gjJWVbrQ/HBO%20SIGNATURE.png" group-title="FILMES",HBO SIGNATURE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14018.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14018.ts
 
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.postimg.cc/Bb60Tftd/HBO%20XTREME.png" group-title="FILMES",HBO XTREME HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14021.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14021.ts
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13015.ts
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13027.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13027.ts
 
 #EXTINF:-1 tvg-id="sonymovies.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY%20MOVIES.png" group-title="FILMES",SONY MOVIES HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.ts
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13048.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13048.ts
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13054.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13054.ts
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15012.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15012.ts
 
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15000.ts
 
 #EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15009.ts
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15006.ts
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15015.ts
 
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15003.ts
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13039.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13039.ts
 
 #EXTINF:-1 tvg-id="sonymovies.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY%20MOVIES.png" group-title="FILMES",SONY MOVIES HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.ts
 
 ##########################
 # FILMES E SÉRIES 24H
 ##########################
 
 #EXTINF:-1 tvg-id="filmes24hlancamentos.br" tvg-name="24H FILMES LANÇAMENTOS" tvg-logo="https://i.postimg.cc/Bv9jRDpn/FILMES-24H-LANCAMENTOS.png" group-title="FILMES E SÉRIES 24H",24H FILMES LANÇAMENTOS
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38034.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38034.ts
 
 #EXTINF:-1 tvg-id="doishomensemeio.br" tvg-name="DOIS HOMENS E MEIO HD" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS%20HOMENS%20E%20MEIO.png" group-title="FILMES E SÉRIES 24H", DOIS HOMENS E MEIO HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38004.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38004.ts
 
 #EXTINF:-1 tvg-id="filmes24hacao.br" tvg-name="24H FILMES AÇÃO" tvg-logo="https://i.postimg.cc/HsV7fTwL/FILMES-24H-ACAO.png" group-title="FILMES E SÉRIES 24H",24H FILMES AÇÃO
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38028.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38028.ts
 
 #EXTINF:-1 tvg-id="filmes24hcomedia.br" tvg-name="24H FILMES COMÉDIA" tvg-logo="https://i.postimg.cc/YSKvTgRS/FIMES-24H-COMEDIA.png" group-title="FILMES E SÉRIES 24H",24H FILMES COMÉDIA
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38030.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38030.ts
 
 #EXTINF:-1 tvg-id="icarlyrevival.br" tvg-name="24H ICARLY REVIVAL" tvg-logo="https://i.postimg.cc/VvVc4Zbh/ICARLY.png" group-title="FILMES E SÉRIES 24H",24H ICARLY REVIVAL
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38009.ts
 
 #EXTINF:-1 tvg-id="chaves.br" tvg-name="24H CHAVES" tvg-logo="https://i.postimg.cc/pTPxdFvV/CHAVES-24-H.png" group-title="FILMES E SÉRIES 24H"24H CHAVES
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38001.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38001.ts
 
 ##########################
 # CINE SKY
 ##########################
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 01" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 01
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16000.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 02" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 02
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16001.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16001.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 03" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 03
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16002.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16002.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 04" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 04
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16003.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 05" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 05
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16004.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16004.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 06" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 06
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16005.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16005.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 07" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 07
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16006.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 08" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 08
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16007.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16007.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 09" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 09
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16008.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16008.ts
 
 #EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 10" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 10
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16009.ts
 
 ##########################
 # SÉRIES
 ##########################
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12000.ts
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.ts
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/25NN03Yv/LOGO-TNT-S-RIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13042.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13042.ts
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13033.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13033.ts
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12030.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12030.ts
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13021.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13021.ts
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13051.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13051.ts
 
 ##########################
 # ESPORTES
 ##########################
 
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19000.ts
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19006.ts
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22000.ts
 
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJ4pL2ch/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22003.ts
 
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/xCgQN1jM/ESPN%203.png" group-title="ESPORTES",ESPN 3 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22006.ts
 
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/Y987LC2Q/ESPN%204.png" group-title="ESPORTES",ESPN 4 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22009.ts
 
 #EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/G2zRTm3k/ESPN%205.png" group-title="ESPORTES",ESPN 5 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22012.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22012.ts
 
 #EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22015.ts
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21004.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21004.ts
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
 
 #EXTINF:-1 tvg-id="ge.br" tvg-name="GETV HD" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19009.ts
 
 #EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19064.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19064.ts
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19024.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19024.ts
 
 #EXTINF:-1 tvg-id="sportynet2.br" tvg-name="SPORTY NET 2 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19025.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19025.ts
 
 #EXTINF:-1 tvg-id="sportynet3.br" tvg-name="SPORTY NET 3 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 3 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19026.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19026.ts
 
 #EXTINF:-1 tvg-id="sportynet4.br" tvg-name="SPORTY NET 4 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 4 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19027.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19027.ts
 
 #EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19079.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19079.ts
 
 #EXTINF:-1 tvg-id="redbulltv.br" tvg-name="REDBULL TV HD" tvg-logo="https://i.postimg.cc/4NYGnGDk/REDBULL%20TV.png" group-title="ESPORTES",REDBULL TV HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46.m3u8
@@ -366,69 +366,69 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
 ##########################
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20000.ts
 
 #EXTINF:-1 tvg-id="premiereclubes2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20003.ts
 
 #EXTINF:-1 tvg-id="premiereclubes3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20006.ts
 
 #EXTINF:-1 tvg-id="premiereclubes4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20009.ts
 
 #EXTINF:-1 tvg-id="premiereclubes5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20012.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20012.ts
 
 #EXTINF:-1 tvg-id="premiereclubes6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20015.ts
 
 #EXTINF:-1 tvg-id="premiereclubes7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20018.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20018.ts
 
 #EXTINF:-1 tvg-id="premiereclubes8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20021.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20021.ts
 
 ##########################
 # PARAMOUNT PLUS
 ##########################
 
 #EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="PARAMOUNT PLUS",PARAMOUNT PLUS 1
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19071.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19071.ts
 
 #EXTINF:-1 tvg-id="paramountplus2.br" tvg-name="PARAMOUNT PLUS 2" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="PARAMOUNT PLUS",PARAMOUNT PLUS 2
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19072.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19072.ts
 
 #EXTINF:-1 tvg-id="paramountplus3.br" tvg-name="PARAMOUNT PLUS 3" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="PARAMOUNT PLUS",PARAMOUNT PLUS 3
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19073.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19073.ts
 
 #EXTINF:-1 tvg-id="paramountplus4.br" tvg-name="PARAMOUNT PLUS 4" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="PARAMOUNT PLUS",PARAMOUNT PLUS 4
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19074.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19074.ts
 
 #EXTINF:-1 tvg-id="paramountplus5.br" tvg-name="PARAMOUNT PLUS 5" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="PARAMOUNT PLUS",PARAMOUNT PLUS 5
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19075.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19075.ts
 
 #EXTINF:-1 tvg-id="paramountplus6.br" tvg-name="PARAMOUNT PLUS 6" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="PARAMOUNT PLUS",PARAMOUNT PLUS 6
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19076.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19076.ts
 
 ##########################
 # ESPORTES PPV
 ##########################
 
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.ts
 
 #EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19069.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19069.ts
 
 #EXTINF:-1 tvg-id="canalgoat.br" tvg-name="CANAL GOAT HD" tvg-logo="https://i.postimg.cc/fLMZb9NF/CANAL-GOAT.png" group-title="ESPORTES PPV",CANAL GOAT HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19080.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19080.ts
 
 #EXTINF:-1 tvg-id="primevideo.br" tvg-name="PRIME VÍDEO 1 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 1 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19021.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19021.ts
 
 #EXTINF:-1 tvg-id="primevideo2.br" tvg-name="PRIME VÍDEO 2 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19022.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19022.ts
 
 #EXTINF:-1 tvg-id="primevideo3.br" tvg-name="PRIME VÍDEO 3 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 3 HD
 http://eassycd.com:80/live/Dbdjsk/leo334/601978.m3u8
@@ -444,78 +444,78 @@ http://eassycd.com:80/live/Dbdjsk/leo334/601985.m3u8
 ##########################
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23000.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23000.ts
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23009.ts
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12012.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12012.ts
 
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.postimg.cc/BbVGN71w/HISTORY.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23027.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23027.ts
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23021.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23021.ts
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23030.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23030.ts
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23012.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23012.ts
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12015.ts
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23015.ts
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23018.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23018.ts
 
 #EXTINF:-1 tvg-id="futura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17006.ts
 
 ##########################
 # ENTRETENIMENTO
 ##########################
 
 #EXTINF:-1 tvg-id="multishowhd.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.postimg.cc/MHF8t3Qx/MULTI%20SHOW.png" group-title="ENTRETENIMENTO"",MULTISHOW HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12045.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12045.ts
 
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/xC9Ydz2x/BIS.png" group-title="ENTRETENIMENTO",BIS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12003.ts
 
 #EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.postimg.cc/VvVc4ZCQ/MODO%20VIAGEM.png" group-title="ENTRETENIMENTO",MODO VIAGEM HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12033.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12033.ts
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12039.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12039.ts
 
 ##########################
 # INFANTIL E DESENHOS 24H
 ##########################
 
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24027.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24027.ts
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24003.ts
 
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.postimg.cc/KzmFYM26/CARTOONITO.png" group-title="INFANTIL E DESENHOS 24H",CARTOONITO HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24006.ts
 
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/JnK8Hz7h/DISCOVERY-KIDS.png" group-title="INFANTIL E DESENHOS 24H",DISCOVERY KIDS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24009.ts
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24015.ts
 
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24018.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24018.ts
 
 DUMDUM #EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUMDUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUMDUM HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24030.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24030.ts
 
 #EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -525,28 +525,28 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 ##########################
 
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.postimg.cc/Hnxgw1j0/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25006.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25006.ts
 
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.postimg.cc/yNmsBTwm/BAND-NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25001.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25001.ts
 
 #EXTINF:-1 tvg-id="sbtnews.br" tvg-name="SBT NEWS HD" tvg-logo="https://i.postimg.cc/L6JShScR/SBT%20NEWS.png" group-title="NOTÍCIAS",SBT NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25022.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25022.ts
 
 #EXTINF:-1 tvg-id="timesbrasilcnbc.br" tvg-name="TIMES BRASIL (CNBC) HD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="NOTÍCIAS",TIMES BRASIL (CNBC) HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25018.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25018.ts
 
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.postimg.cc/PxKHv5Xg/CNN-BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25003.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25003.ts
 
 #EXTINF:-1 tvg-id="cnnmoney.br" tvg-name="CNN MONEY HD" tvg-logo="https://i.postimg.cc/mDV41gZW/CNN-MONEY.png" group-title="NOTÍCIAS",CNN MONEY HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25015.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25015.ts
 
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/gkxprpf1/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25013.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25013.ts
 
 #EXTINF:-1 tvg-id="jpnews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.postimg.cc/1XjZM7Nb/JP%20NEWS.png" group-title="NOTÍCIAS",JOVEM PAN NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25009.m3u8
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25009.ts
 
 ##########################
 # CORTESIA
