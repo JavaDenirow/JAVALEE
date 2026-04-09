@@ -621,3 +621,85 @@ http://172.110.219.252:80/live/47125065/12264670/4037459.m3u8
 
 #EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 12" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 12
 http://172.110.219.252:80/live/47125065/12264670/4037463.m3u8
+
+##########################
+# RÁDIOS
+##########################
+
+#EXTINF:-1 tvg-id="superjava.br" tvg-name="SUPER JAVA WEB RÁDIO (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/sDbrh8zZ/SUPER%20JAVA%20WEB%20RADIO.png" group-title="RÁDIOS",SUPER JAVA WEB RÁDIO (JUIZ DE FORA - MG)
+https://stream-176.zeno.fm/ego2eudayomtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZ28yZXVkYXlvbXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InlmeXI0bXVyU0h5WWd6eTJEaXI1ZXciLCJpYXQiOjE3NzQzNzE5NTMsImV4cCI6MTc3NDM3MjAxM30.0H8qQcKWxPZWwrHp8Dhf_Z1pfi6ycV86KKQMBaAVODY&an-uid=2714247240901326777&dot-uid=0d1a220400ea22de6d982fc3&triton-uid=cookie%3Aa403c0e1-27b8-4f02-ba67-feca3bab9235&amb-uid=3254036726471821173&dbm-uid=CAESEAezZ3Bl-grQifPbIAgFmPI&cto-uid=4fec6fe5-ee42-41e9-bfa7-94b1d081bbf0-69a9d852-4252&bsw-uid=b68c7d2f-c1c1-4b8f-8c56-119239ae3fa1&dyn-uid=3999174471114028538&ttd-uid=daa6a5cb-bf58-4d95-a34a-28c12697012a&aw_0_req_lsid=0e3b460f0676faaddf723df9f80ccac8
+
+#EXTINF:-1 tvg-id="radiocidade.br" tvg-name="CIDADE FM 100,1 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/KcqFZjs9/RADIO%20CIDADE%20JF.png" group-title="RÁDIOS",CIDADE FM 100,1 Mhz (JUIZ DE FORA - MG)
+http://sl.dnip.com.br:10376/stream?1760992125696
+
+#EXTINF:-1 tvg-id="radiomix.br" tvg-name="MIX FM 88,9 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/Pf3htJRn/RADIO%20MIX%20FM%20JF.png" group-title="RÁDIOS",MIX FM 88,9 Mhz (JUIZ DE FORA - MG)
+https://26563.live.streamtheworld.com/MIXFM_JUIZDEFORAAAC.aac?dist=mix-web-player-radio-ao-vivo&574628.8885306485
+
+#EXTINF:-1 tvg-id="radiomix.br" tvg-name="MIX FM 90,3 Mhz (BELO HORIZONTE - MG)" tvg-logo="https://i.postimg.cc/fW2Zwyrs/RADIO%20MIX%20FM%20BH.png" group-title="RÁDIOS",MIX FM 90,3 Mhz (BELO HORIZONTE - MG)
+https://24293.live.streamtheworld.com/MIXFM_BH.mp3?dist=mix-web-player-radio-ao-vivo&440645.33204635757
+
+#EXTINF:-1 tvg-id="radiomix.br" tvg-name="MIX FM 102,1 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/mZXRbk5G/RADIO%20MIX%20FM%20RJ.png" group-title="RÁDIOS",MIX FM 102,1 Mhz (RIO DE JANEIRO - RJ)
+https://23033.live.streamtheworld.com/MIXRIOAAC_SC?dist=MIX-PLAYER&v=1761086679208
+
+#EXTINF:-1 tvg-id="radiomix.br" tvg-name="MIX FM 106,3 Mhz (SÃO PAULO - SP)" tvg-logo="https://i.postimg.cc/Pf3htJRh/RADIO%20MIX%20FM%20SP.png" group-title="RÁDIOS",MIX FM 106,3 Mhz (SÃO PAULO - SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+
+#EXTINF:-1 tvg-id="93fmjf.br" tvg-name="93 FM 93,5 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/9X8VW0Nb/RADIO%2093%20FM%20JF.png" group-title="RÁDIOS",93 FM 93,5 Mhz (JUIZ DE FORA - MG)
+https://live.paineldj.com.br/proxy/93fmjf?mp=/stream&1760991835040
+
+#EXTINF:-1 tvg-id="alofm.br" tvg-name="ALÔ FM 96,7 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/kM19nGhw/RADIO%20ALO%20FM%20JF.png" group-title="RÁDIOS",ALÔ FM 96,7 Mhz (JUIZ DE FORA - MG)
+http://sd.dnip.com.br:9146/stream?1760991963586
+
+#EXTINF:-1 tvg-id="alphafm.br" tvg-name="ALPHA FM 101,7 Mhz (SÃO PAULO - SP)" tvg-logo="https://i.postimg.cc/KYSxdWsj/ALPHA-FM-SP.png" group-title="RÁDIOS",ALPHA FM 101,7 Mhz (SÃO PAULO - SP)
+https://27353.live.streamtheworld.com/RADIO_ALPHAFM_ADP.aac?1773686718650
+
+#EXTINF:-1 tvg-id="antena1.sp" tvg-name="ANTENA 1 FM 91,3 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/DzrnFctz/ANTENA-1-FM-JF.png" group-title="RÁDIOS",ANTENA 1 FM 91,3 Mhz (JUIZ DE FORA - MG)
+https://stream02.ouveai.com.br:7017/stream
+
+#EXTINF:-1 tvg-id="antena1.sp" tvg-name="ANTENA 1 FM 103,7 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/hGLcg0Hz/ANTENA-1-FM-RJ.png" group-title="RÁDIOS",ANTENA 1 FM 103,7 Mhz (RIO DE JANEIRO - RJ)
+https://antena1campanha.crossradio.com.br:29090/camp2;?1762387700833
+
+#EXTINF:-1 tvg-id="antena1.sp" tvg-name="ANTENA 1 FM 94,7 Mhz (SÃO PAULO - SP)" tvg-logo="https://i.postimg.cc/SK6kqGwX/ANTENA-1-FM-SP.png" group-title="RÁDIOS",ANTENA 1 FM 94,7 Mhz (SÃO PAULO - SP)
+https://high.antena1.com.br/?FYC=1773682110224
+
+#EXTINF:-1 tvg-id="antena1.sp" tvg-name="ANTENA 1 FM 105,1 Mhz (BELO HORIZONTE - MG)" tvg-logo="https://i.postimg.cc/xdvnYPWT/ANTENA-1-FM-BH.png" group-title="RÁDIOS",ANTENA 1 FM 105,1 Mhz (BELO HORIZONTE - MG)
+https://antenaone.crossradio.com.br/stream/1;
+
+#EXTINF:-1 tvg-id="antenna1.roma" tvg-name="ANTENA 1 FM 107,1 Mhz (ROMA - ITÁLIA)" tvg-logo="https://i.postimg.cc/Lst2RVr4/ANTENA-1-FM-ROMA-ITALIA.png" group-title="RÁDIOS",ANTENA 1 FM 107,1 Mhz (ROMA - ITÁLIA)
+https://a1-it.newradio.it/stream3?FYC=1773682944201
+
+#EXTINF:-1 tvg-id="itatiaia.jf" tvg-name="ITATIAIA FM 105,3 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/fW2Zwygp/RADIO%20ITATIAIA%20FM%20JF.png" group-title="RÁDIOS",ITATIAIA FM 105,3 Mhz (JUIZ DE FORA - MG)
+https://8372.brasilstream.com.br/stream?1760991534406
+
+#EXTINF:-1 tvg-id="onfm.jf" tvg-name="ON FM 107,7 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/j2Frv37S/ON%20FM%20JF.png" group-title="RÁDIOS",ON FM 107,7 Mhz (JUIZ DE FORA - MG)
+https://cast4.hoost.com.br:20214/stream
+
+#EXTINF:-1 tvg-id="clubetrans.jf" tvg-name="CLUBE FM 87,9 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/L4CRH50G/RADIO%20CLUBE%20TRANS%20FM%20JF.png" group-title="RÁDIOS",CLUBE FM 87,9 Mhz (JUIZ DE FORA - MG)
+https://live.paineldj.com.br/proxy/transclube?mp=/stream
+
+#EXTINF:-1 tvg-id="playhits.jf" tvg-name="PLAY HIT'S 910 Khz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/zDt5JvPw/PLAY%20HITS%20FM%20JF.png" group-title="RÁDIOS",PLAY HIT'S 910 Khz (JUIZ DE FORA - MG)
+https://str1.streamhostpg.com.br:8108/stream?1760992304045
+
+#EXTINF:-1 tvg-id="clubefm.bsb" tvg-name="CLUBE FM 105,5 Mhz (BRASÍLIA - DF)" tvg-logo="https://i.postimg.cc/7PsDxhQW/RADIO%20CLUBE%20FM%20BRASILIA.png" group-title="RÁDIOS",CLUBE FM 105,5 Mhz (BRASÍLIA - DF)
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+
+#EXTINF:-1 tvg-id="fmodia.rj" tvg-name="FM O DIA 100,5 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/2y6DQN3B/FM%20O%20DIA.png" group-title="RÁDIOS",FM O DIA 100,5 Mhz (RIO DE JANEIRO - RJ)
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/42.m3u8
+
+#EXTINF:-1 tvg-id="bhfm.mg" tvg-name="BHFM 102,1 Mhz (BELO HORIZONTE - MG)" tvg-logo="https://i.postimg.cc/MTzxGQS5/BH-FM.png" group-title="RÁDIOS",BHFM 102,1 Mhz (BELO HORIZONTE - MG)
+https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
+
+#EXTINF:-1 tvg-id="radioglobo.rj" tvg-name="GLOBO FM 98,1 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/mZXRbk6v/RADIO%20GLOBO%20RJ.png" group-title="RÁDIOS",GLOBO FM 98,1 Mhz (RIO DE JANEIRO - RJ)
+https://24403.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac
+
+#EXTINF:-1 tvg-id="tupi.rj" tvg-name="TUPI FM 96,5 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/FHcQgZFP/TUPI%20RJ.png" group-title="RÁDIOS",TUPI FM 96,5 Mhz (RIO DE JANEIRO - RJ)
+https://8923.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-id="jbfm.rj" tvg-name="JB FM 99,9 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/1XjZM7Nj/JBFM.png" group-title="RÁDIOS",JB FM 99,9 Mhz (RIO DE JANEIRO - RJ
+https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac
+
+#EXTINF:-1 tvg-id="montanhesa.vicosa" tvg-name="MONTANHESA FM 106,5 Mhz (VIÇOSA - MG)" tvg-logo="https://i.postimg.cc/ZKWm0m11/RADIO%20MONTANHESA%20FM.png" group-title="RÁDIOS",MONTANHESA FM 106,5 Mhz (VIÇOSA - MG)
+https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
+
+#EXTINF:-1 tvg-id="ondapocos.mg" tvg-name="ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)" tvg-logo="https://i.postimg.cc/cCbNTknH/ONDA%20PO%C3%87OS%20FM.png" group-title="RÁDIOS",ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)
+https://stmv1.transmissaodigital.com/ondapocos/ondapocos/chunklist_w1278587177.m3u8
