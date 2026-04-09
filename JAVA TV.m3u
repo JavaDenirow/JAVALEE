@@ -368,25 +368,25 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20000.ts
 
-#EXTINF:-1 tvg-id="premiereclubes2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20003.ts
 
-#EXTINF:-1 tvg-id="premiereclubes3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20006.ts
 
-#EXTINF:-1 tvg-id="premiereclubes4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20009.ts
 
-#EXTINF:-1 tvg-id="premiereclubes5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20012.ts
 
-#EXTINF:-1 tvg-id="premiereclubes6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20015.ts
 
-#EXTINF:-1 tvg-id="premiereclubes7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20018.ts
 
-#EXTINF:-1 tvg-id="premiereclubes8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20021.ts
 
 ##########################
