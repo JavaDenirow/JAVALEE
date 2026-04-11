@@ -64,11 +64,20 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17003.ts
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w938629533.m3u8
 
+#EXTINF:-1 tvg-id="tbc.goias" tvg-name="TV BRASIL CENTRAL TBC HD" tvg-logo="https://i.postimg.cc/RhG3Qhvy/TBC-LOGO.png" group-title="CANAIS ABERTOS",TV BRASIL CENTRAL TBC HD
+https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/79.m3u8
 
+#EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
 #EXTINF:-1 tvg-id="amazonsat.br" tvg-name="AMAZON SAT HD" tvg-logo="https://i.postimg.cc/bvcpK5Fs/AMAZON-SAT.png" group-title="CANAIS ABERTOS",AMAZON SAT HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-id="tvpocos.br" tvg-name="TV POÇOS HD" tvg-logo="https://i.postimg.cc/K8t2dVgq/TV-POCOS.png" group-title="CANAIS ABERTOS",TV POÇOS HD
+https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="CANAIS ABERTOS"",AGRO+
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17049.ts
@@ -223,9 +232,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.ts
 #EXTINF:-1 tvg-id="filmes24hlancamentos.br" tvg-name="24H FILMES LANÇAMENTOS" tvg-logo="https://i.postimg.cc/Bv9jRDpn/FILMES-24H-LANCAMENTOS.png" group-title="FILMES E SÉRIES 24H",24H FILMES LANÇAMENTOS
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38034.ts
 
-#EXTINF:-1 tvg-id="doishomensemeio.br" tvg-name="DOIS HOMENS E MEIO HD" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS%20HOMENS%20E%20MEIO.png" group-title="FILMES E SÉRIES 24H", DOIS HOMENS E MEIO HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38004.ts
-
 #EXTINF:-1 tvg-id="filmes24hacao.br" tvg-name="24H FILMES AÇÃO" tvg-logo="https://i.postimg.cc/HsV7fTwL/FILMES-24H-ACAO.png" group-title="FILMES E SÉRIES 24H",24H FILMES AÇÃO
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38028.ts
 
@@ -284,6 +290,9 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.ts
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/25NN03Yv/LOGO-TNT-S-RIES.png" group-title="SÉRIES",TNT SÉRIES HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13042.ts
+
+#EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/6pRNL05N/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13045.ts
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13033.ts
@@ -439,6 +448,9 @@ http://eassycd.com:80/live/Dbdjsk/leo334/601979.m3u8
 #EXTINF:-1 tvg-id="primevideo5.br" tvg-name="PRIME VÍDEO 5 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 5 HD
 http://eassycd.com:80/live/Dbdjsk/leo334/601985.m3u8
 
+#EXTINF:-1 tvg-id="uniquesports.br" tvg-name="UNIQUE SPORTS HD" tvg-logo="https://i.postimg.cc/J4bfYdtx/UNIQUE-SPORTS.png" group-title="ESPORTES PPV",UNIQUE SPORTS HD
+https://pop.uniquetv.com.br/uniquesports1/video.m3u8
+
 ##########################
 # DOCUMETÁRIOS
 ##########################
@@ -552,11 +564,38 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25009.ts
 # CORTESIA
 ##########################
 
-#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/hGWcHY3K/ADRENALINA-PURA-TV.png" group-title="CORTESIA",ADRENALINA PURA TV HD
+#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="CORTESIA",ADRENALINA PURA TV HD
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
 
 #EXTINF:-1 tvg-id="adesso.br" tvg-name="ADESSO TV HD" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="VARIEDADES",ADESSO TV HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="awtv.br"tvg-name="AWTV HD" tvg-logo="https://i.postimg.cc/jjHtKhGN/AWTV.png" group-title="CORTESIA",AWTV HD
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="canal29.br" tvg-name="CANAL 29 HD" tvg-logo="https://i.postimg.cc/rFSBZYzF/CANAL-29.png" group-title="CORTESIA",CANAL 29 HD
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gallotv.br"tvg-name="GALLO TV HD" tvg-logo="https://i.postimg.cc/02pTXHrD/TV-GALLO.png" group-title="CORTESIA",GALLO TV HD
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+
+#EXTINF:-1 tvg-id="geekdot.br" tvg-name="GEEKDOT HD" tvg-logo="https://i.postimg.cc/m2Qvp6hZ/GEEKDOT.png" group-title="CORTESIA",GEEKDOT HD
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="loading.br" tvg-name="LOADING TV HD" tvg-logo="https://i.postimg.cc/gkvCtBr0/LOADING.png" group-title="CORTESIA",LOADING TV HD
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tastemade.br" tvg-name="TASTEMADE HD" tvg-logo="https://i.postimg.cc/wjJvMC5g/TASTEMADE-TV.png" group-title="CORTESIA",TASTEMADE HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/f26edfff-c718-4e4b-bdb5-951778544b3e/3.m3u8
+
+#EXTINF:-1 tvg-id="classicosdocinema.br" tvg-name="TV CLÁSSICOS DO CINEMA HD" tvg-logo="https://i.postimg.cc/YCpgWNRs/TV-CLASSICOS-DO-CINEMA.png" group-title="CORTESIA",CLÁSSICOS DO CINEMA HD
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="tvseries.br" tvg-name="TV SÉRIES HD" tvg-logo="https://i.postimg.cc/gkvCtBrH/TV-SERIES.png" group-title="CORTESIA",TV SÉRIES HD
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvsonata.br" tvg-name="TV SONATA HD" tvg-logo="https://i.postimg.cc/FK5YwcpJ/TV-SONATA.png" group-title="CORTESIA",TV SONATA HD
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
 #EXTINF:-1 tvg-id="urbanseries.br" tvg-name="URBAN SÉRIES HD" tvg-logo="https://i.postimg.cc/YSHBXWj5/URBAN%20S%C3%89RIES.png" group-title="CORTESIA",URBAN SÉRIES HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/110.m3u8
@@ -576,11 +615,8 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/111.m3u8
 #EXTINF:-1 tvg-id="urbanturbo.br" tvg-name="URBAN TURBO HD" tvg-logo="https://i.postimg.cc/0NRzhmnY/URBAN-TURBO.png" group-title="CORTESIA",URBAN TURBO HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
 
-#EXTINF:-1 tvg-id="tvsonata.br" tvg-name="TV SONATA HD" tvg-logo="https://i.postimg.cc/FK5YwcpJ/TV-SONATA.png" group-title="CORTESIA",TV SONATA HD
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-
-#EXTINF:-1 tvg-id="awtv.br"tvg-name="AWTV HD" tvg-logo="https://i.postimg.cc/jjHtKhGN/AWTV.png" group-title="CORTESIA", AWTV HD
-https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="xtremetv.br" tvg-name="XTREME TV HD" tvg-logo="https://i.postimg.cc/PfBDrs0M/XTREME-TV.png" group-title="CORTESIA",XTREME TV HD
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 ##########################
 # BIG BROTHER BRASIL 2026 
@@ -621,6 +657,25 @@ http://172.110.219.252:80/live/47125065/12264670/4037459.m3u8
 
 #EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 12" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 12
 http://172.110.219.252:80/live/47125065/12264670/4037463.m3u8
+
+##########################
+# RELIGIOSOS
+##########################
+
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="TV REDE VIDA HD" tvg-logo="https://i.postimg.cc/nrQFMLCC/REDE-VIDA.png" group-title="RELIGIOSOS",TV REDE VIDA HD
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="TV CANÇÃO NOVA HD" tvg-logo="https://i.postimg.cc/j5RKj7TV/CANCAO-NOVA.png" group-title="RELIGIOSOS",TV CANÇÃO NOVA HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/5.m3u8
+
+#EXTINF:-1 tvg-id="aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://i.postimg.cc/RhFWV9zy/TV-APARECIDA.png" group-title="RELIGIOSOS",TV APARECIDA HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/17.m3u8
+
+#EXTINF:-1 tvg-id="paieterno.br" tvg-name="TV PAI ETERNO HD" tvg-logo="https://i.postimg.cc/8Ph2Xnsd/TV-PAI-ETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO HD
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="evangelizar.br" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://i.postimg.cc/8Ph2Xnsd/TV-PAI-ETERNO.png" group-title="RELIGIOSOS",TV EVANGELIZAR HD
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
 ##########################
 # RÁDIOS
@@ -702,4 +757,4 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac
 https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
 
 #EXTINF:-1 tvg-id="ondapocos.mg" tvg-name="ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)" tvg-logo="https://i.postimg.cc/cCbNTknH/ONDA%20PO%C3%87OS%20FM.png" group-title="RÁDIOS",ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)
-https://stmv1.transmissaodigital.com/ondapocos/ondapocos/chunklist_w1278587177.m3u8
+https://stmv1.transmissaodigital.com/ondapocos/ondapocos/chunklist_w1278587177.m3u8a
