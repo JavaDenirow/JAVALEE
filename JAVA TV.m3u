@@ -526,7 +526,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24015.ts
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24018.ts
 
-DUMDUM #EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUMDUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUMDUM HD
+#EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUMDUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUMDUM HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24030.ts
 
 #EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
