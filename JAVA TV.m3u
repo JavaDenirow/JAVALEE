@@ -235,6 +235,9 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38004.ts
 #EXTINF:-1 tvg-id="maluco24h" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="https://i.postimg.cc/x1zyVjFF/UM-MALUCO-NO-PEDACO.png" group-title="FILMES E SÉRIES 24H",UM MALUCO NO PEDAÇO
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38008.ts
 
+#EXTINF:-1 tvg-id="largadosepelados24h" tvg-name="LARGADOS E PELADOS" tvg-logo="https://i.postimg.cc/x1zyVjFF/UM-MALUCO-NO-PEDACO.png" group-title="FILMES E SÉRIES 24H",LARGADOS E PELADOS"
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38013.ts
+
 #EXTINF:-1 tvg-id="lancamentos24h" tvg-name="24H FILMES LANÇAMENTOS" tvg-logo="https://i.postimg.cc/Bv9jRDpn/FILMES-24H-LANCAMENTOS.png" group-title="FILMES E SÉRIES 24H",24H FILMES LANÇAMENTOS
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38034.ts
 
