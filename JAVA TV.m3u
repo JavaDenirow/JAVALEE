@@ -597,7 +597,7 @@ https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 #EXTINF:-1 tvg-id="tvsonata.br" tvg-name="TV SONATA HD" tvg-logo="https://i.postimg.cc/FK5YwcpJ/TV-SONATA.png" group-title="CORTESIA",TV SONATA HD
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
-#EXTINF:-1 tvg-id="urbanseries.br" tvg-name="URBAN SÉRIES HD" tvg-logo="https://i.postimg.cc/YSHBXWj5/URBAN%20S%C3%89RIES.png" group-title="CORTESIA",URBAN SÉRIES HD
+#EXTINF:-1 tvg-id="urbanseries.br" tvg-name="URBAN SÉRIES HD" tvg-logo="https://i.postimg.cc/d0Phgd6r/URBAN-SERIES.png" group-title="CORTESIA",URBAN SÉRIES HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/110.m3u8
 
 #EXTINF:-1 tvg-id="urbandrive.br" tvg-name="URBAN DRIVE HD" tvg-logo="https://i.postimg.cc/sDXLBHSr/URBAN-DRIVE.png" group-title="CORTESIA",URBAN DRIVE HD
