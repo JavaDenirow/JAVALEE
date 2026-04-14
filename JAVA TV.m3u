@@ -31,10 +31,10 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28021.ts
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.ts
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ 2 HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ 2 HD
@@ -55,10 +55,10 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17036.ts
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/55.m3u8
 
-#EXTINF:-1 tvg-id="istv.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
+#EXTINF:-1 tvg-id="ISTVHD.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvcultura" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
+#EXTINF:-1 tvg-id="	TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17003.ts
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
@@ -79,13 +79,13 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="tvpocos.br" tvg-name="TV POÇOS HD" tvg-logo="https://i.postimg.cc/K8t2dVgq/TV-POCOS.png" group-title="CANAIS ABERTOS",TV POÇOS HD
 https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
 
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="CANAIS ABERTOS"",AGRO+
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="CANAIS ABERTOS"",AGRO+
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17049.ts
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.ts
 
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17045.ts
 
 ##########################
@@ -494,7 +494,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23015.ts
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23018.ts
 
-#EXTINF:-1 tvg-id="futura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17006.ts
 
 ##########################
