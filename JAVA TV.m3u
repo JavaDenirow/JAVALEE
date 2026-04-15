@@ -247,10 +247,10 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38028.ts
 #EXTINF:-1 tvg-id="comedia24h" tvg-name="FILMES COMÉDIA 24H" tvg-logo="https://i.postimg.cc/YSKvTgRS/FIMES-24H-COMEDIA.png" group-title="FILMES E SÉRIES 24H",FILMES COMÉDIA 24H
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38030.ts
 
-#EXTINF:-1 tvg-id="icarly24h" tvg-name="ICARLY REVIVA 24HL" tvg-logo="https://i.postimg.cc/VvVc4Zbh/ICARLY.png" group-title="FILMES E SÉRIES 24H",ICARLY REVIVAL 24H
+#EXTINF:-1 tvg-id="icarly24h" tvg-name="ICARLY REVIVA 24H" tvg-logo="https://i.postimg.cc/VvVc4Zbh/ICARLY.png" group-title="FILMES E SÉRIES 24H",ICARLY REVIVAL 24H
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38009.ts
 
-#EXTINF:-1 tvg-id="chaves24h" tvg-name="CHAVES 24H" tvg-logo="https://i.postimg.cc/pTPxdFvV/CHAVES-24-H.png" group-title="FILMES E SÉRIES 24H"CHAVES 24H
+#EXTINF:-1 tvg-id="chaves24h" tvg-name="CHAVES" tvg-logo="https://i.postimg.cc/pTPxdFvV/CHAVES-24-H.png" group-title="FILMES E SÉRIES 24H"CHAVES
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38001.ts
 
 ##########################
