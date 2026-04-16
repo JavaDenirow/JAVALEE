@@ -439,6 +439,15 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19076.ts
 # ESPORTES PPV
 ##########################
 
+#EXTINF:-1 tvg-id="tntsports.br" tvg-name="TNT SPORTS 1 HD" tvg-logo="https://i.postimg.cc/gJD2NJs9/TNT-SPORTS.png" group-title="CANAIS ABERTOS",TNT SPORTS 1 HD
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19033.ts
+
+#EXTINF:-1 tvg-id="tntsports.br" tvg-name="TNT SPORTS 2 HD" tvg-logo="https://i.postimg.cc/gJD2NJs9/TNT-SPORTS.png" group-title="CANAIS ABERTOS",TNT SPORTS 2 HD
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19034.ts
+
+#EXTINF:-1 tvg-id="tntsports.br" tvg-name="TNT SPORTS 3 HD" tvg-logo="https://i.postimg.cc/gJD2NJs9/TNT-SPORTS.png" group-title="CANAIS ABERTOS",TNT SPORTS 3 HD
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19035.ts
+
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.ts
 
