@@ -37,17 +37,17 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28021.ts
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
-
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.ts
-
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ 2 HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ 2 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27051.ts
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27060.ts
+
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
+
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.ts
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1527745619.m3u8
@@ -439,7 +439,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19076.ts
 # ESPORTES PPV
 ##########################
 
-#EXTINF:-1 tvg-id="tntsports.br" tvg-name="TNT SPORTS 1 HD" tvg-logo="https://i.postimg.cc/gJD2NJs9/TNT-SPORTS.png" group-title="ESPORTES PPV",TNT SPORTS 1 HD
+#EXTINF:-1 tvg-id="tntsports.br" tvg-name="TV GLOBO 1 HD" tvg-logo="https://i.postimg.cc/gJD2NJs9/TNT-SPORTS.png" group-title="ESPORTES PPV",TNT SPORTS 1 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19033.ts
 
 #EXTINF:-1 tvg-id="tntsports.br" tvg-name="TNT SPORTS 2 HD" tvg-logo="https://i.postimg.cc/gJD2NJs9/TNT-SPORTS.png" group-title="ESPORTES PPV",TNT SPORTS 2 HD
