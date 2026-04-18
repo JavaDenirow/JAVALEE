@@ -603,6 +603,9 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id="gallotv.br"tvg-name="GALLO TV HD" tvg-logo="https://i.postimg.cc/02pTXHrD/TV-GALLO.png" group-title="CORTESIA",GALLO TV HD
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tvone.br" tvg-name="TV ONE HD" tvg-logo="https://i.postimg.cc/Jz3Vhc8G/TV-ONE.png" group-title="CORTESIA",TV ONE HD
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="geekdot.br" tvg-name="GEEKDOT HD" tvg-logo="https://i.postimg.cc/m2Qvp6hZ/GEEKDOT.png" group-title="CORTESIA",GEEKDOT HD
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
