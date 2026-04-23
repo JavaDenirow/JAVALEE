@@ -646,44 +646,50 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 ##########################
-# BIG BROTHER BRASIL 2026 
+# PLUTO TV
 ##########################
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 01" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 01
-http://172.110.219.252:80/live/47125065/12264670/4037466.m3u8
+#EXTINF:-1 tvg-id="pluto.cineacao" tvg-name="PLUTO TV CINE AÇÃO" tvg-logo="https://i.postimg.cc/SKgfPdcn/PLUTO-TV-CINE-ACAO.png" group-title="PLUTO TV",PLUTO TV CINE AÇÃO
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 02" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 02
-http://172.110.219.252:80/live/47125065/12264670/4037460.m3u8
+#EXTINF:-1 tvg-id="pluto.cineclassicos" tvg-name="PLUTO TV CINE CLÁSSICOS" tvg-logo="https://i.postimg.cc/mrmynj7t/PLUTO-TV-CINE-CLASSICOS.png" group-title="PLUTO TV",PLUTO TV CINE CLÁSSICOS
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 03" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 03
-http://172.110.219.252:80/live/47125065/12264670/4037464.m3u8
+#EXTINF:-1 tvg-id="pluto.cinedrama" tvg-name="PLUTO TV CINE DRAMA" tvg-logo="https://i.postimg.cc/CKcs27bZ/PLUTO-TV-CINE-DRAMA.png" group-title="PLUTO TV",PLUTO TV CINE DRAMA
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 04" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 04
-http://172.110.219.252:80/live/47125065/12264670/4037462.m3u8
+#EXTINF:-1 tvg-id="pluto.cinefamilia" tvg-name="PLUTO TV CINE FAMÍLIA" tvg-logo="https://i.postimg.cc/1zvrdBDV/PLUTO-TV-CINE-FAMILIA.png" group-title="PLUTO TV",PLUTO TV CINE FAMÍLIA
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 05" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 05
-http://172.110.219.252:80/live/47125065/12264670/4037455.m3u8
+#EXTINF:-1 tvg-id="pluto.cineromance" tvg-name="PLUTO TV CINE ROMANCE" tvg-logo="https://i.postimg.cc/CKcs27bq/PLUTO-TV-CINE-ROMANCE.png" group-title="PLUTO TV",PLUTO TV CINE ROMANCE
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 06" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 06
-http://172.110.219.252:80/live/47125065/12264670/4037457.m3u8
+#EXTINF:-1 tvg-id="pluto.cinesucessos" tvg-name="PLUTO TV CINE SUCESSOS" tvg-logo="https://i.postimg.cc/43WQ0Ppc/PLUTO-TV-CINE-SUCESSOS.png" group-title="PLUTO TV",PLUTO TV CINE SUCESSOS
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 07" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 07
-http://172.110.219.252:80/live/47125065/12264670/4037465.m3u8
+#EXTINF:-1 tvg-id="pluto.cineterror" tvg-name="PLUTO TV CINE TERROR" tvg-logo="https://i.postimg.cc/fb8fPCYX/PLUTO-TV-CINE-TERROR.png" group-title="PLUTO TV",PLUTO TV CINE TERROR
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 08" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 08
-http://172.110.219.252:80/live/47125065/12264670/4037456.m3u8
+#EXTINF:-1 tvg-id="pluto.ficcaocientifica" tvg-name="PLUTO TV FICÇÃO CIENTÍFICA" tvg-logo="https://i.postimg.cc/VNKWhgXn/PLUTO-TV-FICCAO-CIENTIFICA.png" group-title="PLUTO TV",PLUTO TV FICÇÃO CIENTÍFICA
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 09" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 09
-http://172.110.219.252:80/live/47125065/12264670/4037461.m3u8
+#EXTINF:-1 tvg-id="pluto.filmesnacionais" tvg-name="PLUTO TV FILMES NACIONAIS" tvg-logo="https://i.postimg.cc/DzxPN61d/PLUTO-TV-FILMES-NACIONAIS.png" group-title="PLUTO TV",PLUTO TV FILMES NACIONAIS
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 10" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 10
-http://172.110.219.252:80/live/47125065/12264670/4037458.m3u8
+#EXTINF:-1 tvg-id="pluto.investigacao" tvg-name="PLUTO TV INVESTIGAÇÃO" tvg-logo="https://i.postimg.cc/VNKWhgXF/PLUTO-TV-INVESTIGACAO.png" group-title="PLUTO TV",PLUTO TV INVESTIGAÇÃO
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 11" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 11
-http://172.110.219.252:80/live/47125065/12264670/4037459.m3u8
+#EXTINF:-1 tvg-id="pluto.misterios" tvg-name="PLUTO TV MISTÉRIOS" tvg-logo="https://i.postimg.cc/bvm95g1g/PLUTO-TV-MISTERIOS.png" group-title="PLUTO TV",PLUTO TV MISTÉRIOS
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
 
-#EXTINF:-1 tvg-id="bbb.br" tvg-name="BBB 12" tvg-logo="https://i.postimg.cc/1tyPzqQM/BBB.png" group-title="BIG BROTHER BRASIL 2026",BBB 12
-http://172.110.219.252:80/live/47125065/12264670/4037463.m3u8
+#EXTINF:-1 tvg-id="pluto.natureza" tvg-name="PLUTO TV NATUREZA" tvg-logo="https://i.postimg.cc/R0gLYdwG/PLUTO-TV-NATUREZA.png" group-title="PLUTO TV",PLUTO TV NATUREZA
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+
+#EXTINF:-1 tvg-id="pluto.retro" tvg-name="PLUTO TV RETRÔ" tvg-logo="https://i.postimg.cc/W3twcZ7Z/PLUTO-TV-RETRO.png" group-title="PLUTO TV",PLUTO TV RETRÔ
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+
+#EXTINF:-1 tvg-id="pluto.vidareal" tvg-name="PLUTO TV VIDA REAL" tvg-logo="https://i.postimg.cc/9MzYH9BT/PLUTO-TV-VIDA-REAL.png" group-title="PLUTO TV",PLUTO TV VIDA REAL
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 
 ##########################
 # RELIGIOSOS
@@ -784,4 +790,4 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac
 https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
 
 #EXTINF:-1 tvg-id="ondapocos.mg" tvg-name="ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)" tvg-logo="https://i.postimg.cc/cCbNTknH/ONDA%20PO%C3%87OS%20FM.png" group-title="RÁDIOS",ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)
-https://stmv1.transmissaodigital.com/ondapocos/ondapocos/chunklist_w1278587177.m3u8a
+https://stmv1.transmissaodigital.com/ondapocos/ondapocos/chunklist_w1278587177.m3u8
