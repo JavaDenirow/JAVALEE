@@ -37,10 +37,10 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28021.ts
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ 2 HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27051.ts
+http://46.151.196.223:14202
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27060.ts
+http://46.151.196.223:14211
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
@@ -85,7 +85,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="CANAIS ABERTOS"",AGRO+
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17049.ts
+http://46.151.196.223:14075
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.ts
@@ -101,7 +101,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17045.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12057.ts
 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23003.ts
+http://46.151.196.223:14360
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.ts
@@ -113,10 +113,10 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12048.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12012.ts
 
 #EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E!" tvg-logo="https://i.postimg.cc/TwQx5325/E.png" group-title="VARIEDADES",E!
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12018.ts
+http://46.151.196.223:14385
 
 #EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/gjJWVbrL/FISH%20TV.png" group-title="VARIEDADES",FISH TV
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12021.ts
+http://46.151.196.223:14478
 
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/3NRTXQWm/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12024.ts
@@ -159,7 +159,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13006.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13009.ts
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23006.ts
+http://46.151.196.223:14378
 
 #EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13057.ts
@@ -195,25 +195,25 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13015.ts
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13027.ts
+http://46.151.196.223:14607
 
 #EXTINF:-1 tvg-id="sonymovies.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY%20MOVIES.png" group-title="FILMES",SONY MOVIES HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.ts
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13048.ts
+http://46.151.196.223:14613
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13054.ts
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15012.ts
+http://46.151.196.223:14349
 
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15000.ts
+http://46.151.196.223:14327
 
 #EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15009.ts
+http://46.151.196.223:14343
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15006.ts
@@ -222,7 +222,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15006.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15015.ts
 
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15003.ts
+http://46.151.196.223:14334
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13039.ts
@@ -343,7 +343,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13042.ts
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13046.ts
+http://46.151.196.223:14650
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13033.ts
@@ -352,7 +352,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13033.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12030.ts
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13021.ts
+http://46.151.196.223:14603
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13051.ts
@@ -365,28 +365,28 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13051.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19000.ts
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19006.ts
+http://46.151.196.223:14468
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22000.ts
+http://46.151.196.223:14366
 
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJ4pL2ch/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22003.ts
+http://46.151.196.223:14438
 
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/xCgQN1jM/ESPN%203.png" group-title="ESPORTES",ESPN 3 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22006.ts
+http://46.151.196.223:14443
 
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/Y987LC2Q/ESPN%204.png" group-title="ESPORTES",ESPN 4 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22009.ts
+http://46.151.196.223:14448
 
 #EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/G2zRTm3k/ESPN%205.png" group-title="ESPORTES",ESPN 5 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22012.ts
+http://46.151.196.223:14454
 
 #EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22015.ts
+http://46.151.196.223:14460
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
+http://46.151.196.223:14284
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21004.ts
@@ -398,7 +398,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19009.ts
 
 #EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19064.ts
+http://46.151.196.223:14152
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19024.ts
@@ -426,13 +426,13 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
 ##########################
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20000.ts
+http://46.151.196.223:14588
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20003.ts
+http://46.151.196.223:14196
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20006.ts
+http://46.151.196.223:14197
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20009.ts
@@ -485,19 +485,19 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19034.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19035.ts
 
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19068.ts
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19069.ts
 
 #EXTINF:-1 tvg-id="canalgoat.br" tvg-name="CANAL GOAT HD" tvg-logo="https://i.postimg.cc/fLMZb9NF/CANAL-GOAT.png" group-title="ESPORTES PPV",CANAL GOAT HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19080.ts
+http://46.151.196.223:14401
 
 #EXTINF:-1 tvg-id="primevideo.br" tvg-name="PRIME VÍDEO 1 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 1 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19021.ts
+http://46.151.196.223:14132
 
 #EXTINF:-1 tvg-id="primevideo2.br" tvg-name="PRIME VÍDEO 2 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19022.ts
+http://46.151.196.223:14134
 
 #EXTINF:-1 tvg-id="primevideo3.br" tvg-name="PRIME VÍDEO 3 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 3 HD
 http://eassycd.com:80/live/Dbdjsk/leo334/601978.m3u8
@@ -519,7 +519,7 @@ https://pop.uniquetv.com.br/uniquesports1/video.m3u8
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23000.ts
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23009.ts
+http://46.151.196.223:14074
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12012.ts
