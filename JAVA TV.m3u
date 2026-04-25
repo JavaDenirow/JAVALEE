@@ -362,7 +362,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13051.ts
 ##########################
 
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19000.ts
+http://46.151.196.223:14124
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
 http://46.151.196.223:14468
@@ -597,10 +597,10 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 ##########################
 
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.postimg.cc/Hnxgw1j0/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25006.ts
+http://46.151.196.223:14092
 
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.postimg.cc/yNmsBTwm/BAND-NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25001.ts
+http://46.151.196.223:14078
 
 #EXTINF:-1 tvg-id="sbtnews.br" tvg-name="SBT NEWS HD" tvg-logo="https://i.postimg.cc/L6JShScR/SBT%20NEWS.png" group-title="NOTÍCIAS",SBT NEWS HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25022.ts
@@ -609,16 +609,16 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25022.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25018.ts
 
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.postimg.cc/PxKHv5Xg/CNN-BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25003.ts
+http://46.151.196.223:14085
 
 #EXTINF:-1 tvg-id="cnnmoney.br" tvg-name="CNN MONEY HD" tvg-logo="https://i.postimg.cc/mDV41gZW/CNN-MONEY.png" group-title="NOTÍCIAS",CNN MONEY HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25015.ts
 
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/gkxprpf1/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25013.ts
+http://46.151.196.223:14099
 
 #EXTINF:-1 tvg-id="jpnews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.postimg.cc/1XjZM7Nb/JP%20NEWS.png" group-title="NOTÍCIAS",JOVEM PAN NEWS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25009.ts
+http://46.151.196.223:14105
 
 ##########################
 # CORTESIA
