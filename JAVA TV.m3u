@@ -608,17 +608,38 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25022.ts
 #EXTINF:-1 tvg-id="timesbrasilcnbc.br" tvg-name="TIMES BRASIL (CNBC) HD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="NOTÍCIAS",TIMES BRASIL (CNBC) HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25018.ts
 
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.postimg.cc/PxKHv5Xg/CNN-BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
-http://46.151.196.223:14085
-
-#EXTINF:-1 tvg-id="cnnmoney.br" tvg-name="CNN MONEY HD" tvg-logo="https://i.postimg.cc/mDV41gZW/CNN-MONEY.png" group-title="NOTÍCIAS",CNN MONEY HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25015.ts
-
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/gkxprpf1/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD
 http://46.151.196.223:14099
 
 #EXTINF:-1 tvg-id="jpnews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.postimg.cc/1XjZM7Nb/JP%20NEWS.png" group-title="NOTÍCIAS",JOVEM PAN NEWS HD
 http://46.151.196.223:14105
+
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.postimg.cc/PxKHv5Xg/CNN-BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
+http://46.151.196.223:14085
+
+#EXTINF:-1 tvg-id="cnn.espanol" tvg-name="CNN ESPANHOL" tvg-logo="https://i.postimg.cc/1tXhj1J1/CNN-ESPANHOL.png" group-title="NOTÍCIAS",CNN ESPANHOL
+http://46.151.196.223:14112
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.postimg.cc/LX5KbFNK/CNN-INTERNACIONAL.png" group-title="NOTÍCIAS",CNN INTERNACIONAL
+http://46.151.196.223:14113
+
+#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 MONDE" tvg-logo="https://i.postimg.cc/DZ60qh0p/TV5-MONDE.png" group-title="NOTÍCIAS",TV5 MONDE
+http://46.151.196.223:14114
+
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC PORTUGAL" tvg-logo="https://i.postimg.cc/SsdRW4Rg/TV-SIC.png" group-title="NOTÍCIAS",SIC PORTUGAL
+http://46.151.196.223:14115
+
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="RAI ITÁLIA" tvg-logo="https://i.postimg.cc/DZ60qh05/RAI-ITALIA.png" group-title="NOTÍCIAS",RAI ITÁLIA
+http://46.151.196.223:14117
+
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FRANCE 24H" tvg-logo="https://i.postimg.cc/RFdhcmhT/FRANCE-24H.png" group-title="NOTÍCIAS",FRANCE 24H
+http://46.151.196.223:14119
+
+#EXTINF:-1 tvg-id="dw" tvg-name="DW ALEMANHA" tvg-logo="https://i.postimg.cc/SsdRW4RD/TV-DW.png" group-title="NOTÍCIAS",DW ALEMANHA
+http://46.151.196.223:14121
+
+#EXTINF:-1 tvg-id="cnnmoney.br" tvg-name="CNN MONEY HD" tvg-logo="https://i.postimg.cc/mDV41gZW/CNN-MONEY.png" group-title="NOTÍCIAS",CNN MONEY HD
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25015.ts
 
 ##########################
 # CORTESIA
