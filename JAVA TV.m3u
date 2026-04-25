@@ -150,7 +150,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12063.ts
 ##########################
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/KYSxdWsk/AMC.png" group-title="FILMES",AMC HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
+http://46.151.196.223:14636
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13006.ts
@@ -352,7 +352,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13033.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12030.ts
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
-http://46.151.196.223:14603
+http://46.151.196.223:14604
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13051.ts
@@ -553,7 +553,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17006.ts
 ##########################
 
 #EXTINF:-1 tvg-id="multishowhd.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.postimg.cc/MHF8t3Qx/MULTI%20SHOW.png" group-title="ENTRETENIMENTO"",MULTISHOW HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12045.ts
+http://46.151.196.223:14043
 
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/xC9Ydz2x/BIS.png" group-title="ENTRETENIMENTO",BIS HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12003.ts
