@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
-##########################
+##########################https://i.postimg.cc/x1zyVjFF/UM-MALUCO-NO-PEDACO.png
 # CANAIS ABERTOS
 ##########################
 
@@ -240,7 +240,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38004.ts
 #EXTINF:-1 tvg-id="maluco24h" tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="https://i.postimg.cc/x1zyVjFF/UM-MALUCO-NO-PEDACO.png" group-title="FILMES E SÉRIES 24H",UM MALUCO NO PEDAÇO 24H
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38008.ts
 
-#EXTINF:-1 tvg-id="largadosepelados24h" tvg-name="LARGADOS E PELADOS 24H" tvg-logo="https://i.postimg.cc/x1zyVjFF/UM-MALUCO-NO-PEDACO.png" group-title="FILMES E SÉRIES 24H",LARGADOS E PELADOS 24H"
+#EXTINF:-1 tvg-id="largadosepelados24h" tvg-name="LARGADOS E PELADOS 24H" tvg-logo="https://i.postimg.cc/J4cj4sbP/LARGADOS-E-PELADOS.png" group-title="FILMES E SÉRIES 24H",LARGADOS E PELADOS 24H"
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38013.ts
 
 #EXTINF:-1 tvg-id="lancamentos24h" tvg-name="FILMES LANÇAMENTOS 24H" tvg-logo="https://i.postimg.cc/Bv9jRDpn/FILMES-24H-LANCAMENTOS.png" group-title="FILMES E SÉRIES 24H",FILMES LANÇAMENTOS 24H
