@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
-##########################https://i.postimg.cc/x1zyVjFF/UM-MALUCO-NO-PEDACO.png
+##########################
 # CANAIS ABERTOS
 ##########################
 
@@ -65,7 +65,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/55.m3u8
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="	TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17003.ts
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w938629533.m3u8
@@ -92,7 +92,7 @@ http://46.151.196.223:14075
 http://tjtor8411.com:80/Thiagoramalho/210122Gad/103516.ts
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17045.ts
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 ##########################
 # VARIEDADES
@@ -105,10 +105,10 @@ http://tjtor8411.com:80/Thiagoramalho/210122Gad/251957.ts
 http://46.151.196.223:14360
 
 #EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="VARIEDADES",CANAL OFF HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12048.ts
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/859
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12012.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/71868.ts
 
 #EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E!" tvg-logo="https://i.postimg.cc/TwQx5325/E.png" group-title="VARIEDADES",E!
 http://46.151.196.223:14385
@@ -117,31 +117,31 @@ http://46.151.196.223:14385
 http://46.151.196.223:14478
 
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/3NRTXQWm/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12024.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36919.ts
 
 #EXTINF:-1 tvg-id="globoplaynovelas.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://i.postimg.cc/2y6DQN3x/GLOBO%20PLAY%20NOVELAS.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12060.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36931.ts
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/8c0VwXrt/HGTV.png" group-title="VARIEDADES",HGTV HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23024.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36924.ts
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/D0ZTr3mB/GNT.png" group-title="VARIEDADES",GNT HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12027.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36967.ts
 
 #EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.postimg.cc/VvVc4ZCQ/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12033.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/954355.ts
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12051.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37036.ts
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13036.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36940.ts
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12039.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72386.ts
 
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/Pqjn6wPx/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12063.ts
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/129
 
 ##########################
 # FILMES
@@ -160,7 +160,7 @@ http://tjtor8411.com:80/Thiagoramalho/210122Gad/90643.ts
 http://46.151.196.223:14378
 
 #EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13057.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/104914.ts
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14000.ts
@@ -181,7 +181,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14012.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14015.ts
 
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/gjJWVbrQ/HBO%20SIGNATURE.png" group-title="FILMES",HBO SIGNATURE HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14018.ts
+http://46.151.196.223:14929
 
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.postimg.cc/Bb60Tftd/HBO%20XTREME.png" group-title="FILMES",HBO XTREME HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14021.ts
@@ -232,26 +232,47 @@ http://tjtor8411.com:80/Thiagoramalho/210122Gad/137623.ts
 #EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S02]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S02]
 http://tjtor8411.com:80/Thiagoramalho/210122Gad/137624.ts
 
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S03]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S03]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137625.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S04]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S04]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137626.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S05]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S05]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137627.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S06]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S06]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137628.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S07]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S07]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137629.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S08]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S08]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137630.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S09]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S09]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137631.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S10]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S10]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137632.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S11]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S11]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137633.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S11]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S11]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137634.ts
+
 #EXTINF:-1 tvg-id="maluco24h" tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="https://i.postimg.cc/x1zyVjFF/UM-MALUCO-NO-PEDACO.png" group-title="FILMES E SÉRIES 24H",UM MALUCO NO PEDAÇO 24H
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38008.ts
+http://46.151.196.223:14925
 
 #EXTINF:-1 tvg-id="largadosepelados24h" tvg-name="LARGADOS E PELADOS 24H" tvg-logo="https://i.postimg.cc/J4cj4sbP/LARGADOS-E-PELADOS.png" group-title="FILMES E SÉRIES 24H",LARGADOS E PELADOS 24H"
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38013.ts
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96683
 
-#EXTINF:-1 tvg-id="lancamentos24h" tvg-name="FILMES LANÇAMENTOS 24H" tvg-logo="https://i.postimg.cc/Bv9jRDpn/FILMES-24H-LANCAMENTOS.png" group-title="FILMES E SÉRIES 24H",FILMES LANÇAMENTOS 24H
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38034.ts
-
-#EXTINF:-1 tvg-id="acao24h" tvg-name="FILMES AÇÃO 24H" tvg-logo="https://i.postimg.cc/HsV7fTwL/FILMES-24H-ACAO.png" group-title="FILMES E SÉRIES 24H",FILMES AÇÃO 24H
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38028.ts
-
-#EXTINF:-1 tvg-id="comedia24h" tvg-name="FILMES COMÉDIA 24H" tvg-logo="https://i.postimg.cc/YSKvTgRS/FIMES-24H-COMEDIA.png" group-title="FILMES E SÉRIES 24H",FILMES COMÉDIA 24H
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38030.ts
-
-#EXTINF:-1 tvg-id="icarly24h" tvg-name="ICARLY REVIVA 24H" tvg-logo="https://i.postimg.cc/VvVc4Zbh/ICARLY.png" group-title="FILMES E SÉRIES 24H",ICARLY REVIVAL 24H
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38009.ts
+#EXTINF:-1 tvg-id="icarly24h" tvg-name="ICARLY REVIVAL 24H" tvg-logo="https://i.postimg.cc/VvVc4Zbh/ICARLY.png" group-title="FILMES E SÉRIES 24H",ICARLY REVIVAL 24H
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96675
 
 #EXTINF:-1 tvg-id="chaves24h" tvg-name="CHAVES 24H" tvg-logo="https://i.postimg.cc/pTPxdFvV/CHAVES-24-H.png" group-title="FILMES E SÉRIES 24H"CHAVES 24H
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38001.ts
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96617
 
 ##########################
 # JAVA FILMES 
@@ -289,40 +310,6 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/648941.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="RESGATE SEM LIMITES" tvg-logo="http://gstaticontent.com/images/es8LNVHb9S91T4OHBN57nv24fFu_big.jpg" group-title="JAVA FILMES",RESGATE SEM LIMITES
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
-
-##########################
-# CINE SKY
-##########################
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 01" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 01
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16000.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 02" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 02
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16001.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 03" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 03
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16002.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 04" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 04
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16003.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 05" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 05
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16004.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 06" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 06
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16005.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 07" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 07
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16006.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 08" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 08
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16007.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 09" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 09
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16008.ts
-
-#EXTINF:-1 tvg-id="cinesky.br" tvg-name="CINE SKY 10" tvg-logo="https://i.postimg.cc/V6z1NCwY/CINE-SKY.png" group-title="CINE SKY",CINE SKY 10
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16009.ts
 
 ##########################
 # SÉRIES
