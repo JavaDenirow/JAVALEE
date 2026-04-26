@@ -16,20 +16,20 @@ http://tjtor8411.com:80/Thiagoramalho/210122Gad/131200.ts
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
 http://tjtor8411.com:80/Thiagoramalho/210122Gad/72067.ts
 
-#EXTINF:-1 tvg-id="globo.br" tvg-name="TV INTEGRAÇÃO SD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO SD - JUIZ DE FORA 
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18244.ts
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73069.ts
 
 #EXTINF:-1 tvg-id="globo.br" tvg-name="TV RIO SUL HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV%20RIO%20SUL.png" group-title="CANAIS ABERTOS",TV RIO SUL HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1.m3u8
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
+#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28015.ts
+#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ 2 HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ 2 HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/307
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND RJ HD 3" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 3
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.ts?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQxYjFmZGQwLTc1MWUtNGUxOS05OTQxLTYzZWZmMzU4ZjI4NiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3Mzc2MDgxMywibmJmIjoxNzczNzYwODEzLCJleHAiOjE3NzYzNTI4MTMsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6ImQxYjFmZGQwLTc1MWUtNGUxOS05OTQxLTYzZWZmMzU4ZjI4NiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.yEMsf3gmFOkhaToooQL-HuyjAlj89DBaeAer4mkTb54&uid=d1b1fdd0-751e-4e19-9941-63eff358f286&magica=sim
+#EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
+http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/310
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
 http://tjtor8411.com:80/Thiagoramalho/210122Gad/104943.ts
