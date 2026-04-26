@@ -5,19 +5,20 @@
 ##########################
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18021.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72025.ts
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18024.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72040.ts
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18015.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/131200.ts
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18243.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72067.ts
 
-#EXTINF:-1 tvg-id="globo.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
+#EXTINF:-1 tvg-id="globo.br" tvg-name="TV INTEGRAÇÃO SD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO SD - JUIZ DE FORA 
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18244.ts
+
 #EXTINF:-1 tvg-id="globo.br" tvg-name="TV RIO SUL HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV%20RIO%20SUL.png" group-title="CANAIS ABERTOS",TV RIO SUL HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1.m3u8
 
@@ -31,7 +32,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28015.ts
 https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.ts?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQxYjFmZGQwLTc1MWUtNGUxOS05OTQxLTYzZWZmMzU4ZjI4NiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3Mzc2MDgxMywibmJmIjoxNzczNzYwODEzLCJleHAiOjE3NzYzNTI4MTMsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6ImQxYjFmZGQwLTc1MWUtNGUxOS05OTQxLTYzZWZmMzU4ZjI4NiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.yEMsf3gmFOkhaToooQL-HuyjAlj89DBaeAer4mkTb54&uid=d1b1fdd0-751e-4e19-9941-63eff358f286&magica=sim
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28021.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/104943.ts
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
@@ -46,7 +47,7 @@ http://46.151.196.223:14211
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/104939.ts
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1527745619.m3u8
@@ -55,7 +56,7 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SP HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV SP HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17036.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/178532.ts
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/55.m3u8
@@ -73,7 +74,7 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w938629533.m3u8
 https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17048.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/178520.ts
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
@@ -88,7 +89,7 @@ https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
 http://46.151.196.223:14075
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/103516.ts
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17045.ts
@@ -98,13 +99,10 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17045.ts
 ##########################
 
 #EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12057.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/251957.ts
 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
 http://46.151.196.223:14360
-
-#EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="VARIEDADES",CANAL DO BOI
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17042.ts
 
 #EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="VARIEDADES",CANAL OFF HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12048.ts
@@ -153,10 +151,10 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12063.ts
 http://46.151.196.223:14636
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13006.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/71816.ts
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13009.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/90643.ts
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://46.151.196.223:14378
@@ -189,16 +187,13 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14018.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14021.ts
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13015.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72166.ts
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
 http://46.151.196.223:14607
-
-#EXTINF:-1 tvg-id="sonymovies.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY%20MOVIES.png" group-title="FILMES",SONY MOVIES HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.ts
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
 http://46.151.196.223:14613
@@ -216,26 +211,26 @@ http://46.151.196.223:14327
 http://46.151.196.223:14343
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15006.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72354.ts
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15015.ts
+http://46.151.196.223:14359
 
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
 http://46.151.196.223:14334
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13039.ts
-
-#EXTINF:-1 tvg-id="sonymovies.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY%20MOVIES.png" group-title="FILMES",SONY MOVIES HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72375.ts
 
 ##########################
 # FILMES E SÉRIES 24H
 ##########################
 
-#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38004.ts
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S01]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S01]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137623.ts
+
+#EXTINF:-1 tvg-id="2homensemeio24hr" tvg-name="DOIS HOMENS E MEIO 24H [S02]" tvg-logo="https://i.postimg.cc/0QZvKy5w/DOIS-HOMENS-E-MEIO.png" group-title="FILMES E SÉRIES 24H",DOIS HOMENS E MEIO 24H [S02]
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/137624.ts
 
 #EXTINF:-1 tvg-id="maluco24h" tvg-name="UM MALUCO NO PEDAÇO 24H" tvg-logo="https://i.postimg.cc/x1zyVjFF/UM-MALUCO-NO-PEDACO.png" group-title="FILMES E SÉRIES 24H",UM MALUCO NO PEDAÇO 24H
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38008.ts
@@ -334,28 +329,28 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16009.ts
 ##########################
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12000.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/71760.ts
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/71781.ts
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/25NN03Yv/LOGO-TNT-S-RIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13042.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72381.ts
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
 http://46.151.196.223:14650
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13033.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72338.ts
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/12030.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72154.ts
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
 http://46.151.196.223:14604
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13051.ts
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72431.ts
 
 ##########################
 # ESPORTES
