@@ -5,16 +5,16 @@
 ##########################
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/globorj.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/globorj.m3u8
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/globosp.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/globosp.m3u8
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/globomg.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/globomg.m3u8
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/410
+http://tjtor8411.com:80/Thiagoramalho/210122Gad/72068.ts
 
 #EXTINF:-1 tvg-id="globo.br" tvg-name="TV RIO SUL HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV%20RIO%20SUL.png" group-title="CANAIS ABERTOS",TV RIO SUL HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1.m3u8
@@ -23,13 +23,13 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1.m3u8
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ 2 HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ 2 HD
-https://8fde6352d6f359c31bcbedb0d918bf01.cloudfronte.lat/zzzstream/bandrj.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/bandrj.m3u8
 
 #EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
-https://8fde6352d6f359c31bcbedb0d918bf01.cloudfronte.lat/zzzstream/bandmg.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/bandmg.m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-https://8fde6352d6f359c31bcbedb0d918bf01.cloudfronte.lat/zzzstream/band.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/band.m3u8
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
@@ -40,11 +40,11 @@ http://46.151.196.223:14202
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 http://46.151.196.223:14211
 
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/sbtsp.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sbtsp.m3u8
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1527745619.m3u8
@@ -52,14 +52,14 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SP HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV SP HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/69
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36946.ts
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/55.m3u8
 
 #EXTINF:-1 tvg-id="ISTVHD.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
-https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w787815953.m3u8
 
 #EXTINF:-1 tvg-id="	TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
@@ -71,7 +71,7 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w938629533.m3u8
 https://5a1c76baf08c0.streamlock.net/tbc/tbc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/tvgazeta.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tvgazeta.m3u8
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
@@ -86,7 +86,7 @@ https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
 http://46.151.196.223:14075
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/456
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68528.ts
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -96,16 +96,16 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 ##########################
 
 #EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/adultswim.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/adultswim.m3u8
 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
 http://46.151.196.223:14360
 
 #EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="VARIEDADES",CANAL OFF HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/off.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/off.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
-https://8fde6352d6f359c31bcbedb0d918bf01.cloudfronte.lat/zzzstream/discoveryhh.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/discoveryhh.m3u8
 
 #EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E!" tvg-logo="https://i.postimg.cc/TwQx5325/E.png" group-title="VARIEDADES",E!
 http://46.151.196.223:14385
@@ -114,31 +114,31 @@ http://46.151.196.223:14385
 http://46.151.196.223:14478
 
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/3NRTXQWm/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD
-https://8fde6352d6f359c31bcbedb0d918bf01.cloudfronte.lat/zzzstream/foodnetwork.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/foodnetwork.m3u8
 
 #EXTINF:-1 tvg-id="globoplaynovelas.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://i.postimg.cc/2y6DQN3x/GLOBO%20PLAY%20NOVELAS.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/globonovelas.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/globonovelas.m3u8
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/8c0VwXrt/HGTV.png" group-title="VARIEDADES",HGTV HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/hgtv.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hgtv.m3u8
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/D0ZTr3mB/GNT.png" group-title="VARIEDADES",GNT HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/gnt.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/gnt.m3u8
 
 #EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.postimg.cc/VvVc4ZCQ/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/85999
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/104056.ts
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
-https://npmuf25xa04so8hp29.cloudfronte.lat/zzzstream/tlc.m3u8
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tlc.m3u8
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/856
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tntnovelas.m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/428888
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73329.ts
 
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/Pqjn6wPx/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD
-http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/129
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37025.ts
 
 ##########################
 # FILMES
@@ -148,55 +148,55 @@ http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/129
 http://46.151.196.223:14636
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/218
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/canalbrasil.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
-http://tjtor8411.com:80/Thiagoramalho/210122Gad/90643.ts
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/cinemax.m3u8
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://46.151.196.223:14378
 
 #EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
-http://tjtor8411.com:80/Thiagoramalho/210122Gad/104914.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68536.ts
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/792
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hbo.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/ZnRS8z07/HBO%202.png" group-title="FILMES",HBO 2 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/254
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hbo2.m3u8
 
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/7h6k3rbt/HBO%20FAMILY.png" group-title="FILMES",HBO FAMILY HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/795
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hbofamily.m3u8
 
 #EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.postimg.cc/mkDsYWh5/HBO%20MUNDI.png" group-title="FILMES",HBO MUNDI HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/797
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hbomundi.m3u8
 
 #EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/qqRTsHgY/HBO%20PLUS.png" group-title="FILMES",HBO PLUS HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/794
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hboplus.m3u8
 
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://i.postimg.cc/Hnxgw1jF/HBO%20POP.png" group-title="FILMES",HBO POP HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/799
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hbopop.m3u8
 
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/gjJWVbrQ/HBO%20SIGNATURE.png" group-title="FILMES",HBO SIGNATURE HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/796
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hbosignature.m3u8
 
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.postimg.cc/Bb60Tftd/HBO%20XTREME.png" group-title="FILMES",HBO XTREME HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/798
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hboxtreme.m3u8
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/843
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/megapix.m3u8
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/846
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/space.m3u8
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/847
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/studiouniversal.m3u8
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/877
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tcm.m3u8
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://46.151.196.223:14349
@@ -208,7 +208,7 @@ http://46.151.196.223:14327
 http://46.151.196.223:14343
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/790
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/telecinefun.m3u8
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
 http://46.151.196.223:14359
@@ -217,7 +217,7 @@ http://46.151.196.223:14359
 http://46.151.196.223:14334
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/785
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tnt.m3u8
 
 ##########################
 # FILMES E SÉRIES 24H
@@ -313,16 +313,16 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
 ##########################
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/851
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/ae.m3u8
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/835
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/axn.m3u8
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/25NN03Yv/LOGO-TNT-S-RIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/849
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tntseries.m3u8
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/90
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/universaltv.m3u8
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
 http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/857
@@ -331,10 +331,10 @@ http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/857
 http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/801
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/219
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sonychannel.m3u8
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/850
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/warnerchannel.m3u8
 
 ##########################
 # ESPORTES
@@ -368,19 +368,19 @@ http://46.151.196.223:14460
 http://46.151.196.223:14284
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/777
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/778
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sportv3.m3u8
 
 #EXTINF:-1 tvg-id="ge.br" tvg-name="GETV HD" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19009.ts
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/getv.m3u8
 
 #EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
 http://46.151.196.223:14152
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546884
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/warnerchannel.m3u8
 
 #EXTINF:-1 tvg-id="sportynet2.br" tvg-name="SPORTY NET 2 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 2 HD
 http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546885
@@ -392,7 +392,7 @@ http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546886
 http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/546887
 
 #EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/538625
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/xsports.m3u8
 
 #EXTINF:-1 tvg-id="redbulltv.br" tvg-name="REDBULL TV HD" tvg-logo="https://i.postimg.cc/4NYGnGDk/REDBULL%20TV.png" group-title="ESPORTES",REDBULL TV HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46.m3u8
@@ -414,19 +414,19 @@ http://46.151.196.223:14196
 http://46.151.196.223:14197
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/813
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/premiere4.m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/812
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/premiere5.m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/811
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/premiere6.m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/810
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/premiere7.m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20021.ts
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/premiere8.m3u8
 
 ##########################
 # PARAMOUNT PLUS
@@ -467,7 +467,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19035.ts
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/90527
+http://46.151.196.223:14125
 
 #EXTINF:-1 tvg-id="canalgoat.br" tvg-name="CANAL GOAT HD" tvg-logo="https://i.postimg.cc/fLMZb9NF/CANAL-GOAT.png" group-title="ESPORTES PPV",CANAL GOAT HD
 http://46.151.196.223:14401
@@ -495,31 +495,31 @@ https://pop.uniquetv.com.br/uniquesports1/video.m3u8
 ##########################
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/804
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/animalplanet.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
 http://46.151.196.223:14074
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/807
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/discoveryhh.m3u8
 
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.postimg.cc/BbVGN71w/HISTORY.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/45
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/history.m3u8
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/44
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/history2.m3u8
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/819
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/discoveryid.m3u8
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/820
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/discoveryscience.m3u8
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/818
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/discoveryturbo.m3u8
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/821
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/discoveryt.m3u8
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
 http://aguasdecoco.cdnxjp.space:80/boiananias/017988012719/802
