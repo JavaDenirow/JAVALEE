@@ -1363,7 +1363,7 @@ http://46.151.196.223:14092
 http://46.151.196.223:14078
 
 #EXTINF:-1 tvg-id="sbtnews.br" tvg-name="SBT NEWS HD" tvg-logo="https://i.postimg.cc/L6JShScR/SBT%20NEWS.png" group-title="NOTÍCIAS",SBT NEWS HD
-https://dai.google.com/linear/hls/pa/event/1XSOdtQ0SH2G8OEmEfGgjQ/stream/e0141de2-fcc3-44dc-8620-214c0ba3829c:SCL2/master.m3u8
+https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-id="timesbrasilcnbc.br" tvg-name="TIMES BRASIL (CNBC) HD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="NOTÍCIAS",TIMES BRASIL (CNBC) HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25018.ts
@@ -3156,6 +3156,13 @@ https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 
 #EXTINF:-1 tvg-id="evangelizar.br" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://i.postimg.cc/8Ph2Xnsd/TV-PAI-ETERNO.png" group-title="RELIGIOSOS",TV EVANGELIZAR HD
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+
+##########################
+# ADULTOS
+##########################
+
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="ADULTOS",SEXY HOT HD
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sexyhot.m3u8
 
 ##########################
 # RÁDIOS
