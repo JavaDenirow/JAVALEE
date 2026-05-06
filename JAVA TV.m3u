@@ -8,108 +8,108 @@
 http://46.151.196.223:14707
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-http://12.proximidade112.top:80/123456/654321/153465.ts
+http://12.proximidade112.top:80/123456/654321/153465..m3u8
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
 http://46.151.196.223:14614
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-http://12.proximidade112.top:80/123456/654321/153459.ts
+http://12.proximidade112.top:80/123456/654321/153459..m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://46.151.196.223:14861
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
-http://12.proximidade112.top:80/123456/654321/153573.ts
+http://12.proximidade112.top:80/123456/654321/153573..m3u8
 
 #EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
-http://12.proximidade112.top:80/123456/654321/127447.ts
+http://12.proximidade112.top:80/123456/654321/127447..m3u8
 
 #EXTINF:-1 tvg-id="bandrio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="bandmg.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
-http://12.proximidade112.top:80/123456/654321/127441.ts
+http://12.proximidade112.top:80/123456/654321/127441..m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://12.proximidade112.top:80/123456/654321/127454.ts
+http://12.proximidade112.top:80/123456/654321/127454..m3u8
 
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-http://12.proximidade112.top:80/123456/654321/127578.ts
+http://12.proximidade112.top:80/123456/654321/127578..m3u8
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://12.proximidade112.top:80/123456/654321/127589.ts
+http://12.proximidade112.top:80/123456/654321/127589..m3u8
 
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
-http://12.proximidade112.top:80/123456/654321/127307.ts
+http://12.proximidade112.top:80/123456/654321/127307..m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://12.proximidade112.top:80/123456/654321/127313.ts
+http://12.proximidade112.top:80/123456/654321/127313..m3u8
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
-http://12.proximidade112.top:80/123456/654321/127152.ts
+http://12.proximidade112.top:80/123456/654321/127152..m3u8
 
 #EXTINF:-1 tvg-id="redetvrj.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
-http://12.proximidade112.top:80/123456/654321/127154.ts
+http://12.proximidade112.top:80/123456/654321/127154..m3u8
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
-http://12.proximidade112.top:80/123456/654321/127171.ts
+http://12.proximidade112.top:80/123456/654321/127171..m3u8
 
 #EXTINF:-1 tvg-id="istv.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
-http://12.proximidade112.top:80/123456/654321/250247.ts
+http://12.proximidade112.top:80/123456/654321/250247..m3u8
 
 #EXTINF:-1 tvg-id="redeminas.br" tvg-name="REDE MINAS HD" tvg-logo="https://i.postimg.cc/GhkWgS9B/REDE-MINAS.png" group-title="CANAIS ABERTOS",REDEMINAS HD
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w1203677817_b2771072.m3u8
 
 #EXTINF:-1 tvg-id="	TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-http://12.proximidade112.top:80/123456/654321/151481.ts
+http://12.proximidade112.top:80/123456/654321/151481..m3u8
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
-http://12.proximidade112.top:80/123456/654321/127140.ts
+http://12.proximidade112.top:80/123456/654321/127140..m3u8
 
 #EXTINF:-1 tvg-id="tbc.goias" tvg-name="TV BRASIL CENTRAL TBC HD" tvg-logo="https://i.postimg.cc/RhG3Qhvy/TBC-LOGO.png" group-title="CANAIS ABERTOS",TV BRASIL CENTRAL TBC HD
-http://12.proximidade112.top:80/123456/654321/4035537.ts
+http://12.proximidade112.top:80/123456/654321/4035537..m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-http://12.proximidade112.top:80/123456/654321/127179.ts
+http://12.proximidade112.top:80/123456/654321/127179..m3u8
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
-http://12.proximidade112.top:80/123456/654321/4035491.ts
+http://12.proximidade112.top:80/123456/654321/4035491..m3u8
 
 #EXTINF:-1 tvg-id="amazonsat.br" tvg-name="AMAZON SAT HD" tvg-logo="https://i.postimg.cc/bvcpK5Fs/AMAZON-SAT.png" group-title="CANAIS ABERTOS",AMAZON SAT HD
-http://12.proximidade112.top:80/123456/654321/151382.ts
+http://12.proximidade112.top:80/123456/654321/151382..m3u8
 
 #EXTINF:-1 tvg-id="tvpocos.br" tvg-name="TV POÇOS HD" tvg-logo="https://i.postimg.cc/K8t2dVgq/TV-POCOS.png" group-title="CANAIS ABERTOS",TV POÇOS HD
 https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="CANAIS ABERTOS"",AGRO+
-http://12.proximidade112.top:80/123456/654321/127134.ts
+http://12.proximidade112.top:80/123456/654321/127134..m3u8
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
-http://12.proximidade112.top:80/123456/654321/127138.ts
+http://12.proximidade112.top:80/123456/654321/127138..m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
-http://12.proximidade112.top:80/123456/654321/127173.ts
+http://12.proximidade112.top:80/123456/654321/127173..m3u8
 
 
 ##########################
 # ESPORTES
 ##########################
 
-EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
-http://12.proximidade112.top:80/123456/654321/152884.ts
+EXTINF:-1 tvg-id="bandspor.m3u8.br" tvg-name="BAND SPOR.m3u8 HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPOR.m3u8.png" group-title="ESPORTES",BAND SPOR.m3u8 HD
+http://12.proximidade112.top:80/123456/654321/152884..m3u8
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
 http://46.151.196.223:14468
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
-http://12.proximidade112.top:80/123456/654321/122904.ts
+http://12.proximidade112.top:80/123456/654321/122904..m3u8
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
 http://46.151.196.223:14366
@@ -118,91 +118,91 @@ http://46.151.196.223:14366
 http://46.151.196.223:14366
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
-http://12.proximidade112.top:80/123456/654321/108858.ts
+http://12.proximidade112.top:80/123456/654321/108858..m3u8
 
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJ4pL2ch/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD
 http://46.151.196.223:14438
 
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJ4pL2ch/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD
-http://12.proximidade112.top:80/123456/654321/108838.ts
+http://12.proximidade112.top:80/123456/654321/108838..m3u8
 
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/xCgQN1jM/ESPN%203.png" group-title="ESPORTES",ESPN 3 HD
 http://46.151.196.223:14442
 
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/xCgQN1jM/ESPN%203.png" group-title="ESPORTES",ESPN 3 HD
-http://12.proximidade112.top:80/123456/654321/108841.ts
+http://12.proximidade112.top:80/123456/654321/108841..m3u8
 
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/Y987LC2Q/ESPN%204.png" group-title="ESPORTES",ESPN 4 HD
 http://46.151.196.223:14448
 
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/Y987LC2Q/ESPN%204.png" group-title="ESPORTES",ESPN 4 HD
-http://12.proximidade112.top:80/123456/654321/108848.ts
+http://12.proximidade112.top:80/123456/654321/108848..m3u8
 
 #EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/G2zRTm3k/ESPN%205.png" group-title="ESPORTES",ESPN 5 HD
 http://46.151.196.223:14454
 
 #EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/G2zRTm3k/ESPN%205.png" group-title="ESPORTES",ESPN 5 HD
-http://12.proximidade112.top:80/123456/654321/108851.ts
+http://12.proximidade112.top:80/123456/654321/108851..m3u8
 
 #EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
 http://46.151.196.223:14460
 
 #EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
-http://12.proximidade112.top:80/123456/654321/108854.ts
+http://12.proximidade112.top:80/123456/654321/108854..m3u8
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
 http://46.151.196.223:14284
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-http://12.proximidade112.top:80/123456/654321/2587978.ts
+http://12.proximidade112.top:80/123456/654321/2587978..m3u8
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-http://12.proximidade112.top:80/123456/654321/2587981.ts
+http://12.proximidade112.top:80/123456/654321/2587981..m3u8
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
 http://46.151.196.223:14134
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-http://12.proximidade112.top:80/123456/654321/2587984.ts
+http://12.proximidade112.top:80/123456/654321/2587984..m3u8
 
 #EXTINF:-1 tvg-id="ge.br" tvg-name="GETV HD" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/getv.m3u8
 
 #EXTINF:-1 tvg-id="ge.br" tvg-name="GETV HD" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV
-http://12.proximidade112.top:80/123456/654321/3653622.ts
+http://12.proximidade112.top:80/123456/654321/3653622..m3u8
 
-#EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
+#EXTINF:-1 tvg-id="nspor.m3u8.br" tvg-name="NSpor.m3u8 HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPOR.m3u8.png" group-title="ESPORTES",NSpor.m3u8 HD
 http://46.151.196.223:14152
 
-#EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
-http://12.proximidade112.top:80/123456/654321/152865.ts
+#EXTINF:-1 tvg-id="nspor.m3u8.br" tvg-name="NSpor.m3u8 HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPOR.m3u8.png" group-title="ESPORTES",NSpor.m3u8 HD
+http://12.proximidade112.top:80/123456/654321/152865..m3u8
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
-http://12.proximidade112.top:80/123456/654321/122768.ts
+http://12.proximidade112.top:80/123456/654321/122768..m3u8
 
 #EXTINF:-1 tvg-id="sportynet2.br" tvg-name="SPORTY NET 2 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 2 HD
-http://12.proximidade112.top:80/123456/654321/122769.ts
+http://12.proximidade112.top:80/123456/654321/122769..m3u8
 
 #EXTINF:-1 tvg-id="sportynet3.br" tvg-name="SPORTY NET 3 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 3 HD
-http://12.proximidade112.top:80/123456/654321/122770.ts
+http://12.proximidade112.top:80/123456/654321/122770..m3u8
 
 #EXTINF:-1 tvg-id="sportynet4.br" tvg-name="SPORTY NET 4 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 4 HD
-http://12.proximidade112.top:80/123456/654321/122771.ts
+http://12.proximidade112.top:80/123456/654321/122771..m3u8
 
-#EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
-https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/xsports.m3u8
+#EXTINF:-1 tvg-id="xspor.m3u8.br" tvg-name="XSPOR.m3u8 HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPOR.m3u8.png" group-title="ESPORTES",XSPOR.m3u8 HD
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/xspor.m3u8.m3u8
 
-#EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
-http://12.proximidade112.top:80/123456/654321/2547879.ts
+#EXTINF:-1 tvg-id="xspor.m3u8.br" tvg-name="XSPOR.m3u8 HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPOR.m3u8.png" group-title="ESPORTES",XSPOR.m3u8 HD
+http://12.proximidade112.top:80/123456/654321/2547879..m3u8
 
 #EXTINF:-1 tvg-id="redbulltv.br" tvg-name="REDBULL TV HD" tvg-logo="https://i.postimg.cc/4NYGnGDk/REDBULL%20TV.png" group-title="ESPORTES",REDBULL TV HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46.m3u8
 
 #EXTINF:-1 tvg-id="fueltv.br" tvg-logo="https://i.postimg.cc/zvBrCY3T/FUEL%20TV.png" group-title="ESPORTES",FUEL TV HD
-http://12.proximidade112.top:80/123456/654321/2549622.ts
+http://12.proximidade112.top:80/123456/654321/2549622..m3u8
 
 
 ##########################
@@ -213,28 +213,28 @@ http://12.proximidade112.top:80/123456/654321/2549622.ts
 http://46.151.196.223:14588
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-http://12.proximidade112.top:80/123456/654321/124948.ts
+http://12.proximidade112.top:80/123456/654321/124948..m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-http://12.proximidade112.top:80/123456/654321/124927.ts
+http://12.proximidade112.top:80/123456/654321/124927..m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
-http://12.proximidade112.top:80/123456/654321/124930.ts
+http://12.proximidade112.top:80/123456/654321/124930..m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
-http://12.proximidade112.top:80/123456/654321/124933.ts
+http://12.proximidade112.top:80/123456/654321/124933..m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-http://12.proximidade112.top:80/123456/654321/124937.ts
+http://12.proximidade112.top:80/123456/654321/124937..m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
-http://12.proximidade112.top:80/123456/654321/124940.ts
+http://12.proximidade112.top:80/123456/654321/124940..m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
-http://12.proximidade112.top:80/123456/654321/124943.ts
+http://12.proximidade112.top:80/123456/654321/124943..m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
-http://12.proximidade112.top:80/123456/654321/124951.ts
+http://12.proximidade112.top:80/123456/654321/124951..m3u8
 
 
 ##########################
@@ -242,16 +242,16 @@ http://12.proximidade112.top:80/123456/654321/124951.ts
 ##########################
 
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
-http://12.proximidade112.top:80/123456/654321/223746.ts
+http://12.proximidade112.top:80/123456/654321/223746..m3u8
 
 #EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
-http://12.proximidade112.top:80/123456/654321/223747.ts
+http://12.proximidade112.top:80/123456/654321/223747..m3u8
 
 #EXTINF:-1 tvg-id="Cazetv3.br" tvg-name="CAZÉ TV 3 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 3 HD
-http://12.proximidade112.top:80/123456/654321/223748.ts
+http://12.proximidade112.top:80/123456/654321/223748..m3u8
 
 #EXTINF:-1 tvg-id="Cazetv4.br" tvg-name="CAZÉ TV 4 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 4 HD
-http://12.proximidade112.top:80/123456/654321/252415.ts
+http://12.proximidade112.top:80/123456/654321/252415..m3u8
 
 #EXTINF:-1 tvg-id="canalgoat.br" tvg-name="CANAL GOAT HD" tvg-logo="https://i.postimg.cc/fLMZb9NF/CANAL-GOAT.png" group-title="ESPORTES PPV",CANAL GOAT HD
 http://46.151.196.223:14401
@@ -271,23 +271,23 @@ http://eassycd.com:80/live/Dbdjsk/leo334/601979.m3u8
 #EXTINF:-1 tvg-id="primevideo5.br" tvg-name="PRIME VÍDEO 5 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 5 HD
 http://eassycd.com:80/live/Dbdjsk/leo334/601985.m3u8
 
-#EXTINF:-1 tvg-id="uniquesports.br" tvg-name="UNIQUE SPORTS HD" tvg-logo="https://i.postimg.cc/J4bfYdtx/UNIQUE-SPORTS.png" group-title="ESPORTES PPV",UNIQUE SPORTS HD
-https://pop.uniquetv.com.br/uniquesports1/video.m3u8
+#EXTINF:-1 tvg-id="uniquespor.m3u8.br" tvg-name="UNIQUE SPOR.m3u8 HD" tvg-logo="https://i.postimg.cc/J4bfYdtx/UNIQUE-SPOR.m3u8.png" group-title="ESPORTES PPV",UNIQUE SPOR.m3u8 HD
+https://pop.uniquetv.com.br/uniquespor.m3u81/video.m3u8
 
 #EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
 http://46.151.196.223:14131
 
 #EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
-http://12.proximidade112.top:80/123456/654321/152570.ts
+http://12.proximidade112.top:80/123456/654321/152570..m3u8
 
 #EXTINF:-1 tvg-id="paramountplus2.br" tvg-name="PARAMOUNT PLUS 2" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 2
-http://12.proximidade112.top:80/123456/654321/152571.ts
+http://12.proximidade112.top:80/123456/654321/152571..m3u8
 
 #EXTINF:-1 tvg-id="paramountplus3.br" tvg-name="PARAMOUNT PLUS 3" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 3
-http://12.proximidade112.top:80/123456/654321/152572.ts
+http://12.proximidade112.top:80/123456/654321/152572..m3u8
 
 #EXTINF:-1 tvg-id="paramountplus4.br" tvg-name="PARAMOUNT PLUS 4" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 4
-http://12.proximidade112.top:80/123456/654321/152573.ts
+http://12.proximidade112.top:80/123456/654321/152573..m3u8
 
 
 ##########################
@@ -298,28 +298,28 @@ http://12.proximidade112.top:80/123456/654321/152573.ts
 http://46.151.196.223:14636
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/KYSxdWsk/AMC.png" group-title="FILMES",AMC HD
-http://12.proximidade112.top:80/123456/654321/223534.ts
+http://12.proximidade112.top:80/123456/654321/223534..m3u8
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/canalbrasil.m3u8
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
-http://12.proximidade112.top:80/123456/654321/223541.ts
+http://12.proximidade112.top:80/123456/654321/223541..m3u8
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/cinemax.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
-http://12.proximidade112.top:80/123456/654321/223548.ts
+http://12.proximidade112.top:80/123456/654321/223548..m3u8
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://46.151.196.223:14378
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
-http://12.proximidade112.top:80/123456/654321/151396.ts
+http://12.proximidade112.top:80/123456/654321/151396..m3u8
 
-#EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
-http://12.proximidade112.top:80/123456/654321/223551.ts
+#EXTINF:-1 tvg-id="film&ar.m3u8.br" tvg-name="FILM & AR.m3u8 HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20AR.m3u8.png" group-title="FILMES",FILM & AR.m3u8 HD
+http://12.proximidade112.top:80/123456/654321/223551..m3u8
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hbo.m3u8
@@ -328,85 +328,85 @@ https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/hbo.m3u8
 http://12.proximidade112.top:80/123456/654321/150844
 
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/ZnRS8z07/HBO%202.png" group-title="FILMES",HBO 2 HD
-http://12.proximidade112.top:80/123456/654321/126890.ts
+http://12.proximidade112.top:80/123456/654321/126890..m3u8
 
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/7h6k3rbt/HBO%20FAMILY.png" group-title="FILMES",HBO FAMILY HD
-http://12.proximidade112.top:80/123456/654321/420379.ts
+http://12.proximidade112.top:80/123456/654321/420379..m3u8
 
 #EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.postimg.cc/mkDsYWh5/HBO%20MUNDI.png" group-title="FILMES",HBO MUNDI HD
-http://12.proximidade112.top:80/123456/654321/126900.ts
+http://12.proximidade112.top:80/123456/654321/126900..m3u8
 
-#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/qqRTsHgY/HBO%20PLUS.png" group-title="FILMES",HBO PLUS HD
-http://12.proximidade112.top:80/123456/654321/126905.ts
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/qqR.m3u8HgY/HBO%20PLUS.png" group-title="FILMES",HBO PLUS HD
+http://12.proximidade112.top:80/123456/654321/126905..m3u8
 
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://i.postimg.cc/Hnxgw1jF/HBO%20POP.png" group-title="FILMES",HBO POP HD
-http://12.proximidade112.top:80/123456/654321/126909.ts
+http://12.proximidade112.top:80/123456/654321/126909..m3u8
 
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/gjJWVbrQ/HBO%20SIGNATURE.png" group-title="FILMES",HBO SIGNATURE HD
-http://12.proximidade112.top:80/123456/654321/126914.ts
+http://12.proximidade112.top:80/123456/654321/126914..m3u8
 
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.postimg.cc/Bb60Tftd/HBO%20XTREME.png" group-title="FILMES",HBO XTREME HD
-http://12.proximidade112.top:80/123456/654321/440469.ts
+http://12.proximidade112.top:80/123456/654321/440469..m3u8
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/megapix.m3u8
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
-http://12.proximidade112.top:80/123456/654321/223556.ts
+http://12.proximidade112.top:80/123456/654321/223556..m3u8
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
-http://12.proximidade112.top:80/123456/654321/223559.ts
+http://12.proximidade112.top:80/123456/654321/223559..m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
-http://12.proximidade112.top:80/123456/654321/223571.ts
+http://12.proximidade112.top:80/123456/654321/223571..m3u8
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://12.proximidade112.top:80/123456/654321/223578.ts
+http://12.proximidade112.top:80/123456/654321/223578..m3u8
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
-http://12.proximidade112.top:80/123456/654321/127042.ts
+http://12.proximidade112.top:80/123456/654321/127042..m3u8
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://46.151.196.223:14349
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
-http://12.proximidade112.top:80/123456/654321/127033.ts
+http://12.proximidade112.top:80/123456/654321/127033..m3u8
 
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
 http://46.151.196.223:14295
 
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
-http://12.proximidade112.top:80/123456/654321/127014.ts
+http://12.proximidade112.top:80/123456/654321/127014..m3u8
 
 #EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
 http://46.151.196.223:14343
 
 #EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
-http://12.proximidade112.top:80/123456/654321/127029.ts
+http://12.proximidade112.top:80/123456/654321/127029..m3u8
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/telecinefun.m3u8
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-http://12.proximidade112.top:80/123456/654321/127023.ts
+http://12.proximidade112.top:80/123456/654321/127023..m3u8
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
 http://46.151.196.223:14359
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
-http://12.proximidade112.top:80/123456/654321/127038.ts
+http://12.proximidade112.top:80/123456/654321/127038..m3u8
 
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
 http://46.151.196.223:14333
 
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
-http://12.proximidade112.top:80/123456/654321/127018.ts
+http://12.proximidade112.top:80/123456/654321/127018..m3u8
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tnt.m3u8
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://12.proximidade112.top:80/123456/654321/223584.ts
+http://12.proximidade112.top:80/123456/654321/223584..m3u8
 
 
 ##########################
@@ -414,31 +414,31 @@ http://12.proximidade112.top:80/123456/654321/223584.ts
 ##########################
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
-http://12.proximidade112.top:80/123456/654321/223531.ts
+http://12.proximidade112.top:80/123456/654321/223531..m3u8
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://12.proximidade112.top:80/123456/654321/223537.ts
+http://12.proximidade112.top:80/123456/654321/223537..m3u8
 
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/25NN03Yv/LOGO-TNT-S-RIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://12.proximidade112.top:80/123456/654321/150871.ts
+#EXTINF:-1 tvg-id="tn.m3u8eries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/25NN03Yv/LOGO-TNT-S-RIES.png" group-title="SÉRIES",TNT SÉRIES HD
+http://12.proximidade112.top:80/123456/654321/150871..m3u8
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
-http://12.proximidade112.top:80/123456/654321/150872.ts
+http://12.proximidade112.top:80/123456/654321/150872..m3u8
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://12.proximidade112.top:80/123456/654321/151463.ts
+http://12.proximidade112.top:80/123456/654321/151463..m3u8
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
-http://12.proximidade112.top:80/123456/654321/151423.ts
+http://12.proximidade112.top:80/123456/654321/151423..m3u8
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
-http://12.proximidade112.top:80/123456/654321/223566.ts
+http://12.proximidade112.top:80/123456/654321/223566..m3u8
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY CHANNEL HD
-http://12.proximidade112.top:80/123456/654321/250250.ts
+http://12.proximidade112.top:80/123456/654321/250250..m3u8
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
-http://12.proximidade112.top:80/123456/654321/223597.ts
+http://12.proximidade112.top:80/123456/654321/223597..m3u8
 
 
 ##########################
@@ -446,102 +446,102 @@ http://12.proximidade112.top:80/123456/654321/223597.ts
 ##########################
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://12.proximidade112.top:80/123456/654321/125103.ts
+http://12.proximidade112.top:80/123456/654321/125103..m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
 http://46.151.196.223:14074
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://12.proximidade112.top:80/123456/654321/125220.ts
+http://12.proximidade112.top:80/123456/654321/125220..m3u8
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/discoveryhh.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
-http://12.proximidade112.top:80/123456/654321/125223.ts
+http://12.proximidade112.top:80/123456/654321/125223..m3u8
 
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.postimg.cc/BbVGN71w/HISTORY.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD
 http://46.151.196.223:14410
 
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.postimg.cc/BbVGN71w/HISTORY.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD
-http://12.proximidade112.top:80/123456/654321/125093.ts
+http://12.proximidade112.top:80/123456/654321/125093..m3u8
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/history2.m3u8
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
-http://12.proximidade112.top:80/123456/654321/125100.ts
+http://12.proximidade112.top:80/123456/654321/125100..m3u8
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
-http://12.proximidade112.top:80/123456/654321/225410.ts
+http://12.proximidade112.top:80/123456/654321/225410..m3u8
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/discoveryscience.m3u8
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://12.proximidade112.top:80/123456/654321/225413.ts
+http://12.proximidade112.top:80/123456/654321/225413..m3u8
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://12.proximidade112.top:80/123456/654321/125226.ts
+http://12.proximidade112.top:80/123456/654321/125226..m3u8
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://12.proximidade112.top:80/123456/654321/225416.ts
+http://12.proximidade112.top:80/123456/654321/225416..m3u8
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://12.proximidade112.top:80/123456/654321/225419.ts
+http://12.proximidade112.top:80/123456/654321/225419..m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
-http://12.proximidade112.top:80/123456/654321/127143.ts
+http://12.proximidade112.top:80/123456/654321/127143..m3u8
 
 
 ##########################
 # VARIEDADES
 ##########################
 
-#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
-https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/adultswim.m3u8
+#EXTINF:-1 tvg-id="adul.m3u8wim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/adul.m3u8wim.m3u8
 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
-http://12.proximidade112.top:80/123456/654321/151383.ts
+http://12.proximidade112.top:80/123456/654321/151383..m3u8
 
 #EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="VARIEDADES",CANAL OFF HD
-http://12.proximidade112.top:80/123456/654321/151446.ts
+http://12.proximidade112.top:80/123456/654321/151446..m3u8
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
-http://12.proximidade112.top:80/123456/654321/150829.ts
+http://12.proximidade112.top:80/123456/654321/150829..m3u8
 
 #EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E!" tvg-logo="https://i.postimg.cc/TwQx5325/E.png" group-title="VARIEDADES",E!
-http://12.proximidade112.top:80/123456/654321/151402.ts
+http://12.proximidade112.top:80/123456/654321/151402..m3u8
 
 #EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/gjJWVbrL/FISH%20TV.png" group-title="VARIEDADES",FISH TV
 http://46.151.196.223:14478
 
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/3NRTXQWm/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD
-http://12.proximidade112.top:80/123456/654321/151414.ts
+http://12.proximidade112.top:80/123456/654321/151414..m3u8
 
 #EXTINF:-1 tvg-id="globoplaynovelas.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://i.postimg.cc/2y6DQN3x/GLOBO%20PLAY%20NOVELAS.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS HD
-http://12.proximidade112.top:80/123456/654321/150873.ts
+http://12.proximidade112.top:80/123456/654321/150873..m3u8
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/8c0VwXrt/HGTV.png" group-title="VARIEDADES",HGTV HD
-http://12.proximidade112.top:80/123456/654321/151420.ts
+http://12.proximidade112.top:80/123456/654321/151420..m3u8
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/D0ZTr3mB/GNT.png" group-title="VARIEDADES",GNT HD
-http://12.proximidade112.top:80/123456/654321/151417.ts
+http://12.proximidade112.top:80/123456/654321/151417..m3u8
 
 #EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.postimg.cc/VvVc4ZCQ/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM HD
-http://12.proximidade112.top:80/123456/654321/151428.ts
+http://12.proximidade112.top:80/123456/654321/151428..m3u8
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
-http://12.proximidade112.top:80/123456/654321/223581.ts
+http://12.proximidade112.top:80/123456/654321/223581..m3u8
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://12.proximidade112.top:80/123456/654321/223587.ts
+http://12.proximidade112.top:80/123456/654321/223587..m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
-http://12.proximidade112.top:80/123456/654321/151474.ts
+http://12.proximidade112.top:80/123456/654321/151474..m3u8
 
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/Pqjn6wPx/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37025.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37025..m3u8
 
 
 ##########################
@@ -558,7 +558,7 @@ http://46.151.196.223:14078
 https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-id="timesbrasilcnbc.br" tvg-name="TIMES BRASIL (CNBC) HD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="NOTÍCIAS",TIMES BRASIL (CNBC) HD
-http://12.proximidade112.top:80/123456/654321/4035537.ts
+http://12.proximidade112.top:80/123456/654321/4035537..m3u8
 
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/gkxprpf1/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD
 http://46.151.196.223:14099
@@ -591,7 +591,7 @@ http://46.151.196.223:14119
 http://46.151.196.223:14121
 
 #EXTINF:-1 tvg-id="cnnmoney.br" tvg-name="CNN MONEY HD" tvg-logo="https://i.postimg.cc/mDV41gZW/CNN-MONEY.png" group-title="NOTÍCIAS",CNN MONEY HD
-http://12.proximidade112.top:80/123456/654321/151873.ts
+http://12.proximidade112.top:80/123456/654321/151873..m3u8
 
 
 ##########################
@@ -1481,16 +1481,16 @@ http://dnsone.space:80/Rosalinapina/State3/896437
 ##########################
 
 #EXTINF:-1 tvg-id="multishowhd.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.postimg.cc/MHF8t3Qx/MULTI%20SHOW.png" group-title="ENTRETENIMENTO"",MULTISHOW HD
-http://12.proximidade112.top:80/123456/654321/151439.ts
+http://12.proximidade112.top:80/123456/654321/151439..m3u8
 
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/xC9Ydz2x/BIS.png" group-title="ENTRETENIMENTO",BIS HD
-http://12.proximidade112.top:80/123456/654321/151386.ts
+http://12.proximidade112.top:80/123456/654321/151386..m3u8
 
 #EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.postimg.cc/VvVc4ZCQ/MODO%20VIAGEM.png" group-title="ENTRETENIMENTO",MODO VIAGEM HD
-http://12.proximidade112.top:80/123456/654321/151428.ts
+http://12.proximidade112.top:80/123456/654321/151428..m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
-http://12.proximidade112.top:80/123456/654321/151474.ts
+http://12.proximidade112.top:80/123456/654321/151474..m3u8
 
 
 ##########################
@@ -1498,28 +1498,28 @@ http://12.proximidade112.top:80/123456/654321/151474.ts
 ##########################
 
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
-http://12.proximidade112.top:80/123456/654321/152341.ts
+http://12.proximidade112.top:80/123456/654321/152341..m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
-http://12.proximidade112.top:80/123456/654321/152307.ts
+http://12.proximidade112.top:80/123456/654321/152307..m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.postimg.cc/KzmFYM26/CARTOONITO.png" group-title="INFANTIL E DESENHOS 24H",CARTOONITO HD
-http://12.proximidade112.top:80/123456/654321/152322.ts
+http://12.proximidade112.top:80/123456/654321/152322..m3u8
 
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/JnK8Hz7h/DISCOVERY-KIDS.png" group-title="INFANTIL E DESENHOS 24H",DISCOVERY KIDS HD
-http://12.proximidade112.top:80/123456/654321/152329.ts
+http://12.proximidade112.top:80/123456/654321/152329..m3u8
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
-http://12.proximidade112.top:80/123456/654321/152311.ts
+http://12.proximidade112.top:80/123456/654321/152311..m3u8
 
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
-http://12.proximidade112.top:80/123456/654321/152313.ts
+http://12.proximidade112.top:80/123456/654321/152313..m3u8
 
 #EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUM DUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUM DUM HD
-http://12.proximidade112.top:80/123456/654321/152342.ts
+http://12.proximidade112.top:80/123456/654321/152342..m3u8
 
-#EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-id="osje.m3u8ons.br" tvg-name="OS JE.m3u8ONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JE.m3u8ONS.png" group-title="INFANTIL E DESENHOS 24H",OS JE.m3u8ONS 24H
+https://stmv1.srvif.com/je.m3u8ontv/je.m3u8ontv/playlist.m3u8
 
 
 ##########################
@@ -1552,7 +1552,7 @@ http://12.proximidade112.top:80/series/123456/654321/4832942.mp4
 http://12.proximidade112.top:80/series/123456/654321/4832945.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E13" tvg-logo="https://image.tmdb.org/t/p/w300/qxcBBTEHCI8V3l0CrKi7fWkzvo5.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E13
 http://12.proximidade112.top:80/series/123456/654321/4832948.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E14" tvg-logo="https://image.tmdb.org/t/p/w300/1hyodgqPd23qRui3prLTSUMY7jP.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E14
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E14" tvg-logo="https://image.tmdb.org/t/p/w300/1hyodgqPd23qRui3prL.m3u8UMY7jP.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E14
 http://12.proximidade112.top:80/series/123456/654321/4832951.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E15" tvg-logo="https://image.tmdb.org/t/p/w300/ucGEmJVCDT3wgTVH116H9k2rj7E.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E15
 http://12.proximidade112.top:80/series/123456/654321/4832954.mp4
@@ -1610,7 +1610,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833034.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833037.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S02E18" tvg-logo="https://image.tmdb.org/t/p/w300/uGjRTW1J1hO7t2VCkldeBAfeWcW.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S02E18
 http://12.proximidade112.top:80/series/123456/654321/4833041.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S02E19" tvg-logo="https://image.tmdb.org/t/p/w300/tsj1f4dBPGMVXMtK9FdAEH6q85H.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S02E19
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S02E19" tvg-logo="https://image.tmdb.org/t/p/w300/.m3u8j1f4dBPGMVXMtK9FdAEH6q85H.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S02E19
 http://12.proximidade112.top:80/series/123456/654321/4833044.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S02E20" tvg-logo="https://image.tmdb.org/t/p/w300/l7g2qq4zpLIclzMp5UTavcGqb4z.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S02E20
 http://12.proximidade112.top:80/series/123456/654321/4833047.mp4
@@ -1658,7 +1658,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833103.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833106.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S03E20" tvg-logo="https://image.tmdb.org/t/p/w300/uEPuzt9SnYkFwuWsclmTOuVdP5g.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S03E20
 http://12.proximidade112.top:80/series/123456/654321/4833108.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S03E21" tvg-logo="https://image.tmdb.org/t/p/w300/5aeuhonFJAWNCb7kpkUTSocjDJ5.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S03E21
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S03E21" tvg-logo="https://image.tmdb.org/t/p/w300/5aeuhonFJAWNCb7kpkU.m3u8ocjDJ5.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S03E21
 http://12.proximidade112.top:80/series/123456/654321/4833112.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S03E22" tvg-logo="https://image.tmdb.org/t/p/w300/y7OgzGLYWK2Qrk99H1JijRICEwe.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S03E22
 http://12.proximidade112.top:80/series/123456/654321/4833115.mp4
@@ -1698,7 +1698,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833163.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833166.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S04E17" tvg-logo="https://image.tmdb.org/t/p/w300/4x4RoZcUMM75m6BDK4yx1oETJPG.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S04E17
 http://12.proximidade112.top:80/series/123456/654321/4833169.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S04E18" tvg-logo="https://image.tmdb.org/t/p/w300/gD8cBVgmpArHiLzF7zTSt8eGjzX.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S04E18
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S04E18" tvg-logo="https://image.tmdb.org/t/p/w300/gD8cBVgmpArHiLzF7z.m3u8t8eGjzX.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S04E18
 http://12.proximidade112.top:80/series/123456/654321/4833172.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S04E19" tvg-logo="https://image.tmdb.org/t/p/w300/7IHKJ9KdcwzDrlUtXz60zOApGWm.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S04E19
 http://12.proximidade112.top:80/series/123456/654321/4833175.mp4
@@ -1852,7 +1852,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833405.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833407.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E04" tvg-logo="https://image.tmdb.org/t/p/w300/kE5Lr3t8aurnH8zIdbFr0fR7CrI.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E04
 http://12.proximidade112.top:80/series/123456/654321/4833409.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E05" tvg-logo="https://image.tmdb.org/t/p/w300/hnIH36NtsMNjmZ0c1e98sAu7agA.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E05
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E05" tvg-logo="https://image.tmdb.org/t/p/w300/hnIH36N.m3u8MNjmZ0c1e98sAu7agA.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E05
 http://12.proximidade112.top:80/series/123456/654321/4833411.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E06" tvg-logo="https://image.tmdb.org/t/p/w300/6A149HaBIXqsWIyjcrOuIH8sxnA.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E06
 http://12.proximidade112.top:80/series/123456/654321/4833413.mp4
@@ -1864,7 +1864,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833417.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833419.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E10" tvg-logo="https://image.tmdb.org/t/p/w300/mhEBPM5yobEgOWmyYQsK7QOGr6E.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E10
 http://12.proximidade112.top:80/series/123456/654321/4833422.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E11" tvg-logo="https://image.tmdb.org/t/p/w300/TSJLBF42UnBm9SHiJXLnt1yCba.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E11
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E11" tvg-logo="https://image.tmdb.org/t/p/w300/.m3u8JLBF42UnBm9SHiJXLnt1yCba.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E11
 http://12.proximidade112.top:80/series/123456/654321/4833425.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E12" tvg-logo="https://image.tmdb.org/t/p/w300/jLIF23hfpARtXoFWIVuGkh5v66R.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S08E12
 http://12.proximidade112.top:80/series/123456/654321/4833428.mp4
@@ -1944,7 +1944,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833534.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833539.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S10E14" tvg-logo="https://image.tmdb.org/t/p/w300/dackZV5mqSsbZqCb0d5a2ooJPmL.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S10E14
 http://12.proximidade112.top:80/series/123456/654321/4833543.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S10E15" tvg-logo="https://image.tmdb.org/t/p/w300/zyifktSHCuV2zc8vqAp5ZTw6s00.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S10E15
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S10E15" tvg-logo="https://image.tmdb.org/t/p/w300/zyifk.m3u8HCuV2zc8vqAp5ZTw6s00.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S10E15
 http://12.proximidade112.top:80/series/123456/654321/4833547.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S10E16" tvg-logo="https://image.tmdb.org/t/p/w300/9BM6rPvj3Hx78docWZnjhB8rMTh.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S10E16
 http://12.proximidade112.top:80/series/123456/654321/4833551.mp4
@@ -2008,7 +2008,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833635.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833638.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E02" tvg-logo="https://image.tmdb.org/t/p/w300/o7YtIZROoFUn1B1mlVur2qxmJxP.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E02
 http://12.proximidade112.top:80/series/123456/654321/4833641.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E03" tvg-logo="https://image.tmdb.org/t/p/w300/739NRp7STseI9XvzpRz6woGBFuk.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E03
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E03" tvg-logo="https://image.tmdb.org/t/p/w300/739NRp7S.m3u8eI9XvzpRz6woGBFuk.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E03
 http://12.proximidade112.top:80/series/123456/654321/4833644.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E04" tvg-logo="https://image.tmdb.org/t/p/w300/cBysq2KosmBVa7ncsFhO6xw5MQr.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E04
 http://12.proximidade112.top:80/series/123456/654321/4833647.mp4
@@ -2016,7 +2016,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833647.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833650.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E06" tvg-logo="https://image.tmdb.org/t/p/w300/wqTBqfP25fsrzTRRZUVYihjL2D8.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E06
 http://12.proximidade112.top:80/series/123456/654321/4833653.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E07" tvg-logo="https://image.tmdb.org/t/p/w300/jscMax9ZIDJy7l7YFWHqdRPeWtS.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E07
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E07" tvg-logo="https://image.tmdb.org/t/p/w300/jscMax9ZIDJy7l7YFWHqdRPeW.m3u8.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E07
 http://12.proximidade112.top:80/series/123456/654321/4833656.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E08" tvg-logo="https://image.tmdb.org/t/p/w300/PBVRaAaJ71x52s5yS8GmEwnzlZ.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S12E08
 http://12.proximidade112.top:80/series/123456/654321/4833660.mp4
@@ -2074,7 +2074,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833744.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833747.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S13E22" tvg-logo="https://image.tmdb.org/t/p/w300/E8gy4RzQRaL8sPxk56fmxPRVa5.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S13E22
 http://12.proximidade112.top:80/series/123456/654321/4833750.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E01" tvg-logo="https://image.tmdb.org/t/p/w300/isVpJpSkkFlPGrXARNq4tSefGFL.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E01
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E01" tvg-logo="https://image.tmdb.org/t/p/w300/isVpJpSkkFlPGrXARNq4.m3u8efGFL.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E01
 http://12.proximidade112.top:80/series/123456/654321/4833753.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E02" tvg-logo="https://image.tmdb.org/t/p/w300/jrCohGcto3xm1SKqFhkfEGbwJQ5.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E02
 http://12.proximidade112.top:80/series/123456/654321/4833756.mp4
@@ -2084,7 +2084,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833759.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833762.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E05" tvg-logo="https://image.tmdb.org/t/p/w300/nkRGpG4KgHxBfla9hvJesVmZ8pz.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E05
 http://12.proximidade112.top:80/series/123456/654321/4833765.mp4
-#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E06" tvg-logo="https://image.tmdb.org/t/p/w300/sEtsOacm3rnaxZnAae0kYnN4MTT.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E06
+#EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E06" tvg-logo="https://image.tmdb.org/t/p/w300/sE.m3u8Oacm3rnaxZnAae0kYnN4MTT.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E06
 http://12.proximidade112.top:80/series/123456/654321/4833768.mp4
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E07" tvg-logo="https://image.tmdb.org/t/p/w300/65mpd2H3njsOSpot3EUm4tt0u2q.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S14E07
 http://12.proximidade112.top:80/series/123456/654321/4833771.mp4
@@ -2164,7 +2164,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834061.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834064.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/lp2CKSba9Jh5pT04bKd6Ghg6k0y.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S02E13
 http://12.proximidade112.top:80/series/123456/654321/4834067.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/tsdN4eQrJq9xVJyLaDYpzuEQcMI.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S02E14
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/.m3u8dN4eQrJq9xVJyLaDYpzuEQcMI.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S02E14
 http://12.proximidade112.top:80/series/123456/654321/4834070.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/4Pnf8zFWaFpkjFHIR0LIBYqVnQ4.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S02E15
 http://12.proximidade112.top:80/series/123456/654321/4834073.mp4
@@ -2218,7 +2218,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834125.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834128.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S03E17" tvg-logo="https://image.tmdb.org/t/p/w300/2PBLc0i6hZy6Csd77X2YHACVig1.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S03E17
 http://12.proximidade112.top:80/series/123456/654321/4834131.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S03E18" tvg-logo="https://image.tmdb.org/t/p/w300/fts5tfKJ5zsvHbu4YRbN5fIhcnj.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S03E18
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S03E18" tvg-logo="https://image.tmdb.org/t/p/w300/f.m3u85tfKJ5zsvHbu4YRbN5fIhcnj.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S03E18
 http://12.proximidade112.top:80/series/123456/654321/4834134.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S03E19" tvg-logo="https://image.tmdb.org/t/p/w300/c9ZKBDtNGBnos5NKhkpCDHpYR7h.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S03E19
 http://12.proximidade112.top:80/series/123456/654321/4834137.mp4
@@ -2234,7 +2234,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834151.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834155.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S04E02" tvg-logo="https://image.tmdb.org/t/p/w300/1qF2BeBB3ZGIRC8LBfufGKP5xoL.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S04E02
 http://12.proximidade112.top:80/series/123456/654321/4834159.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S04E03" tvg-logo="https://image.tmdb.org/t/p/w300/u4Ck8Mjiqgj6U8CtNR1JtSHZX1M.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S04E03
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S04E03" tvg-logo="https://image.tmdb.org/t/p/w300/u4Ck8Mjiqgj6U8CtNR1J.m3u8HZX1M.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S04E03
 http://12.proximidade112.top:80/series/123456/654321/4834163.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S04E04" tvg-logo="https://image.tmdb.org/t/p/w300/68nytHPiHxDdno7pLvWjatcZGJB.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S04E04
 http://12.proximidade112.top:80/series/123456/654321/4834167.mp4
@@ -2270,7 +2270,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834228.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834232.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S04E20" tvg-logo="https://image.tmdb.org/t/p/w300/4t1eFhSw4AstJvwyNmgG6IEW8YS.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S04E20
 http://12.proximidade112.top:80/series/123456/654321/4834236.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S04E21" tvg-logo="https://image.tmdb.org/t/p/w300/dorJEauu8CcV7yJHCySMAXtsnUV.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S04E21
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S04E21" tvg-logo="https://image.tmdb.org/t/p/w300/dorJEauu8CcV7yJHCySMAX.m3u8nUV.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S04E21
 http://12.proximidade112.top:80/series/123456/654321/4834240.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S04E22" tvg-logo="https://image.tmdb.org/t/p/w300/949doAt33j4vz77WC7uH5x05W4r.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S04E22
 http://12.proximidade112.top:80/series/123456/654321/4834244.mp4
@@ -2330,7 +2330,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834335.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834339.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S06E05" tvg-logo="https://image.tmdb.org/t/p/w300/A6Fj4lt105FTmkwKmCVhmVJUTn8.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S06E05
 http://12.proximidade112.top:80/series/123456/654321/4834343.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S06E06" tvg-logo="https://image.tmdb.org/t/p/w300/gLiJEHV6PyWxdXqP7TsCBsLfSp1.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S06E06
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S06E06" tvg-logo="https://image.tmdb.org/t/p/w300/gLiJEHV6PyWxdXqP7.m3u8CBsLfSp1.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S06E06
 http://12.proximidade112.top:80/series/123456/654321/4834347.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S06E07" tvg-logo="https://image.tmdb.org/t/p/w300/wtHfNepn3DimzVg60Lav7fqLlNT.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S06E07
 http://12.proximidade112.top:80/series/123456/654321/4834351.mp4
@@ -2398,7 +2398,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834470.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834474.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S07E18" tvg-logo="https://image.tmdb.org/t/p/w300/nYvoBreLqqoNWOUpGUa9Tomcfsn.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S07E18
 http://12.proximidade112.top:80/series/123456/654321/4834478.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S07E19" tvg-logo="https://image.tmdb.org/t/p/w300/oVkiF33tXzCeBk6TtSaHR30OvsS.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S07E19
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S07E19" tvg-logo="https://image.tmdb.org/t/p/w300/oVkiF33tXzCeBk6T.m3u8aHR30OvsS.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S07E19
 http://12.proximidade112.top:80/series/123456/654321/4834482.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S07E20" tvg-logo="https://image.tmdb.org/t/p/w300/gTbGVL4Pzg8qoMpFFuVosJqpE2X.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S07E20
 http://12.proximidade112.top:80/series/123456/654321/4834486.mp4
@@ -2420,7 +2420,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834518.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834523.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S08E09" tvg-logo="https://image.tmdb.org/t/p/w300/tDe6ZEEJyTVxuHSeB2rJvJy8OZK.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S08E09
 http://12.proximidade112.top:80/series/123456/654321/4834528.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S08E10" tvg-logo="https://image.tmdb.org/t/p/w300/hpDyiOhYrAiY8Eks2zlpxXGtSll.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S08E10
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S08E10" tvg-logo="https://image.tmdb.org/t/p/w300/hpDyiOhYrAiY8Eks2zlpxXG.m3u8ll.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S08E10
 http://12.proximidade112.top:80/series/123456/654321/4834533.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S08E11" tvg-logo="https://image.tmdb.org/t/p/w300/fpML5YfSTQ3jyJI2X9cXEMEKvEr.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S08E11
 http://12.proximidade112.top:80/series/123456/654321/4834538.mp4
@@ -2516,7 +2516,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834693.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834696.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S10E19" tvg-logo="https://image.tmdb.org/t/p/w300/tvh0qxe8712N0RST2xoYlnFN2Lu.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S10E19
 http://12.proximidade112.top:80/series/123456/654321/4834699.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S10E20" tvg-logo="https://image.tmdb.org/t/p/w300/9G13EeclcOsCTSJh8Ax7I9nkxeS.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S10E20
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S10E20" tvg-logo="https://image.tmdb.org/t/p/w300/9G13EeclcOsC.m3u8Jh8Ax7I9nkxeS.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S10E20
 http://12.proximidade112.top:80/series/123456/654321/4834702.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S10E21" tvg-logo="https://image.tmdb.org/t/p/w300/p5BId5r2QBCyPPFGl7thwwweU0z.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S10E21
 http://12.proximidade112.top:80/series/123456/654321/4834705.mp4
@@ -2528,7 +2528,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834711.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834714.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S11E03" tvg-logo="https://image.tmdb.org/t/p/w300/rIyUqfkWgEN9cWwdPUz0H86OpcI.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S11E03
 http://12.proximidade112.top:80/series/123456/654321/4834717.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S11E04" tvg-logo="https://image.tmdb.org/t/p/w300/vyatSnZkHH2s5AcsqTKXMdvTO2n.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S11E04
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S11E04" tvg-logo="https://image.tmdb.org/t/p/w300/vya.m3u8nZkHH2s5AcsqTKXMdvTO2n.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S11E04
 http://12.proximidade112.top:80/series/123456/654321/4834720.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S11E05" tvg-logo="https://image.tmdb.org/t/p/w300/85YcrqfK6NwraxA4WHRqyHeLjRG.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S11E05
 http://12.proximidade112.top:80/series/123456/654321/4834723.mp4
@@ -2578,7 +2578,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834787.mp4
 http://12.proximidade112.top:80/series/123456/654321/4834790.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S12E15" tvg-logo="https://image.tmdb.org/t/p/w300/hnUTGNU7eOAFMVepJAimjm2OC2G.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S12E15
 http://12.proximidade112.top:80/series/123456/654321/4834793.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S12E16" tvg-logo="https://image.tmdb.org/t/p/w300/k3ts7A2y1UVOxGSIpVrFdP5d5DP.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S12E16
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S12E16" tvg-logo="https://image.tmdb.org/t/p/w300/k3.m3u87A2y1UVOxGSIpVrFdP5d5DP.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S12E16
 http://12.proximidade112.top:80/series/123456/654321/4834796.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S12E17" tvg-logo="https://image.tmdb.org/t/p/w300/oQuXnvptdyBGBirZkcnYnJc85Im.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S12E17
 http://12.proximidade112.top:80/series/123456/654321/4834800.mp4
@@ -2620,7 +2620,7 @@ http://12.proximidade112.top:80/series/123456/654321/4834861.mp4
 http://12.proximidade112.top:80/series/123456/654321/5100226.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S13E14" tvg-logo="https://image.tmdb.org/t/p/w300/2Y28RDZUNdGp6MXwxDu7LcF1CBK.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S13E14
 http://12.proximidade112.top:80/series/123456/654321/5135239.mp4
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S13E15" tvg-logo="https://image.tmdb.org/t/p/w300/jGsJhtsZWlHjCAYCoJ1Ffhv5T7M.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S13E15
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S13E15" tvg-logo="https://image.tmdb.org/t/p/w300/jGsJh.m3u8ZWlHjCAYCoJ1Ffhv5T7M.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S13E15
 http://12.proximidade112.top:80/series/123456/654321/5144947.mp4
 
 ##########################
@@ -2629,7 +2629,7 @@ http://12.proximidade112.top:80/series/123456/654321/5144947.mp4
 
 #EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/zgO40DcRVc3sh9vg9CpRoaICn0a.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E01
 http://12.proximidade112.top:80/series/123456/654321/4832941.mp4
-#EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/sTsALfOcSgzuev7DBDYxfqgHIys.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E02
+#EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/s.m3u8ALfOcSgzuev7DBDYxfqgHIys.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E02
 http://12.proximidade112.top:80/series/123456/654321/4832944.mp4
 #EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/fepPfWcmxxhUG6YAocvF46z5F4Z.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E03
 http://12.proximidade112.top:80/series/123456/654321/4832947.mp4
@@ -2689,7 +2689,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833032.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833035.mp4
 #EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E13" tvg-logo="https://image.tmdb.org/t/p/w300/ccVoPhf9XBpSQXUpR0dD0fh5HYk.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E13
 http://12.proximidade112.top:80/series/123456/654321/4833038.mp4
-#EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/4OZnOBTSLWfhmS2xHYYU2ZZoeVu.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E14
+#EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E14" tvg-logo="https://image.tmdb.org/t/p/w300/4OZnOB.m3u8LWfhmS2xHYYU2ZZoeVu.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E14
 http://12.proximidade112.top:80/series/123456/654321/4833040.mp4
 #EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E15" tvg-logo="https://image.tmdb.org/t/p/w300/pDMoUwnoJHkKjjLV9gTj04kVUNh.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E15
 http://12.proximidade112.top:80/series/123456/654321/4833043.mp4
@@ -2709,7 +2709,7 @@ http://12.proximidade112.top:80/series/123456/654321/4833058.mp4
 http://12.proximidade112.top:80/series/123456/654321/4833060.mp4
 #EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E23" tvg-logo="https://image.tmdb.org/t/p/w300/4BoFJ18SZSamxjlPjZuk3DrVujX.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S02E23
 http://12.proximidade112.top:80/series/123456/654321/4833062.mp4
-#EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/1o81cTezj9TsVuWjC0uyjLSID9g.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S03E01
+#EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S03E01" tvg-logo="https://image.tmdb.org/t/p/w300/1o81cTezj9.m3u8VuWjC0uyjLSID9g.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S03E01
 http://12.proximidade112.top:80/series/123456/654321/4833065.mp4
 #EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S03E02" tvg-logo="https://image.tmdb.org/t/p/w300/lnGtRI349MacnWiSswAuUiepg10.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S03E02
 http://12.proximidade112.top:80/series/123456/654321/4833068.mp4
@@ -3224,7 +3224,7 @@ http://aguasdecoco.cdnxjp.space:80/series/awz8gmbn/z0j3bp58/541313.mp4
 http://46.151.196.223:14003
 
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="CORTESIA",ADRENALINA PURA TV HD
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
+https://amg00740-sofa-amg00740c7-lg-br-7305.playou.m3u8.now.amagi.tv/1080p-cc-hevc/index.m3u8
 
 #EXTINF:-1 tvg-id="adesso.br" tvg-name="ADESSO TV HD" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="CORTESIA",ADESSO TV HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
@@ -3248,10 +3248,10 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tastemade.br" tvg-name="TASTEMADE HD" tvg-logo="https://i.postimg.cc/wjJvMC5g/TASTEMADE-TV.png" group-title="CORTESIA",TASTEMADE HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/f26edfff-c718-4e4b-bdb5-951778544b3e/3.m3u8
+https://cdn-uw2-prod..m3u8v2.amagi.tv/linear/amg00047-tastemade-tastemadept16intl-24i-ono/f26edfff-c718-4e4b-bdb5-951778544b3e/3.m3u8
 
 #EXTINF:-1 tvg-id="classicosdocinema.br" tvg-name="TV CLÁSSICOS DO CINEMA HD" tvg-logo="https://i.postimg.cc/YCpgWNRs/TV-CLASSICOS-DO-CINEMA.png" group-title="CORTESIA",CLÁSSICOS DO CINEMA HD
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono..m3u8.m3u8
 
 #EXTINF:-1 tvg-id="tvseries.br" tvg-name="TV SÉRIES HD" tvg-logo="https://i.postimg.cc/gkvCtBrH/TV-SERIES.png" group-title="CORTESIA",TV SÉRIES HD
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
@@ -3356,7 +3356,7 @@ https://cast4.hoost.com.br:20214/stream
 #EXTINF:-1 tvg-id="clubetrans.jf" tvg-name="CLUBE FM 87,9 Mhz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/L4CRH50G/RADIO%20CLUBE%20TRANS%20FM%20JF.png" group-title="RÁDIOS",CLUBE FM 87,9 Mhz (JUIZ DE FORA - MG)
 https://live.paineldj.com.br/proxy/transclube?mp=/stream
 
-#EXTINF:-1 tvg-id="playhits.jf" tvg-name="PLAY HIT'S 910 Khz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/zDt5JvPw/PLAY%20HITS%20FM%20JF.png" group-title="RÁDIOS",PLAY HIT'S 910 Khz (JUIZ DE FORA - MG)
+#EXTINF:-1 tvg-id="playhi.m3u8.jf" tvg-name="PLAY HIT'S 910 Khz (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/zDt5JvPw/PLAY%20HI.m3u8%20FM%20JF.png" group-title="RÁDIOS",PLAY HIT'S 910 Khz (JUIZ DE FORA - MG)
 https://str1.streamhostpg.com.br:8108/stream?1760992304045
 
 #EXTINF:-1 tvg-id="clubefm.bsb" tvg-name="CLUBE FM 105,5 Mhz (BRASÍLIA - DF)" tvg-logo="https://i.postimg.cc/7PsDxhQW/RADIO%20CLUBE%20FM%20BRASILIA.png" group-title="RÁDIOS",CLUBE FM 105,5 Mhz (BRASÍLIA - DF)
