@@ -1,8 +1,10 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
+
 ##########################
 # CANAIS ABERTOS
 ##########################
+
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
 http://46.151.196.223:14707
@@ -95,9 +97,11 @@ http://12.proximidade112.top:80/123456/654321/127138.ts
 http://12.proximidade112.top:80/123456/654321/127173.ts
 
 
+
 ##########################
 # ESPORTES
 ##########################
+
 
 EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
 http://12.proximidade112.top:80/123456/654321/152884.ts
@@ -164,6 +168,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
 # PREMIERE
 ##########################
 
+
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
 http://46.151.196.223:14588
 
@@ -192,6 +197,7 @@ http://12.proximidade112.top:80/123456/654321/124951.ts
 ##########################
 # ESPORTES PPV
 ##########################
+
 
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -245,6 +251,7 @@ http://12.proximidade112.top:80/123456/654321/152573.ts
 ##########################
 # FILMES
 ##########################
+
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/KYSxdWsk/AMC.png" group-title="FILMES",AMC HD
 http://46.151.196.223:14636
@@ -330,9 +337,11 @@ http://46.151.196.223:14333
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tnt.m3u8
 
+
 ##########################
 # SÉRIES
 ##########################
+
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/ae.m3u8
@@ -365,6 +374,7 @@ http://46.151.196.223:14650
 ##########################
 # DOCUMETÁRIOS
 ##########################
+
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/animalplanet.m3u8
@@ -403,6 +413,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9.m3u8
 ##########################
 # VARIEDADES
 ##########################
+
 
 #EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/adultswim.m3u8
@@ -454,6 +465,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37025.ts
 # NOTÍCIAS
 ##########################
 
+
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.postimg.cc/Hnxgw1j0/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS HD
 http://46.151.196.223:14092
 
@@ -504,6 +516,7 @@ http://12.proximidade112.top:80/123456/654321/151873.ts
 # JAVA FILMES 
 ##########################
 
+
 #EXTINF:-1 tvg-id="" tvg-name="TRANSAÇÃO PERIGOSA" tvg-logo="http://image.tmdb.org//t/p/w600_and_h900_bestv2/byDeAJWEIz01PRQUzGFZULCsnC4.jpg" group-title="JAVA FILMES",TRANSAÇÃO PERIGOSA
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/648354.mp4
 
@@ -541,6 +554,7 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
 ##########################
 # SÉRIES 24H
 ##########################
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio S01 E01" tvg-logo="https://image.tmdb.org/t/p/w780/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="SÉRIES 24H",Dois Homens e Meio S01 E01
 http://dnsone.space:80/series/Rosalinapina/State3/1180177.mp4
@@ -1342,6 +1356,7 @@ http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96617
 # CINE SKY
 ##########################
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 1" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 1
 http://dnsone.space:80/Rosalinapina/State3/40623
 
@@ -1373,18 +1388,10 @@ http://dnsone.space:80/Rosalinapina/State3/896436
 http://dnsone.space:80/Rosalinapina/State3/896437
 
 
-
-
-
-
-
-
-
-
-
 ##########################
 # ENTRETENIMENTO
 ##########################
+
 
 #EXTINF:-1 tvg-id="multishowhd.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.postimg.cc/MHF8t3Qx/MULTI%20SHOW.png" group-title="ENTRETENIMENTO"",MULTISHOW HD
 http://12.proximidade112.top:80/123456/654321/151439.ts
@@ -1402,6 +1409,7 @@ http://12.proximidade112.top:80/123456/654321/151474.ts
 ##########################
 # INFANTIL E DESENHOS 24H
 ##########################
+
 
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
 http://12.proximidade112.top:80/123456/654321/152341.ts
@@ -1431,6 +1439,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 ##########################
 # CHICAGO FIRE
 ##########################
+
 
 #EXTINF:-1 tvg-name="CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/cvufcTVedvPhhraXg0KSVD6QTXk.jpg" group-title="CHICAGO FIRE",CHICAGO FIRE: HERÓIS CONTRA O FOGO S01E01
 http://12.proximidade112.top:80/series/123456/654321/4832921.mp4
@@ -2530,9 +2539,11 @@ http://12.proximidade112.top:80/series/123456/654321/5135239.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S13E15" tvg-logo="https://image.tmdb.org/t/p/w300/jGsJhtsZWlHjCAYCoJ1Ffhv5T7M.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S13E15
 http://12.proximidade112.top:80/series/123456/654321/5144947.mp4
 
+
 ##########################
 # CHICAGO MED
 ##########################
+
 
 #EXTINF:-1 tvg-name="CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/zgO40DcRVc3sh9vg9CpRoaICn0a.jpg" group-title="CHICAGO MED",CHICAGO MED: ATENDIMENTO DE EMERGÊNCIA S01E01
 http://12.proximidade112.top:80/series/123456/654321/4832941.mp4
@@ -2966,6 +2977,7 @@ http://12.proximidade112.top:80/series/123456/654321/5144949.mp4
 # FIRE COUNTRY
 ##########################
 
+
 #EXTINF:-1 tvg-id="" tvg-name="FIRE COUNTRY S01 E01" tvg-logo="https://image.tmdb.org/t/p/w1280/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg" group-title="FIRE COUNTRY",FIRE COUNTRY S01 E01
 http://aguasdecoco.cdnxjp.space:80/series/awz8gmbn/z0j3bp58/394091.mp4
 
@@ -3127,6 +3139,7 @@ http://aguasdecoco.cdnxjp.space:80/series/awz8gmbn/z0j3bp58/541313.mp4
 # CORTESIA
 ##########################
 
+
 #EXTINF:-1 tvg-id="" tvg-name="PEGADINHAS DO SBT HD" tvg-logo="https://i.postimg.cc/pLFjnNQH/PEGADINHA-DO-SBT.png" group-title="CORTESIA",PEGADINHAS DO SBT HD
 http://46.151.196.223:14003
 
@@ -3187,9 +3200,11 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
 #EXTINF:-1 tvg-id="xtremetv.br" tvg-name="XTREME TV HD" tvg-logo="https://i.postimg.cc/PfBDrs0M/XTREME-TV.png" group-title="CORTESIA",XTREME TV HD
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
+
 ##########################
 # CANAIS ADULTOS
 ##########################
+
 
 #EXTINF:-1 tvg-id="playboytv.br" tvg-name="PLAYBOY TV HD" tvg-logo="https://i.postimg.cc/rpM12f4M/PLAYBOY-TV.png" group-title="CANAIS ADULTOS",PLAYBOY TV HD
 http://12.proximidade112.top:80/123456/654321/4787646.ts
@@ -3221,9 +3236,11 @@ http://12.proximidade112.top:80/123456/654321/4787768.ts
 #EXTINF:-1 tvg-id="" tvg-name="BRENA BARBOSA" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",BRENA BARBOSA
 http://12.proximidade112.top:80/123456/654321/4787713.ts
 
+
 ##########################
 # RELIGIOSOS
 ##########################
+
 
 #EXTINF:-1 tvg-id="redevida.br" tvg-name="TV REDE VIDA HD" tvg-logo="https://i.postimg.cc/nrQFMLCC/REDE-VIDA.png" group-title="RELIGIOSOS",TV REDE VIDA HD
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
@@ -3244,6 +3261,7 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 ##########################
 # RÁDIOS
 ##########################
+
 
 #EXTINF:-1 tvg-id="superjava.br" tvg-name="SUPER JAVA WEB RÁDIO (JUIZ DE FORA - MG)" tvg-logo="https://i.postimg.cc/Wb3MCg5R/SUPER-JAVA-WEB-RADIO-2.png" group-title="RÁDIOS",SUPER JAVA WEB RÁDIO (JUIZ DE FORA - MG)
 https://stream-176.zeno.fm/ego2eudayomtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZ28yZXVkYXlvbXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InlmeXI0bXVyU0h5WWd6eTJEaXI1ZXciLCJpYXQiOjE3NzQzNzE5NTMsImV4cCI6MTc3NDM3MjAxM30.0H8qQcKWxPZWwrHp8Dhf_Z1pfi6ycV86KKQMBaAVODY&an-uid=2714247240901326777&dot-uid=0d1a220400ea22de6d982fc3&triton-uid=cookie%3Aa403c0e1-27b8-4f02-ba67-feca3bab9235&amb-uid=3254036726471821173&dbm-uid=CAESEAezZ3Bl-grQifPbIAgFmPI&cto-uid=4fec6fe5-ee42-41e9-bfa7-94b1d081bbf0-69a9d852-4252&bsw-uid=b68c7d2f-c1c1-4b8f-8c56-119239ae3fa1&dyn-uid=3999174471114028538&ttd-uid=daa6a5cb-bf58-4d95-a34a-28c12697012a&aw_0_req_lsid=0e3b460f0676faaddf723df9f80ccac8
