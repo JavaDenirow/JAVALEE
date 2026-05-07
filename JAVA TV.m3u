@@ -2014,9 +2014,10 @@ http://12.proximidade112.top:80/series/123456/654321/5144948.mp4
 ##########################
 # CHICAGO P.D.
 ##########################
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/nan3aX
-#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S01E02" tvg-logo="https://image.tmdb.org/t/p/w300pij5zSRglYzGPBGLhoiCR.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S01E01
-http://12.proximidade112.top:80/series/123456/654321/4833986.mp4/pgZlhZfwAljvjTzSIvoO3Eqm0zr.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S01E02
+
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/nan3aXpij5zSRglYzGPBGLhoiCR.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S01E01
+http://12.proximidade112.top:80/series/123456/654321/4833986.mp4
+#EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/pgZlhZfwAljvjTzSIvoO3Eqm0zr.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S01E02
 http://12.proximidade112.top:80/series/123456/654321/4833989.mp4
 #EXTINF:-1 tvg-name="CHICAGO P.D.: DISTRITO 21 S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/xf7nWmIZpHSzWO6KGlTQ16KK3WF.jpg" group-title="CHICAGO P.D.",CHICAGO P.D.: DISTRITO 21 S01E03
 http://12.proximidade112.top:80/series/123456/654321/4833992.mp4
