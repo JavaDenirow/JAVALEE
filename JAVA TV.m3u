@@ -3186,6 +3186,12 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
 #EXTINF:-1 tvg-id="xtremetv.br" tvg-name="XTREME TV HD" tvg-logo="https://i.postimg.cc/PfBDrs0M/XTREME-TV.png" group-title="CORTESIA",XTREME TV HD
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
+##########################
+# CANAIS ADULTOS
+##########################
+
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="CANAIS ADULTOS",SEXY HOT HD
+https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sexyhot.m3u8
 
 ##########################
 # RELIGIOSOS
