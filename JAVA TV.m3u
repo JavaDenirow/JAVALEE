@@ -304,7 +304,7 @@ http://12.proximidade112.top:80/123456/654321/223559.ts
 http://46.151.196.223:14607
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/studiouniversal.m3u8
+http://46.151.196.223:14613
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/tcm.m3u8
@@ -3190,8 +3190,35 @@ https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 # CANAIS ADULTOS
 ##########################
 
+#EXTINF:-1 tvg-id="playboytv.br" tvg-name="PLAYBOY TV HD" tvg-logo="https://i.postimg.cc/rpM12f4M/PLAYBOY-TV.png" group-title="CANAIS ADULTOS",PLAYBOY TV HD
+http://12.proximidade112.top:80/123456/654321/4787646.ts
+
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="CANAIS ADULTOS",SEXY HOT HD
+http://12.proximidade112.top:80/123456/654321/4787655.ts
+
 #EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="CANAIS ADULTOS",SEXY HOT HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sexyhot.m3u8
+
+#EXTINF:-1 tvg-id="sextreme.br" tvg-name="SEXTREME HD" tvg-logo="https://i.postimg.cc/ZKWm0mG5/SEXTREME.png" group-title="CANAIS ADULTOS",SEXTREME HD
+http://12.proximidade112.top:80/123456/654321/4787651.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="RITA CADILLAC" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",RITA CADILLAC
+http://12.proximidade112.top:80/123456/654321/4787794.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ANDRESSA URACH" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",ANDRESSA URACH
+http://12.proximidade112.top:80/123456/654321/4787705.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MULHER MELÃO" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",MULHER MELÃO
+http://12.proximidade112.top:80/123456/654321/4787787.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BRUNA LAMBERTINE" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",BRUNA LAMBERTINE
+http://12.proximidade112.top:80/123456/654321/4787718.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LUANA COUTO" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",LUANA COUTO
+http://12.proximidade112.top:80/123456/654321/4787768.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BRENA BARBOSA" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",BRENA BARBOSA
+http://12.proximidade112.top:80/123456/654321/4787713.ts
 
 ##########################
 # RELIGIOSOS
