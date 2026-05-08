@@ -128,7 +128,7 @@ http://46.151.196.223:14454
 http://46.151.196.223:14460
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-http://46.151.196.223:14284
+http://46.151.196.223:14285
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
 https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sportv2.m3u8
