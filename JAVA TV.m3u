@@ -5,27 +5,26 @@
 # CANAIS ABERTOS
 ##########################
 
+#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
+http://1.oneapps.live:80/alenatal/Alenatal10@/85936
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36968.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1943
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37090.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1948
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/40251.ts
-
-#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73068.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1981
 
 #EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62088.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/913990
 
 #EXTINF:-1 tvg-id="bandrio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68522.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1878
 
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://46.151.196.223:14204
@@ -36,11 +35,14 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36947.ts
 
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="TV ALTEROSA JF HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA JF HD
+http://1.oneapps.live:80/alenatal/Alenatal10@/978124
+
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://46.151.196.223:14273
+http://1.oneapps.live:80/alenatal/Alenatal10@/1900
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w189549315.m3u8
@@ -49,10 +51,10 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37012.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1910
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63632.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/897609
 
 #EXTINF:-1 tvg-id="istv.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
 https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1348821836.m3u8
@@ -70,7 +72,7 @@ http://12.proximidade112.top:80/123456/654321/127140.ts
 http://12.proximidade112.top:80/123456/654321/4035537.ts
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/60201.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2252
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
 http://12.proximidade112.top:80/123456/654321/4035491.ts
@@ -85,10 +87,10 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91273.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90975.ts
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68528.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2291
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
-http://12.proximidade112.top:80/123456/654321/127173.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/61721
 
 
 
@@ -98,10 +100,10 @@ http://12.proximidade112.top:80/123456/654321/127173.ts
 
 
 EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37125.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/13099
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
-http://46.151.196.223:14468
+http://1.oneapps.live:80/alenatal/Alenatal10@/1880
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
 http://46.151.196.223:14366
@@ -125,31 +127,31 @@ http://46.151.196.223:14460
 http://46.151.196.223:14285
 
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36943.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1917
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36942.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2037
 
 #EXTINF:-1 tvg-id="ge.br" tvg-name="GETV HD" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV
-https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/getv.m3u8
+http://1.oneapps.live:80/alenatal/Alenatal10@/1277946
 
 #EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
 http://46.151.196.223:14152
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
-http://12.proximidade112.top:80/123456/654321/122768.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/903009
 
 #EXTINF:-1 tvg-id="sportynet2.br" tvg-name="SPORTY NET 2 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 2 HD
-http://12.proximidade112.top:80/123456/654321/122769.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/903013
 
 #EXTINF:-1 tvg-id="sportynet3.br" tvg-name="SPORTY NET 3 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 3 HD
-http://12.proximidade112.top:80/123456/654321/122770.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/903019
 
 #EXTINF:-1 tvg-id="sportynet4.br" tvg-name="SPORTY NET 4 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 4 HD
-http://12.proximidade112.top:80/123456/654321/122771.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/903021
 
 #EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
-https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/xsports.m3u8
+http://1.oneapps.live:80/alenatal/Alenatal10@/1270005
 
 #EXTINF:-1 tvg-id="redbulltv.br" tvg-name="REDBULL TV HD" tvg-logo="https://i.postimg.cc/4NYGnGDk/REDBULL%20TV.png" group-title="ESPORTES",REDBULL TV HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46.m3u8
@@ -164,28 +166,28 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
 
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36948.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1898
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36952.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1892
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36951.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1893
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36950.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1894
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36949.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1895
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36906.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1896
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36905.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1897
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64657.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/914936
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE MOSAICO HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE MOSAICO HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/74669.ts
@@ -212,13 +214,13 @@ http://12.proximidade112.top:80/123456/654321/252415.ts
 http://46.151.196.223:14401
 
 #EXTINF:-1 tvg-id="primevideo.br" tvg-name="PRIME VÍDEO 1 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 1 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939690.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/905450
 
 #EXTINF:-1 tvg-id="primevideo2.br" tvg-name="PRIME VÍDEO 2 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939691.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/77859
 
 #EXTINF:-1 tvg-id="primevideo3.br" tvg-name="PRIME VÍDEO 3 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 3 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939692.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/77851
 
 #EXTINF:-1 tvg-id="primevideo4.br" tvg-name="PRIME VÍDEO 4 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 4 HD
 http://eassycd.com:80/live/Dbdjsk/leo334/601979.m3u8
@@ -232,17 +234,14 @@ https://pop.uniquetv.com.br/uniquesports1/video.m3u8
 #EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
 http://46.151.196.223:14131
 
-#EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
-http://12.proximidade112.top:80/123456/654321/152570.ts
-
 #EXTINF:-1 tvg-id="paramountplus2.br" tvg-name="PARAMOUNT PLUS 2" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 2
-http://12.proximidade112.top:80/123456/654321/152571.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/901877
 
 #EXTINF:-1 tvg-id="paramountplus3.br" tvg-name="PARAMOUNT PLUS 3" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 3
 http://12.proximidade112.top:80/123456/654321/152572.ts
 
 #EXTINF:-1 tvg-id="paramountplus4.br" tvg-name="PARAMOUNT PLUS 4" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 4
-http://12.proximidade112.top:80/123456/654321/152573.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/898825
 
 
 ##########################
@@ -251,13 +250,13 @@ http://12.proximidade112.top:80/123456/654321/152573.ts
 
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/KYSxdWsk/AMC.png" group-title="FILMES",AMC HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36928.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1807
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63636.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1908
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36926.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1816
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63646.ts
@@ -266,43 +265,43 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63646.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68536.ts
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36964.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1891
 
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/ZnRS8z07/HBO%202.png" group-title="FILMES",HBO 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36966.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1890
 
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/7h6k3rbt/HBO%20FAMILY.png" group-title="FILMES",HBO FAMILY HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36965.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1839
 
 #EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.postimg.cc/mkDsYWh5/HBO%20MUNDI.png" group-title="FILMES",HBO MUNDI HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36913.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1845
 
 #EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/qqRTsHgY/HBO%20PLUS.png" group-title="FILMES",HBO PLUS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36963.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2146
 
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://i.postimg.cc/Hnxgw1jF/HBO%20POP.png" group-title="FILMES",HBO POP HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36911.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1847
 
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/gjJWVbrQ/HBO%20SIGNATURE.png" group-title="FILMES",HBO SIGNATURE HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36962.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1841
 
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.postimg.cc/Bb60Tftd/HBO%20XTREME.png" group-title="FILMES",HBO XTREME HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36912.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2160
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36958.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2164
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.ts
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36944.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1862
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36904.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2222
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63644.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/47726
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://46.151.196.223:14349
@@ -314,7 +313,7 @@ http://46.151.196.223:14327
 http://46.151.196.223:14343
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37005.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1902
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
 http://46.151.196.223:14359
@@ -323,7 +322,7 @@ http://46.151.196.223:14359
 http://46.151.196.223:14333
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36934.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1868
 
 
 ##########################
@@ -335,28 +334,28 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36934.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36929.ts
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37132.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1810
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36933.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1869
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36932.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2258
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36903.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2215
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36914.ts
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36987.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1814
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/132133.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1280671
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36930.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1874
 
 ##########################
 # DOCUMETÁRIOS
@@ -364,34 +363,34 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36930.ts
 
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36992.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1808
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36985.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1881
 
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.postimg.cc/BbVGN71w/HISTORY.png" group-title="DOCUMENTÁRIOS",HISTORY HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37081.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1842
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36961.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2138
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36959.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1843
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36922.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1822
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36982.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2093
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36983.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1823
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64498.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1825
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9.m3u8
+http://1.oneapps.live:80/alenatal/Alenatal10@/1909
 
 
 ##########################
@@ -400,7 +399,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9.m3u8
 
 
 #EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37032.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/933257
 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63637.ts
@@ -436,7 +435,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/104056.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36902.ts
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36940.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/908273
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73329.ts
@@ -460,7 +459,7 @@ http://46.151.196.223:14078
 https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-id="timesbrasilcnbc.br" tvg-name="TIMES BRASIL (CNBC) HD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="NOTÍCIAS",TIMES BRASIL (CNBC) HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225129.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/965112
 
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/gkxprpf1/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD
 http://46.151.196.223:14099
@@ -493,7 +492,7 @@ http://46.151.196.223:14119
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-1 tvg-id="cnnmoney.br" tvg-name="CNN MONEY HD" tvg-logo="https://i.postimg.cc/mDV41gZW/CNN-MONEY.png" group-title="NOTÍCIAS",CNN MONEY HD
-http://12.proximidade112.top:80/123456/654321/151873.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/963936
 
 
 ##########################
@@ -3195,16 +3194,13 @@ https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="playboytv.br" tvg-name="PLAYBOY TV HD" tvg-logo="https://i.postimg.cc/rpM12f4M/PLAYBOY-TV.png" group-title="CANAIS ADULTOS",PLAYBOY TV HD
-http://12.proximidade112.top:80/123456/654321/4787646.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/1877
 
 #EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="CANAIS ADULTOS",SEXY HOT HD
-http://12.proximidade112.top:80/123456/654321/4787655.ts
-
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="CANAIS ADULTOS",SEXY HOT HD
-https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sexyhot.m3u8
+http://1.oneapps.live:80/alenatal/Alenatal10@/24771
 
 #EXTINF:-1 tvg-id="sextreme.br" tvg-name="SEXTREME HD" tvg-logo="https://i.postimg.cc/ZKWm0mG5/SEXTREME.png" group-title="CANAIS ADULTOS",SEXTREME HD
-http://12.proximidade112.top:80/123456/654321/4787651.ts
+http://1.oneapps.live:80/alenatal/Alenatal10@/2298
 
 #EXTINF:-1 tvg-id="" tvg-name="RITA CADILLAC" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",RITA CADILLAC
 http://12.proximidade112.top:80/123456/654321/4787794.ts
