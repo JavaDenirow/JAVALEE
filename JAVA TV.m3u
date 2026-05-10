@@ -164,10 +164,10 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
 
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-http://46.151.196.223:14588
+http://46.151.196.223:14098
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36952.ts
+http://46.151.196.223:14582
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
 http://46.151.196.223:14583
@@ -179,7 +179,7 @@ http://46.151.196.223:14584
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36949.ts
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36906.ts
+http://46.151.196.223:14586
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36905.ts
