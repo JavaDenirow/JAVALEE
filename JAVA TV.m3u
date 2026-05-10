@@ -18,13 +18,13 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/40251.ts
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO HD" - JUIZ DE FORA" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO HD - JUIZ DE FORA 
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73068.ts
 
-#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
+#EXTINF:-1 tvg-id="br#band-rj-hd" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62088.ts
 
-#EXTINF:-1 tvg-id="bandrio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
+#EXTINF:-1 tvg-id="br#band-rj-hdr" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68522.ts
 
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
