@@ -3221,6 +3221,12 @@ http://12.proximidade112.top:80/123456/654321/4787768.ts
 #EXTINF:-1 tvg-id="" tvg-name="BRENA BARBOSA" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",BRENA BARBOSA
 http://12.proximidade112.top:80/123456/654321/4787713.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="XXX" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",XXX
+http://46.151.196.223:14601
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",XXX
+http://46.151.196.223:14602
+
 
 ##########################
 # RELIGIOSOS
