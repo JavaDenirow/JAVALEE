@@ -98,7 +98,7 @@ http://12.proximidade112.top:80/123456/654321/127173.ts
 
 
 EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37125.ts
+http://46.151.196.223:14921
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
 http://46.151.196.223:14468
@@ -296,7 +296,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.ts
 http://46.151.196.223:14607
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36904.ts
+http://46.151.196.223:14613
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63644.ts
