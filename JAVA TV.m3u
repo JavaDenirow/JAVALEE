@@ -36,11 +36,19 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36947.ts
 
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="TV ALTEROSA JF HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA JF HD
+http://1.oneapps.live:80/alenatal/Alenatal10@/978124
+
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://46.151.196.223:14273
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="redetvrj.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
@@ -131,7 +139,7 @@ http://46.151.196.223:14921
 http://46.151.196.223:14468
 
 #EXTINF:-1 tvg-id="ge.br" tvg-name="GETV HD" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV
-http://1.oneapps.live:80/brunognu/b5616674721/1277947
+http://1.oneapps.live:80/alenatal/Alenatal10@/1277947
 
 #EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
 http://46.151.196.223:14152
