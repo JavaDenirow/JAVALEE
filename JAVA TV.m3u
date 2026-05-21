@@ -48,11 +48,6 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://46.151.196.223:14273
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="redetvrj.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
@@ -111,10 +106,10 @@ http://12.proximidade112.top:80/123456/654321/127173.ts
 http://46.151.196.223:14288
 
 #EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36943.ts
+http://dnsone.space:80/Rosalinapina/State3/1917
 
 #EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-http://46.151.196.223:14281
+http://dnsone.space:80/Rosalinapina/State3/2037
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
 http://46.151.196.223:14366
