@@ -326,7 +326,7 @@ http://46.151.196.223:14359
 http://46.151.196.223:14333
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36934.ts
+http://172.110.219.252/live/47125065/12264670/223586.ts
 
 
 ##########################
@@ -335,16 +335,16 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36934.ts
 
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36929.ts
+http://172.110.219.252/live/47125065/12264670/223532.ts
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37132.ts
+http://172.110.219.252/live/47125065/12264670/223537.ts
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36933.ts
+http://172.110.219.252/live/47125065/12264670/223593.ts
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36932.ts
+http://172.110.219.252/live/47125065/12264670/223595.ts
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36903.ts
@@ -357,6 +357,9 @@ http://46.151.196.223:14603
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/132133.ts
+
+#EXTINF:-1 tvg-id="sonyone.br" tvg-name="SONY ONE HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE HD
+http://172.110.219.252/live/47125065/12264670/223569.ts
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
 http://46.151.196.223:14648
@@ -437,10 +440,10 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36967.ts
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/104056.ts
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36902.ts
+http://172.110.219.252/live/47125065/12264670/223583.ts
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36940.ts
+http://172.110.219.252/live/47125065/12264670/223587.ts
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73329.ts
@@ -3257,46 +3260,6 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 
-##########################
-# CANAIS ADULTOS
-##########################
-
-
-#EXTINF:-1 tvg-id="playboytv.br" tvg-name="PLAYBOY TV HD" tvg-logo="https://i.postimg.cc/rpM12f4M/PLAYBOY-TV.png" group-title="CANAIS ADULTOS",PLAYBOY TV HD
-http://12.proximidade112.top:80/123456/654321/4787646.ts
-
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="CANAIS ADULTOS",SEXY HOT HD
-http://12.proximidade112.top:80/123456/654321/4787655.ts
-
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="CANAIS ADULTOS",SEXY HOT HD
-https://npmuf25xa04so8hp30.cloudfronte.lat/zzzstream/sexyhot.m3u8
-
-#EXTINF:-1 tvg-id="sextreme.br" tvg-name="SEXTREME HD" tvg-logo="https://i.postimg.cc/ZKWm0mG5/SEXTREME.png" group-title="CANAIS ADULTOS",SEXTREME HD
-http://12.proximidade112.top:80/123456/654321/4787651.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="RITA CADILLAC" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",RITA CADILLAC
-http://12.proximidade112.top:80/123456/654321/4787794.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ANDRESSA URACH" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",ANDRESSA URACH
-http://12.proximidade112.top:80/123456/654321/4787705.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MULHER MELÃO" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",MULHER MELÃO
-http://12.proximidade112.top:80/123456/654321/4787787.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BRUNA LAMBERTINE" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",BRUNA LAMBERTINE
-http://12.proximidade112.top:80/123456/654321/4787718.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LUANA COUTO" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",LUANA COUTO
-http://12.proximidade112.top:80/123456/654321/4787768.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BRENA BARBOSA" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",BRENA BARBOSA
-http://12.proximidade112.top:80/123456/654321/4787713.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",XXX
-http://46.151.196.223:14601
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX" tvg-logo="https://i.postimg.cc/2yxp2zPC/18.png" group-title="CANAIS ADULTOS",XXX
-http://46.151.196.223:14602
 
 
 ##########################
