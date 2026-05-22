@@ -10,7 +10,7 @@
 http://dnsone.space:80/Rosalinapina/State3/1943
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37090.ts
+http://dnsone.space:80/Rosalinapina/State3/62169
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://46.151.196.223:14861
@@ -67,7 +67,7 @@ https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1348821836.m3u8
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68407.ts
 
 #EXTINF:-1 tvg-id="	TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/61961.ts
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
 http://12.proximidade112.top:80/123456/654321/127140.ts
@@ -102,6 +102,7 @@ http://12.proximidade112.top:80/123456/654321/127173.ts
 # ESPORTES
 ##########################
 
+
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
 http://46.151.196.223:14288
 
@@ -128,7 +129,6 @@ http://46.151.196.223:14454
 
 #EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
 http://46.151.196.223:14460
-
 
 EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
 http://46.151.196.223:14921
@@ -361,6 +361,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/132133.ts
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
 http://46.151.196.223:14648
 
+
 ##########################
 # DOCUMETÁRIOS
 ##########################
@@ -503,54 +504,52 @@ http://12.proximidade112.top:80/123456/654321/151873.ts
 # CASA DO PATRÃO
 ##########################
 
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO MULTICAM 01" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO MULTICAM 01
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO MULTICAM 01" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO MULTICAM 01
 http://trabalho724.top:8080/08588258823/glyunfry/364465
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO MULTICAM 2" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO MULTICAM 2
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO MULTICAM 2" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO MULTICAM 2
 http://trabalho724.top:8080/08588258823/glyunfry/364458
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA PATRÃO SALA E COZINHA" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA PATRÃO SALA E COZINHA
+#EXTINF:-1 tvg-id="" tvg-name="CASA PATRÃO SALA E COZINHA" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA PATRÃO SALA E COZINHA
 http://trabalho724.top:8080/08588258823/glyunfry/364459
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO QUARTO COLETIVO" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO QUARTO COLETIVO
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO QUARTO COLETIVO" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO QUARTO COLETIVO
 http://trabalho724.top:8080/08588258823/glyunfry/364460
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SUITE DO PATRÃO" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO SUITE DO PATRÃO
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SUITE DO PATRÃO" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO SUITE DO PATRÃO
 http://trabalho724.top:8080/08588258823/glyunfry/364461
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO QUARTO DOS PARCAS" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO QUARTO DOS PARCAS
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO QUARTO DOS PARCAS" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO QUARTO DOS PARCAS
 http://trabalho724.top:8080/08588258823/glyunfry/364462
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO CONVIVÊNCIA" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO CONVIVÊNCIA
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO CONVIVÊNCIA" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO CONVIVÊNCIA
 http://trabalho724.top:8080/08588258823/glyunfry/364463
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO PISCINA" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO PISCINA
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO PISCINA" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO PISCINA
 http://trabalho724.top:8080/08588258823/glyunfry/364464
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 1)" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 1)
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 1)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 1)
 http://trabalho724.top:8080/08588258823/glyunfry/364467
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 2)" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 2)
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 2)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 2)
 http://trabalho724.top:8080/08588258823/glyunfry/364468
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 3)" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 3)
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 3)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 3)
 http://trabalho724.top:8080/08588258823/glyunfry/364469
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 4)" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 4)
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 4)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 4)
 http://trabalho724.top:8080/08588258823/glyunfry/364470
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 5)" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 5)
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 5)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 5)
 http://trabalho724.top:8080/08588258823/glyunfry/364471
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO ( CAM 6 )" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO ( CAM 6 )
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO ( CAM 6 )" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO ( CAM 6 )
 http://trabalho724.top:8080/08588258823/glyunfry/364472
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 7)" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 7)
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 7)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 7)
 http://trabalho724.top:8080/08588258823/glyunfry/364473
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 8 )" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 8 )
-http://trabalho724.top:8080/08588258823/glyunfry/364474
+#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 8 )" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 8 )
 
 
 ##########################
