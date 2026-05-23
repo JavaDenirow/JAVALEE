@@ -19,16 +19,16 @@ http://46.151.196.223:14861
 http://dnsone.space:80/Rosalinapina/State3/85936
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73068.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73068.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62088.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/62088.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68522.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68522.m3u8
 
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://46.151.196.223:14204
@@ -37,7 +37,7 @@ http://46.151.196.223:14204
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36947.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36947.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="TV ALTEROSA JF HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA JF HD
 http://1.oneapps.live:80/alenatal/Alenatal10@/978124
@@ -52,49 +52,49 @@ http://46.151.196.223:14273
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37012.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37012.m3u8
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w189549315.m3u8
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63632.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63632.m3u8
 
 #EXTINF:-1 tvg-id="istv.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
 https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1348821836.m3u8
 
 #EXTINF:-1 tvg-id="redeminas.br" tvg-name="REDE MINAS HD" tvg-logo="https://i.postimg.cc/GhkWgS9B/REDE-MINAS.png" group-title="CANAIS ABERTOS",REDEMINAS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68407.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68407.m3u8
 
 #EXTINF:-1 tvg-id="	TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
-http://12.proximidade112.top:80/123456/654321/127140.ts
+http://12.proximidade112.top:80/123456/654321/127140.m3u8
 
 #EXTINF:-1 tvg-id="tbc.goias" tvg-name="TV BRASIL CENTRAL TBC HD" tvg-logo="https://i.postimg.cc/RhG3Qhvy/TBC-LOGO.png" group-title="CANAIS ABERTOS",TV BRASIL CENTRAL TBC HD
-http://12.proximidade112.top:80/123456/654321/4035537.ts
+http://12.proximidade112.top:80/123456/654321/4035537.m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/60201.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/60201.m3u8
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
-http://12.proximidade112.top:80/123456/654321/4035491.ts
+http://12.proximidade112.top:80/123456/654321/4035491.m3u8
 
 #EXTINF:-1 tvg-id="amazonsat.br" tvg-name="AMAZON SAT HD" tvg-logo="https://i.postimg.cc/bvcpK5Fs/AMAZON-SAT.png" group-title="CANAIS ABERTOS",AMAZON SAT HD
-http://12.proximidade112.top:80/123456/654321/151382.ts
+http://12.proximidade112.top:80/123456/654321/151382.m3u8
 
 #EXTINF:-1 tvg-id="tvpocos.br" tvg-name="TV POÇOS HD" tvg-logo="https://i.postimg.cc/K8t2dVgq/TV-POCOS.png" group-title="CANAIS ABERTOS",TV POÇOS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91273.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91273.m3u8
 
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="CANAIS ABERTOS"",AGRO+
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90975.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/90975.m3u8
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68528.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68528.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
-http://12.proximidade112.top:80/123456/654321/127173.ts
+http://12.proximidade112.top:80/123456/654321/127173.m3u8
 
 
 
@@ -152,7 +152,7 @@ http://dnsone.space:80/Rosalinapina/State3/903010
 http://dnsone.space:80/Rosalinapina/State3/903018
 
 #EXTINF:-1 tvg-id="sportynet4.br" tvg-name="SPORTY NET 4 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 4 HD
-http://12.proximidade112.top:80/123456/654321/122771.ts
+http://12.proximidade112.top:80/123456/654321/122771.m3u8
 
 #EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
 http://dnsone.space:80/Rosalinapina/State3/1270005
@@ -182,13 +182,13 @@ http://46.151.196.223:14583
 http://46.151.196.223:14584
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36949.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36949.m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
 http://46.151.196.223:14586
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36905.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36905.m3u8
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
 http://46.151.196.223:14197
@@ -200,28 +200,28 @@ http://46.151.196.223:14197
 
 
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
-http://172.110.219.252/live/47125065/12264670/223746.ts
+http://172.110.219.252/live/47125065/12264670/223746.m3u8
 
 #EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
-http://172.110.219.252/live/47125065/12264670/223747.ts
+http://172.110.219.252/live/47125065/12264670/223747.m3u8
 
 #EXTINF:-1 tvg-id="Cazetv3.br" tvg-name="CAZÉ TV 3 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 3 HD
-http://172.110.219.252/live/47125065/12264670/223748.ts
+http://172.110.219.252/live/47125065/12264670/223748.m3u8
 
 #EXTINF:-1 tvg-id="Cazetv4.br" tvg-name="CAZÉ TV 4 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 4 HD
-http://12.proximidade112.top:80/123456/654321/252415.ts
+http://12.proximidade112.top:80/123456/654321/252415.m3u8
 
 #EXTINF:-1 tvg-id="canalgoat.br" tvg-name="CANAL GOAT HD" tvg-logo="https://i.postimg.cc/fLMZb9NF/CANAL-GOAT.png" group-title="ESPORTES PPV",CANAL GOAT HD
 http://46.151.196.223:14401
 
 #EXTINF:-1 tvg-id="primevideo.br" tvg-name="PRIME VÍDEO 1 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 1 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939690.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939690.m3u8
 
 #EXTINF:-1 tvg-id="primevideo2.br" tvg-name="PRIME VÍDEO 2 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939691.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939691.m3u8
 
 #EXTINF:-1 tvg-id="primevideo3.br" tvg-name="PRIME VÍDEO 3 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 3 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939692.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939692.m3u8
 
 #EXTINF:-1 tvg-id="primevideo4.br" tvg-name="PRIME VÍDEO 4 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 4 HD
 http://eassycd.com:80/live/Dbdjsk/leo334/601979.m3u8
@@ -236,16 +236,16 @@ https://pop.uniquetv.com.br/uniquesports1/video.m3u8
 http://46.151.196.223:14131
 
 #EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
-http://12.proximidade112.top:80/123456/654321/152570.ts
+http://12.proximidade112.top:80/123456/654321/152570.m3u8
 
 #EXTINF:-1 tvg-id="paramountplus2.br" tvg-name="PARAMOUNT PLUS 2" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 2
-http://12.proximidade112.top:80/123456/654321/152571.ts
+http://12.proximidade112.top:80/123456/654321/152571.m3u8
 
 #EXTINF:-1 tvg-id="paramountplus3.br" tvg-name="PARAMOUNT PLUS 3" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 3
-http://12.proximidade112.top:80/123456/654321/152572.ts
+http://12.proximidade112.top:80/123456/654321/152572.m3u8
 
 #EXTINF:-1 tvg-id="paramountplus4.br" tvg-name="PARAMOUNT PLUS 4" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 4
-http://12.proximidade112.top:80/123456/654321/152573.ts
+http://12.proximidade112.top:80/123456/654321/152573.m3u8
 
 
 ##########################
@@ -257,10 +257,10 @@ http://12.proximidade112.top:80/123456/654321/152573.ts
 http://46.151.196.223:14636
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
-http://172.110.219.252/live/47125065/12264670/223541.ts
+http://172.110.219.252/live/47125065/12264670/223541.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
-http://172.110.219.252/live/47125065/12264670/223549.ts
+http://172.110.219.252/live/47125065/12264670/223549.m3u8
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://46.151.196.223:14379
@@ -269,13 +269,13 @@ http://46.151.196.223:14379
 http://trabalho724.top:8080/08588258823/glyunfry/99449
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36964.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36964.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/ZnRS8z07/HBO%202.png" group-title="FILMES",HBO 2 HD
 http://dnsone.space:80/Rosalinapina/State3/2141
 
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/7h6k3rbt/HBO%20FAMILY.png" group-title="FILMES",HBO FAMILY HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36965.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36965.m3u8
 
 #EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.postimg.cc/mkDsYWh5/HBO%20MUNDI.png" group-title="FILMES",HBO MUNDI HD
 http://dnsone.space:80/Rosalinapina/State3/2158
@@ -284,19 +284,19 @@ http://dnsone.space:80/Rosalinapina/State3/2158
 http://dnsone.space:80/Rosalinapina/State3/1840
 
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://i.postimg.cc/Hnxgw1jF/HBO%20POP.png" group-title="FILMES",HBO POP HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36911.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36911.m3u8
 
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/gjJWVbrQ/HBO%20SIGNATURE.png" group-title="FILMES",HBO SIGNATURE HD
 http://dnsone.space:80/Rosalinapina/State3/1841
 
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.postimg.cc/Bb60Tftd/HBO%20XTREME.png" group-title="FILMES",HBO XTREME HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36912.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36912.m3u8
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36958.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36958.m3u8
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
 http://46.151.196.223:14607
@@ -305,7 +305,7 @@ http://46.151.196.223:14607
 http://46.151.196.223:14613
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63644.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63644.m3u8
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://46.151.196.223:14349
@@ -317,7 +317,7 @@ http://46.151.196.223:14327
 http://46.151.196.223:14343
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37005.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37005.m3u8
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
 http://46.151.196.223:14359
@@ -326,7 +326,7 @@ http://46.151.196.223:14359
 http://46.151.196.223:14333
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://172.110.219.252/live/47125065/12264670/223586.ts
+http://172.110.219.252/live/47125065/12264670/223586.m3u8
 
 
 ##########################
@@ -335,31 +335,31 @@ http://172.110.219.252/live/47125065/12264670/223586.ts
 
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
-http://172.110.219.252/live/47125065/12264670/223532.ts
+http://172.110.219.252/live/47125065/12264670/223532.m3u8
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://172.110.219.252/live/47125065/12264670/223537.ts
+http://172.110.219.252/live/47125065/12264670/223537.m3u8
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://172.110.219.252/live/47125065/12264670/223593.ts
+http://172.110.219.252/live/47125065/12264670/223593.m3u8
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
-http://172.110.219.252/live/47125065/12264670/223595.ts
+http://172.110.219.252/live/47125065/12264670/223595.m3u8
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36903.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36903.m3u8
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36914.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36914.m3u8
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
 http://46.151.196.223:14603
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/132133.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/132133.m3u8
 
 #EXTINF:-1 tvg-id="sonyone.br" tvg-name="SONY ONE HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE HD
-http://172.110.219.252/live/47125065/12264670/223569.ts
+http://172.110.219.252/live/47125065/12264670/223569.m3u8
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
 http://46.151.196.223:14648
@@ -380,22 +380,22 @@ http://46.151.196.223:14074
 http://46.151.196.223:14409
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36961.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36961.m3u8
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36959.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36959.m3u8
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36922.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36922.m3u8
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36982.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36982.m3u8
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36983.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36983.m3u8
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64498.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/64498.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9.m3u8
@@ -407,49 +407,49 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9.m3u8
 
 
 #EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37032.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37032.m3u8
 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63637.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63637.m3u8
 
 #EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="VARIEDADES",CANAL OFF HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36954.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36954.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37115.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37115.m3u8
 
 #EXTINF:-1 tvg-id="e.br" tvg-name="E!" tvg-logo="https://i.postimg.cc/TwQx5325/E.png" group-title="VARIEDADES",E!
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36920.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36920.m3u8
 
 #EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/gjJWVbrL/FISH%20TV.png" group-title="VARIEDADES",FISH TV
 http://46.151.196.223:14478
 
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/3NRTXQWm/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36919.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36919.m3u8
 
 #EXTINF:-1 tvg-id="globoplaynovelas.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://i.postimg.cc/2y6DQN3x/GLOBO%20PLAY%20NOVELAS.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36931.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36931.m3u8
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/8c0VwXrt/HGTV.png" group-title="VARIEDADES",HGTV HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36924.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36924.m3u8
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/D0ZTr3mB/GNT.png" group-title="VARIEDADES",GNT HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36967.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36967.m3u8
 
 #EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.postimg.cc/VvVc4ZCQ/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/104056.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/104056.m3u8
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
-http://172.110.219.252/live/47125065/12264670/223583.ts
+http://172.110.219.252/live/47125065/12264670/223583.m3u8
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://172.110.219.252/live/47125065/12264670/223587.ts
+http://172.110.219.252/live/47125065/12264670/223587.m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73329.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73329.m3u8
 
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/Pqjn6wPx/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36899.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36899.m3u8
 
 
 ##########################
@@ -467,7 +467,7 @@ http://46.151.196.223:14078
 https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-id="timesbrasilcnbc.br" tvg-name="TIMES BRASIL (CNBC) HD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="NOTÍCIAS",TIMES BRASIL (CNBC) HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225129.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/225129.m3u8
 
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/gkxprpf1/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD
 http://46.151.196.223:14099
@@ -479,7 +479,7 @@ http://46.151.196.223:14105
 http://46.151.196.223:14085
 
 #EXTINF:-1 tvg-id="cnn.espanol" tvg-name="CNN ESPANHOL" tvg-logo="https://i.postimg.cc/1tXhj1J1/CNN-ESPANHOL.png" group-title="NOTÍCIAS",CNN ESPANHOL
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91564.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91564.m3u8
 
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.postimg.cc/LX5KbFNK/CNN-INTERNACIONAL.png" group-title="NOTÍCIAS",CNN INTERNACIONAL
 http://46.151.196.223:14113
@@ -500,7 +500,7 @@ http://46.151.196.223:14119
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-1 tvg-id="cnnmoney.br" tvg-name="CNN MONEY HD" tvg-logo="https://i.postimg.cc/mDV41gZW/CNN-MONEY.png" group-title="NOTÍCIAS",CNN MONEY HD
-http://12.proximidade112.top:80/123456/654321/151873.ts
+http://12.proximidade112.top:80/123456/654321/151873.m3u8
 
 
 ##########################
@@ -1447,19 +1447,19 @@ http://dnsone.space:80/Rosalinapina/State3/896437
 http://46.151.196.223:14045
 
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/xC9Ydz2x/BIS.png" group-title="ENTRETENIMENTO",BIS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36988.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36988.m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002225.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002225.m3u8
 
 #EXTINF:-1 tvg-id="travelboxbrasil.br" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/tT3HVSmw/TRAVEL-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",TRAVEL BOX BRAZIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68526.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68526.m3u8
 
 #EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/L8mXNfp2/MUSIC-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63651.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63651.m3u8
 
 #EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/zvLJ9XcS/PRIME-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68532.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68532.m3u8
 
 
 ##########################
@@ -1468,25 +1468,25 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68532.ts
 
 
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63647.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63647.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36927.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36927.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.postimg.cc/KzmFYM26/CARTOONITO.png" group-title="INFANTIL E DESENHOS 24H",CARTOONITO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63627.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63627.m3u8
 
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/JnK8Hz7h/DISCOVERY-KIDS.png" group-title="INFANTIL E DESENHOS 24H",DISCOVERY KIDS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36923.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36923.m3u8
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36915.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36915.m3u8
 
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63720.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63720.m3u8
 
 #EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUM DUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUM DUM HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63779.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63779.m3u8
 
 #EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -3197,10 +3197,10 @@ http://aguasdecoco.cdnxjp.space:80/series/awz8gmbn/z0j3bp58/541313.mp4
 
 
 #EXTINF:-1 tvg-id="PlayPocaFilmes.br" tvg-name="PLAYPOCA FILMES" tvg-logo="https://i.postimg.cc/25kcQGTD/PLAYPOCA-FILMES.png" group-title="CORTESIA",PLAYPOCA FILMES
-http://172.110.219.252/live/47125065/12264670/223563.ts
+http://172.110.219.252/live/47125065/12264670/223563.m3u8
 
 #EXTINF:-1 tvg-id="PlayPocaSeries.br" tvg-name="PLAYPOCA SÉRIES" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="CORTESIA",PLAYPOCA SÉRIES 
-http://172.110.219.252/live/47125065/12264670/223564.ts
+http://172.110.219.252/live/47125065/12264670/223564.m3u8
 
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="CORTESIA",ADRENALINA PURA TV HD
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
@@ -3227,10 +3227,10 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tastemade.br" tvg-name="TASTEMADE HD" tvg-logo="https://i.postimg.cc/wjJvMC5g/TASTEMADE-TV.png" group-title="CORTESIA",TASTEMADE HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002313.ts
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002313.m3u8
 
 #EXTINF:-1 tvg-id="classicosdocinema.br" tvg-name="TV CLÁSSICOS DO CINEMA HD" tvg-logo="https://i.postimg.cc/YCpgWNRs/TV-CLASSICOS-DO-CINEMA.png" group-title="CORTESIA",CLÁSSICOS DO CINEMA HD
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="tvseries.br" tvg-name="TV SÉRIES HD" tvg-logo="https://i.postimg.cc/gkvCtBrH/TV-SERIES.png" group-title="CORTESIA",TV SÉRIES HD
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
