@@ -97,157 +97,6 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68528.m3u8
 http://12.proximidade112.top:80/123456/654321/127173.m3u8
 
 
-
-##########################
-# ESPORTES
-##########################
-
-
-#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-http://46.151.196.223:14288
-
-#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-http://dnsone.space:80/Rosalinapina/State3/1917
-
-#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-http://dnsone.space:80/Rosalinapina/State3/2037
-
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
-http://46.151.196.223:14366
-
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJ4pL2ch/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD
-http://46.151.196.223:14438
-
-#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/xCgQN1jM/ESPN%203.png" group-title="ESPORTES",ESPN 3 HD
-http://46.151.196.223:14442
-
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/Y987LC2Q/ESPN%204.png" group-title="ESPORTES",ESPN 4 HD
-http://46.151.196.223:14448
-
-#EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/G2zRTm3k/ESPN%205.png" group-title="ESPORTES",ESPN 5 HD
-http://46.151.196.223:14454
-
-#EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
-http://46.151.196.223:14460
-
-EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
-http://46.151.196.223:14921
-
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
-http://46.151.196.223:14468
-
-#EXTINF:-1 tvg-id="ge.br" tvg-name="GETV HD" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV
-http://trabalho724.top:8080/08588258823/glyunfry/355685
-
-#EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
-http://46.151.196.223:14152
-
-#EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
-http://dnsone.space:80/Rosalinapina/State3/903009
-
-#EXTINF:-1 tvg-id="sportynet2.br" tvg-name="SPORTY NET 2 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 2 HD
-http://dnsone.space:80/Rosalinapina/State3/903010
-
-#EXTINF:-1 tvg-id="sportynet3.br" tvg-name="SPORTY NET 3 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 3 HD
-http://dnsone.space:80/Rosalinapina/State3/903018
-
-#EXTINF:-1 tvg-id="sportynet4.br" tvg-name="SPORTY NET 4 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 4 HD
-http://12.proximidade112.top:80/123456/654321/122771.m3u8
-
-#EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
-http://dnsone.space:80/Rosalinapina/State3/1270005
-
-#EXTINF:-1 tvg-id="redbulltv.br" tvg-name="REDBULL TV HD" tvg-logo="https://i.postimg.cc/4NYGnGDk/REDBULL%20TV.png" group-title="ESPORTES",REDBULL TV HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46.m3u8
-
-#EXTINF:-1 tvg-id="fueltv.br" tvg-logo="https://i.postimg.cc/zvBrCY3T/FUEL%20TV.png" group-title="ESPORTES",FUEL TV HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
-
-
-##########################
-# PREMIERE
-##########################
-
-
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-http://46.151.196.223:14098
-
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-http://46.151.196.223:14582
-
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
-http://46.151.196.223:14583
-
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
-http://46.151.196.223:14584
-
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36949.m3u8
-
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
-http://46.151.196.223:14586
-
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36905.m3u8
-
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
-http://46.151.196.223:14197
-
-
-##########################
-# ESPORTES PPV
-##########################
-
-
-#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
-http://172.110.219.252/live/47125065/12264670/223746.m3u8
-
-#EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
-http://172.110.219.252/live/47125065/12264670/223747.m3u8
-
-#EXTINF:-1 tvg-id="Cazetv3.br" tvg-name="CAZÉ TV 3 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 3 HD
-http://172.110.219.252/live/47125065/12264670/223748.m3u8
-
-#EXTINF:-1 tvg-id="Cazetv4.br" tvg-name="CAZÉ TV 4 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 4 HD
-http://12.proximidade112.top:80/123456/654321/252415.m3u8
-
-#EXTINF:-1 tvg-id="canalgoat.br" tvg-name="CANAL GOAT HD" tvg-logo="https://i.postimg.cc/fLMZb9NF/CANAL-GOAT.png" group-title="ESPORTES PPV",CANAL GOAT HD
-http://46.151.196.223:14401
-
-#EXTINF:-1 tvg-id="primevideo.br" tvg-name="PRIME VÍDEO 1 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 1 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939690.m3u8
-
-#EXTINF:-1 tvg-id="primevideo2.br" tvg-name="PRIME VÍDEO 2 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 2 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939691.m3u8
-
-#EXTINF:-1 tvg-id="primevideo3.br" tvg-name="PRIME VÍDEO 3 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 3 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939692.m3u8
-
-#EXTINF:-1 tvg-id="primevideo4.br" tvg-name="PRIME VÍDEO 4 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 4 HD
-http://eassycd.com:80/live/Dbdjsk/leo334/601979.m3u8
-
-#EXTINF:-1 tvg-id="primevideo5.br" tvg-name="PRIME VÍDEO 5 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 5 HD
-http://eassycd.com:80/live/Dbdjsk/leo334/601985.m3u8
-
-#EXTINF:-1 tvg-id="uniquesports.br" tvg-name="UNIQUE SPORTS HD" tvg-logo="https://i.postimg.cc/J4bfYdtx/UNIQUE-SPORTS.png" group-title="ESPORTES PPV",UNIQUE SPORTS HD
-https://pop.uniquetv.com.br/uniquesports1/video.m3u8
-
-#EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
-http://46.151.196.223:14131
-
-#EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
-http://12.proximidade112.top:80/123456/654321/152570.m3u8
-
-#EXTINF:-1 tvg-id="paramountplus2.br" tvg-name="PARAMOUNT PLUS 2" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 2
-http://12.proximidade112.top:80/123456/654321/152571.m3u8
-
-#EXTINF:-1 tvg-id="paramountplus3.br" tvg-name="PARAMOUNT PLUS 3" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 3
-http://12.proximidade112.top:80/123456/654321/152572.m3u8
-
-#EXTINF:-1 tvg-id="paramountplus4.br" tvg-name="PARAMOUNT PLUS 4" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 4
-http://12.proximidade112.top:80/123456/654321/152573.m3u8
-
-
 ##########################
 # FILMES
 ##########################
@@ -453,6 +302,129 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36899.m3u8
 
 
 ##########################
+# CORTESIA
+##########################
+
+
+#EXTINF:-1 tvg-id="PlayPocaFilmes.br" tvg-name="PLAYPOCA FILMES" tvg-logo="https://i.postimg.cc/25kcQGTD/PLAYPOCA-FILMES.png" group-title="CORTESIA",PLAYPOCA FILMES
+http://172.110.219.252/live/47125065/12264670/223563.m3u8
+
+#EXTINF:-1 tvg-id="PlayPocaSeries.br" tvg-name="PLAYPOCA SÉRIES" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="CORTESIA",PLAYPOCA SÉRIES 
+http://172.110.219.252/live/47125065/12264670/223564.m3u8
+
+#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="CORTESIA",ADRENALINA PURA TV HD
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
+
+#EXTINF:-1 tvg-id="adesso.br" tvg-name="ADESSO TV HD" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="CORTESIA",ADESSO TV HD
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="awtv.br"tvg-name="AWTV HD" tvg-logo="https://i.postimg.cc/jjHtKhGN/AWTV.png" group-title="CORTESIA",AWTV HD
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="canal29.br" tvg-name="CANAL 29 HD" tvg-logo="https://i.postimg.cc/rFSBZYzF/CANAL-29.png" group-title="CORTESIA",CANAL 29 HD
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gallotv.br"tvg-name="GALLO TV HD" tvg-logo="https://i.postimg.cc/02pTXHrD/TV-GALLO.png" group-title="CORTESIA",GALLO TV HD
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvone.br" tvg-name="TV ONE HD" tvg-logo="https://i.postimg.cc/Jz3Vhc8G/TV-ONE.png" group-title="CORTESIA",TV ONE HD
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="geekdot.br" tvg-name="GEEKDOT HD" tvg-logo="https://i.postimg.cc/m2Qvp6hZ/GEEKDOT.png" group-title="CORTESIA",GEEKDOT HD
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="loading.br" tvg-name="LOADING TV HD" tvg-logo="https://i.postimg.cc/gkvCtBr0/LOADING.png" group-title="CORTESIA",LOADING TV HD
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tastemade.br" tvg-name="TASTEMADE HD" tvg-logo="https://i.postimg.cc/wjJvMC5g/TASTEMADE-TV.png" group-title="CORTESIA",TASTEMADE HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002313.m3u8
+
+#EXTINF:-1 tvg-id="classicosdocinema.br" tvg-name="TV CLÁSSICOS DO CINEMA HD" tvg-logo="https://i.postimg.cc/YCpgWNRs/TV-CLASSICOS-DO-CINEMA.png" group-title="CORTESIA",CLÁSSICOS DO CINEMA HD
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.m3u8.m3u8
+
+#EXTINF:-1 tvg-id="tvseries.br" tvg-name="TV SÉRIES HD" tvg-logo="https://i.postimg.cc/gkvCtBrH/TV-SERIES.png" group-title="CORTESIA",TV SÉRIES HD
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvsonata.br" tvg-name="TV SONATA HD" tvg-logo="https://i.postimg.cc/FK5YwcpJ/TV-SONATA.png" group-title="CORTESIA",TV SONATA HD
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+
+#EXTINF:-1 tvg-id="urbanseries.br" tvg-name="URBAN SÉRIES HD" tvg-logo="https://i.postimg.cc/d0Phgd6r/URBAN-SERIES.png" group-title="CORTESIA",URBAN SÉRIES HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/110.m3u8
+
+#EXTINF:-1 tvg-id="urbandrive.br" tvg-name="URBAN DRIVE HD" tvg-logo="https://i.postimg.cc/sDXLBHSr/URBAN-DRIVE.png" group-title="CORTESIA",URBAN DRIVE HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/106.m3u8
+
+#EXTINF:-1 tvg-id="urbanmovies.br" tvg-name="URBAN MOVIES HD" tvg-logo="https://i.postimg.cc/W4Ldxr8k/URBAN-MOVIES.png" group-title="CORTESIA",URBAN MOVIES HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/108.m3u8
+
+#EXTINF:-1 tvg-id="urbankids.br" tvg-name="URBAN KIDS HD" tvg-logo="https://i.postimg.cc/MG2ngR5f/URBAN%20KIDS.png" group-title="CORTESIA",URBAN KIDS HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/105.m3u8
+
+#EXTINF:-1 tvg-id="urbantravel.br" tvg-name="URBAN TRAVEL HD" tvg-logo="https://i.postimg.cc/CKTR9D7b/URBAN-TRAVEL.png" group-title="CORTESIA",URBAN TRAVEL HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/111.m3u8
+
+#EXTINF:-1 tvg-id="urbanturbo.br" tvg-name="URBAN TURBO HD" tvg-logo="https://i.postimg.cc/0NRzhmnY/URBAN-TURBO.png" group-title="CORTESIA",URBAN TURBO HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
+
+#EXTINF:-1 tvg-id="xtremetv.br" tvg-name="XTREME TV HD" tvg-logo="https://i.postimg.cc/PfBDrs0M/XTREME-TV.png" group-title="CORTESIA",XTREME TV HD
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+
+
+##########################
+# ENTRETENIMENTO
+##########################
+
+
+#EXTINF:-1 tvg-id="multishowhd.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.postimg.cc/MHF8t3Qx/MULTI%20SHOW.png" group-title="ENTRETENIMENTO"",MULTISHOW HD
+http://46.151.196.223:14045
+
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/xC9Ydz2x/BIS.png" group-title="ENTRETENIMENTO",BIS HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36988.m3u8
+
+#EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002225.m3u8
+
+#EXTINF:-1 tvg-id="travelboxbrasil.br" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/tT3HVSmw/TRAVEL-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",TRAVEL BOX BRAZIL HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68526.m3u8
+
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/L8mXNfp2/MUSIC-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63651.m3u8
+
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/zvLJ9XcS/PRIME-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68532.m3u8
+
+
+##########################
+# INFANTIL E DESENHOS 24H
+##########################
+
+
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63647.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36927.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.postimg.cc/KzmFYM26/CARTOONITO.png" group-title="INFANTIL E DESENHOS 24H",CARTOONITO HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63627.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/JnK8Hz7h/DISCOVERY-KIDS.png" group-title="INFANTIL E DESENHOS 24H",DISCOVERY KIDS HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36923.m3u8
+
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36915.m3u8
+
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63720.m3u8
+
+#EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUM DUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUM DUM HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63779.m3u8
+
+#EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+
+##########################
 # NOTÍCIAS
 ##########################
 
@@ -501,6 +473,157 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-1 tvg-id="cnnmoney.br" tvg-name="CNN MONEY HD" tvg-logo="https://i.postimg.cc/mDV41gZW/CNN-MONEY.png" group-title="NOTÍCIAS",CNN MONEY HD
 http://12.proximidade112.top:80/123456/654321/151873.m3u8
+
+
+
+##########################
+# ESPORTES
+##########################
+
+
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
+http://46.151.196.223:14288
+
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
+http://dnsone.space:80/Rosalinapina/State3/1917
+
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
+http://dnsone.space:80/Rosalinapina/State3/2037
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
+http://46.151.196.223:14366
+
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJ4pL2ch/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD
+http://46.151.196.223:14438
+
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/xCgQN1jM/ESPN%203.png" group-title="ESPORTES",ESPN 3 HD
+http://46.151.196.223:14442
+
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/Y987LC2Q/ESPN%204.png" group-title="ESPORTES",ESPN 4 HD
+http://46.151.196.223:14448
+
+#EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/G2zRTm3k/ESPN%205.png" group-title="ESPORTES",ESPN 5 HD
+http://46.151.196.223:14454
+
+#EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
+http://46.151.196.223:14460
+
+EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
+http://46.151.196.223:14921
+
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
+http://46.151.196.223:14468
+
+#EXTINF:-1 tvg-id="ge.br" tvg-name="GETV HD" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV
+http://trabalho724.top:8080/08588258823/glyunfry/355685
+
+#EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
+http://46.151.196.223:14152
+
+#EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
+http://dnsone.space:80/Rosalinapina/State3/903009
+
+#EXTINF:-1 tvg-id="sportynet2.br" tvg-name="SPORTY NET 2 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 2 HD
+http://dnsone.space:80/Rosalinapina/State3/903010
+
+#EXTINF:-1 tvg-id="sportynet3.br" tvg-name="SPORTY NET 3 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 3 HD
+http://dnsone.space:80/Rosalinapina/State3/903018
+
+#EXTINF:-1 tvg-id="sportynet4.br" tvg-name="SPORTY NET 4 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 4 HD
+http://12.proximidade112.top:80/123456/654321/122771.m3u8
+
+#EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
+http://dnsone.space:80/Rosalinapina/State3/1270005
+
+#EXTINF:-1 tvg-id="redbulltv.br" tvg-name="REDBULL TV HD" tvg-logo="https://i.postimg.cc/4NYGnGDk/REDBULL%20TV.png" group-title="ESPORTES",REDBULL TV HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46.m3u8
+
+#EXTINF:-1 tvg-id="fueltv.br" tvg-logo="https://i.postimg.cc/zvBrCY3T/FUEL%20TV.png" group-title="ESPORTES",FUEL TV HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
+
+
+##########################
+# PREMIERE
+##########################
+
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
+http://46.151.196.223:14098
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
+http://46.151.196.223:14582
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
+http://46.151.196.223:14583
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
+http://46.151.196.223:14584
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36949.m3u8
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
+http://46.151.196.223:14586
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36905.m3u8
+
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
+http://46.151.196.223:14197
+
+
+##########################
+# ESPORTES PPV
+##########################
+
+
+#EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
+http://172.110.219.252/live/47125065/12264670/223746.m3u8
+
+#EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
+http://172.110.219.252/live/47125065/12264670/223747.m3u8
+
+#EXTINF:-1 tvg-id="Cazetv3.br" tvg-name="CAZÉ TV 3 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 3 HD
+http://172.110.219.252/live/47125065/12264670/223748.m3u8
+
+#EXTINF:-1 tvg-id="Cazetv4.br" tvg-name="CAZÉ TV 4 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 4 HD
+http://12.proximidade112.top:80/123456/654321/252415.m3u8
+
+#EXTINF:-1 tvg-id="canalgoat.br" tvg-name="CANAL GOAT HD" tvg-logo="https://i.postimg.cc/fLMZb9NF/CANAL-GOAT.png" group-title="ESPORTES PPV",CANAL GOAT HD
+http://46.151.196.223:14401
+
+#EXTINF:-1 tvg-id="primevideo.br" tvg-name="PRIME VÍDEO 1 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 1 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939690.m3u8
+
+#EXTINF:-1 tvg-id="primevideo2.br" tvg-name="PRIME VÍDEO 2 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 2 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939691.m3u8
+
+#EXTINF:-1 tvg-id="primevideo3.br" tvg-name="PRIME VÍDEO 3 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 3 HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939692.m3u8
+
+#EXTINF:-1 tvg-id="primevideo4.br" tvg-name="PRIME VÍDEO 4 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 4 HD
+http://eassycd.com:80/live/Dbdjsk/leo334/601979.m3u8
+
+#EXTINF:-1 tvg-id="primevideo5.br" tvg-name="PRIME VÍDEO 5 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 5 HD
+http://eassycd.com:80/live/Dbdjsk/leo334/601985.m3u8
+
+#EXTINF:-1 tvg-id="uniquesports.br" tvg-name="UNIQUE SPORTS HD" tvg-logo="https://i.postimg.cc/J4bfYdtx/UNIQUE-SPORTS.png" group-title="ESPORTES PPV",UNIQUE SPORTS HD
+https://pop.uniquetv.com.br/uniquesports1/video.m3u8
+
+#EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
+http://46.151.196.223:14131
+
+#EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNT PLUS 1" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 1
+http://12.proximidade112.top:80/123456/654321/152570.m3u8
+
+#EXTINF:-1 tvg-id="paramountplus2.br" tvg-name="PARAMOUNT PLUS 2" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 2
+http://12.proximidade112.top:80/123456/654321/152571.m3u8
+
+#EXTINF:-1 tvg-id="paramountplus3.br" tvg-name="PARAMOUNT PLUS 3" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 3
+http://12.proximidade112.top:80/123456/654321/152572.m3u8
+
+#EXTINF:-1 tvg-id="paramountplus4.br" tvg-name="PARAMOUNT PLUS 4" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 4
+http://12.proximidade112.top:80/123456/654321/152573.m3u8
 
 
 ##########################
@@ -1439,60 +1562,6 @@ http://dnsone.space:80/Rosalinapina/State3/896436
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cine%20Sky.png" group-title="CINE SKY",CINE SKY 10
 http://dnsone.space:80/Rosalinapina/State3/896437
-
-
-##########################
-# ENTRETENIMENTO
-##########################
-
-
-#EXTINF:-1 tvg-id="multishowhd.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.postimg.cc/MHF8t3Qx/MULTI%20SHOW.png" group-title="ENTRETENIMENTO"",MULTISHOW HD
-http://46.151.196.223:14045
-
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/xC9Ydz2x/BIS.png" group-title="ENTRETENIMENTO",BIS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36988.m3u8
-
-#EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002225.m3u8
-
-#EXTINF:-1 tvg-id="travelboxbrasil.br" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/tT3HVSmw/TRAVEL-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",TRAVEL BOX BRAZIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68526.m3u8
-
-#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/L8mXNfp2/MUSIC-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63651.m3u8
-
-#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/zvLJ9XcS/PRIME-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/68532.m3u8
-
-
-##########################
-# INFANTIL E DESENHOS 24H
-##########################
-
-
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63647.m3u8
-
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36927.m3u8
-
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.postimg.cc/KzmFYM26/CARTOONITO.png" group-title="INFANTIL E DESENHOS 24H",CARTOONITO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63627.m3u8
-
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/JnK8Hz7h/DISCOVERY-KIDS.png" group-title="INFANTIL E DESENHOS 24H",DISCOVERY KIDS HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36923.m3u8
-
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36915.m3u8
-
-#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63720.m3u8
-
-#EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUM DUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUM DUM HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/63779.m3u8
-
-#EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 
 ##########################
@@ -3194,73 +3263,7 @@ http://aguasdecoco.cdnxjp.space:80/series/awz8gmbn/z0j3bp58/541312.mp4
 http://aguasdecoco.cdnxjp.space:80/series/awz8gmbn/z0j3bp58/541313.mp4
 
 
-##########################
-# CORTESIA
-##########################
 
-
-#EXTINF:-1 tvg-id="PlayPocaFilmes.br" tvg-name="PLAYPOCA FILMES" tvg-logo="https://i.postimg.cc/25kcQGTD/PLAYPOCA-FILMES.png" group-title="CORTESIA",PLAYPOCA FILMES
-http://172.110.219.252/live/47125065/12264670/223563.m3u8
-
-#EXTINF:-1 tvg-id="PlayPocaSeries.br" tvg-name="PLAYPOCA SÉRIES" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="CORTESIA",PLAYPOCA SÉRIES 
-http://172.110.219.252/live/47125065/12264670/223564.m3u8
-
-#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="CORTESIA",ADRENALINA PURA TV HD
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
-
-#EXTINF:-1 tvg-id="adesso.br" tvg-name="ADESSO TV HD" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="CORTESIA",ADESSO TV HD
-https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="awtv.br"tvg-name="AWTV HD" tvg-logo="https://i.postimg.cc/jjHtKhGN/AWTV.png" group-title="CORTESIA",AWTV HD
-https://awtv.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="canal29.br" tvg-name="CANAL 29 HD" tvg-logo="https://i.postimg.cc/rFSBZYzF/CANAL-29.png" group-title="CORTESIA",CANAL 29 HD
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
-#EXTINF:-1 tvg-id="gallotv.br"tvg-name="GALLO TV HD" tvg-logo="https://i.postimg.cc/02pTXHrD/TV-GALLO.png" group-title="CORTESIA",GALLO TV HD
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvone.br" tvg-name="TV ONE HD" tvg-logo="https://i.postimg.cc/Jz3Vhc8G/TV-ONE.png" group-title="CORTESIA",TV ONE HD
-https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="geekdot.br" tvg-name="GEEKDOT HD" tvg-logo="https://i.postimg.cc/m2Qvp6hZ/GEEKDOT.png" group-title="CORTESIA",GEEKDOT HD
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="loading.br" tvg-name="LOADING TV HD" tvg-logo="https://i.postimg.cc/gkvCtBr0/LOADING.png" group-title="CORTESIA",LOADING TV HD
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tastemade.br" tvg-name="TASTEMADE HD" tvg-logo="https://i.postimg.cc/wjJvMC5g/TASTEMADE-TV.png" group-title="CORTESIA",TASTEMADE HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002313.m3u8
-
-#EXTINF:-1 tvg-id="classicosdocinema.br" tvg-name="TV CLÁSSICOS DO CINEMA HD" tvg-logo="https://i.postimg.cc/YCpgWNRs/TV-CLASSICOS-DO-CINEMA.png" group-title="CORTESIA",CLÁSSICOS DO CINEMA HD
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.m3u8.m3u8
-
-#EXTINF:-1 tvg-id="tvseries.br" tvg-name="TV SÉRIES HD" tvg-logo="https://i.postimg.cc/gkvCtBrH/TV-SERIES.png" group-title="CORTESIA",TV SÉRIES HD
-https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvsonata.br" tvg-name="TV SONATA HD" tvg-logo="https://i.postimg.cc/FK5YwcpJ/TV-SONATA.png" group-title="CORTESIA",TV SONATA HD
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-
-#EXTINF:-1 tvg-id="urbanseries.br" tvg-name="URBAN SÉRIES HD" tvg-logo="https://i.postimg.cc/d0Phgd6r/URBAN-SERIES.png" group-title="CORTESIA",URBAN SÉRIES HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/110.m3u8
-
-#EXTINF:-1 tvg-id="urbandrive.br" tvg-name="URBAN DRIVE HD" tvg-logo="https://i.postimg.cc/sDXLBHSr/URBAN-DRIVE.png" group-title="CORTESIA",URBAN DRIVE HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/106.m3u8
-
-#EXTINF:-1 tvg-id="urbanmovies.br" tvg-name="URBAN MOVIES HD" tvg-logo="https://i.postimg.cc/W4Ldxr8k/URBAN-MOVIES.png" group-title="CORTESIA",URBAN MOVIES HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/108.m3u8
-
-#EXTINF:-1 tvg-id="urbankids.br" tvg-name="URBAN KIDS HD" tvg-logo="https://i.postimg.cc/MG2ngR5f/URBAN%20KIDS.png" group-title="CORTESIA",URBAN KIDS HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/105.m3u8
-
-#EXTINF:-1 tvg-id="urbantravel.br" tvg-name="URBAN TRAVEL HD" tvg-logo="https://i.postimg.cc/CKTR9D7b/URBAN-TRAVEL.png" group-title="CORTESIA",URBAN TRAVEL HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/111.m3u8
-
-#EXTINF:-1 tvg-id="urbanturbo.br" tvg-name="URBAN TURBO HD" tvg-logo="https://i.postimg.cc/0NRzhmnY/URBAN-TURBO.png" group-title="CORTESIA",URBAN TURBO HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
-
-#EXTINF:-1 tvg-id="xtremetv.br" tvg-name="XTREME TV HD" tvg-logo="https://i.postimg.cc/PfBDrs0M/XTREME-TV.png" group-title="CORTESIA",XTREME TV HD
-https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 
 
