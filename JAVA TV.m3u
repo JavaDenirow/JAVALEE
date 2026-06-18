@@ -79,7 +79,7 @@ http://12.proximidade112.top:80/123456/654321/4035537.m3u8
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/60201.m3u8
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
-http://12.proximidade112.top:80/123456/654321/4035491.m3u8
+http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-id="amazonsat.br" tvg-name="AMAZON SAT HD" tvg-logo="https://i.postimg.cc/bvcpK5Fs/AMAZON-SAT.png" group-title="CANAIS ABERTOS",AMAZON SAT HD
 http://12.proximidade112.top:80/123456/654321/151382.m3u8
@@ -151,7 +151,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
 http://46.151.196.223:14607
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://46.151.196.223:14613
+http://dnsone.space:80/Rosalinapina/State3/1863
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 http://dnsone.space:80/Rosalinapina/State3/47726
@@ -166,7 +166,7 @@ http://46.151.196.223:14327
 http://46.151.196.223:14343
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-http://dnsone.space:80/Rosalinapina/State3/1902
+http://46.151.196.223:14337
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
 http://46.151.196.223:14359
@@ -220,7 +220,7 @@ http://46.151.196.223:14648
 
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://46.151.196.223:14321
+http://dnsone.space:80/Rosalinapina/State3/1808
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
 http://46.151.196.223:14074
@@ -459,9 +459,6 @@ http://46.151.196.223:14113
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 MONDE" tvg-logo="https://i.postimg.cc/DZ60qh0p/TV5-MONDE.png" group-title="NOTÍCIAS",TV5 MONDE
 http://46.151.196.223:14114
 
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC PORTUGAL" tvg-logo="https://i.postimg.cc/SsdRW4Rg/TV-SIC.png" group-title="NOTÍCIAS",SIC PORTUGAL
-http://46.151.196.223:14115
-
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="RAI ITÁLIA" tvg-logo="https://i.postimg.cc/DZ60qh05/RAI-ITALIA.png" group-title="NOTÍCIAS",RAI ITÁLIA
 http://46.151.196.223:14117
 
@@ -509,7 +506,7 @@ http://46.151.196.223:14454
 http://46.151.196.223:14460
 
 EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
-http://46.151.196.223:14921
+http://dnsone.space:80/Rosalinapina/State3/1812
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
 http://46.151.196.223:14468
@@ -560,7 +557,7 @@ http://46.151.196.223:14583
 http://46.151.196.223:14584
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36949.m3u8
+http://46.151.196.223:14585
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
 http://46.151.196.223:14586
@@ -730,7 +727,7 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24H" tvg-logo="https://image.tmdb.org/t/p/w780/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="SÉRIES 24H",DOIS HOMENS E MEIO 24H
-http://46.151.196.223:14570
+http://46.151.196.223:14000
 
 #EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO S01 E01" tvg-logo="https://image.tmdb.org/t/p/w780/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="SÉRIES 24H",DOIS HOMENS E MEIO S01 E01
 http://dnsone.space:80/series/Rosalinapina/State3/1180177.mp4
