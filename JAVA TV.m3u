@@ -628,53 +628,38 @@ http://12.proximidade112.top:80/123456/654321/152573.m3u8
 ##########################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO MULTICAM 01" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO MULTICAM 01
-http://trabalho724.top:8080/08588258823/glyunfry/364465
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO MULTICAM 2" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO MULTICAM 2
-http://trabalho724.top:8080/08588258823/glyunfry/364458
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA PATRÃO SALA E COZINHA" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA PATRÃO SALA E COZINHA
-http://trabalho724.top:8080/08588258823/glyunfry/364459
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO QUARTO COLETIVO" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO QUARTO COLETIVO
-http://trabalho724.top:8080/08588258823/glyunfry/364460
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO SUITE DO PATRÃO" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO SUITE DO PATRÃO
-http://trabalho724.top:8080/08588258823/glyunfry/364461
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO QUARTO DOS PARCAS" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO QUARTO DOS PARCAS
-http://trabalho724.top:8080/08588258823/glyunfry/364462
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO CONVIVÊNCIA" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO CONVIVÊNCIA
-http://trabalho724.top:8080/08588258823/glyunfry/364463
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO PISCINA" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO PISCINA
-http://trabalho724.top:8080/08588258823/glyunfry/364464
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 1)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 1)
-http://trabalho724.top:8080/08588258823/glyunfry/364467
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 2)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 2)
-http://trabalho724.top:8080/08588258823/glyunfry/364468
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 3)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 3)
-http://trabalho724.top:8080/08588258823/glyunfry/364469
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 4)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 4)
-http://trabalho724.top:8080/08588258823/glyunfry/364470
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 5)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 5)
-http://trabalho724.top:8080/08588258823/glyunfry/364471
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO ( CAM 6 )" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO ( CAM 6 )
-http://trabalho724.top:8080/08588258823/glyunfry/364472
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 7)" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 7)
-http://trabalho724.top:8080/08588258823/glyunfry/364473
-
-#EXTINF:-1 tvg-id="" tvg-name="CASA DO PATRÃO (CAM 8 )" tvg-logo="https://i.postimg.cc/B6JsC7J6/CASA-DO-PATRAO.png" group-title="CASA DO PATRÃO",CASA DO PATRÃO (CAM 8 )
-http://dnsone.space:80/Rosalinapina/State3/1271891
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: CAM 01 (A)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: CAM 01 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: CAM 02 (A)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: CAM 02 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: CAM 03 (A)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: CAM 03 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: CAM 04 (A)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: CAM 04 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: CAM 05 (A)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: CAM 05 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009302.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: CAM 06 (A)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: CAM 06 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: CAM 07 (A)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: CAM 07 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009304.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: CAM 08 (A)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: CAM 08 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Casa Convivencia (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Casa Convivencia (B)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Multicam 01 (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Multicam 01 (B)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Multicam 02 (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Multicam 02 (B)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Piscina (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Piscina (B)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Quarto Coletivo (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Quarto Coletivo (B)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009223.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Quarto dos Parças (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Quarto dos Parças (B)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Sala e Cozinha (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Sala e Cozinha (B)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Suite do Patrao (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Suite do Patrao (B)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009224.ts
 
 ##########################
 # JAVA FILMES 
