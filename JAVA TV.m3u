@@ -1,6 +1,9 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
 
+
+
+
 ##########################
 # CANAIS ABERTOS
 ##########################
@@ -473,6 +476,8 @@ http://12.proximidade112.top:80/123456/654321/151873.m3u8
 ##########################
 # ESPORTES
 ##########################
+#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
+http://177.52.24.163/SPORTV-1-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
@@ -726,7 +731,7 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24H" tvg-logo="https://image.tmdb.org/t/p/w780/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="SÉRIES 24H",DOIS HOMENS E MEIO 24H
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/985809.ts
+http://46.151.196.223:14002
 
 #EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO S01 E01" tvg-logo="https://image.tmdb.org/t/p/w780/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="SÉRIES 24H",DOIS HOMENS E MEIO S01 E01
 http://dnsone.space:80/series/Rosalinapina/State3/1180177.mp4
