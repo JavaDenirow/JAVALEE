@@ -226,7 +226,7 @@ http://46.151.196.223:14074
 http://46.151.196.223:14409
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/36961.ts
+http://45.190.28.50/H2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
 http://dnsone.space:80/Rosalinapina/State3/1843
@@ -476,7 +476,7 @@ http://12.proximidade112.top:80/123456/654321/151873.m3u8
 
 
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-http://46.151.196.223:14288
+http://46.151.196.223:14558
 
 #EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/215402.ts
