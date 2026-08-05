@@ -665,24 +665,29 @@ http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009222.ts
 #EXTINF:-1 tvg-id="" tvg-name="Casa do Patrao: Suite do Patrao (B)" tvg-logo="https://i.imgur.com/MN5tnPw.png" group-title="Casa do Patrão",Casa do Patrao: Suite do Patrao (B)
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/1009224.ts
 
+
 ##########################
 # JAVA FILMES 
 ##########################
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMÉRICA: GUERRA CIVIL (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg" group-title="JAVA FILMES",CAPITÃO AMÉRICA: GUERRA CIVIL (2016)
+http://asxc.pro:80/movie/887429/DNFgcu/98657.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: DE VOLTA AO LAR (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/jBcZuqugLRxEvazMPvxKiQlfWlo.jpg" group-title="JAVA FILMES",HOMEM ARANHA: DE VOLTA AO LAR (2017)
-http://dnsone.space:80/movie/Rosalinapina/State3/1242475.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: LONGE DE CASA (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg" group-title="JAVA FILMES",HOMEM ARANHA: LONGE DE CASA (2019)
-http://dnsone.space:80/movie/Rosalinapina/State3/1242476.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: SEM VOLTA PARA CASA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg" group-title="JAVA FILMES",HOMEM ARANHA: SEM VOLTA PARA CASA (2022)
-http://dnsone.space:80/movie/Rosalinapina/State3/1242474.mp4
+http://asxc.pro:80/movie/887429/DNFgcu/93648.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="VINGADORES: GUERRA INFINITA (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg" group-title="JAVA FILMES",VINGADORES: GUERRA INFINITA (2018)
-http://dnsone.space:80/movie/Rosalinapina/State3/1141749.mp4
+http://asxc.pro:80/movie/887429/DNFgcu/21506.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="VINGADORES: ULTIMATO (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jvlqGsxeMKscskuUZgKk0Kuv99.jpg" group-title="JAVA FILMES",VINGADORES: ULTIMATO (2019)
-http://dnsone.space:80/movie/Rosalinapina/State3/1242594.mp4
+http://asxc.pro:80/movie/887429/DNFgcu/26683.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: LONGE DE CASA (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg" group-title="JAVA FILMES",HOMEM ARANHA: LONGE DE CASA (2019)
+http://asxc.pro:80/movie/887429/DNFgcu/30399.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: SEM VOLTA PARA CASA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg" group-title="JAVA FILMES",HOMEM ARANHA: SEM VOLTA PARA CASA (2022)
+http://asxc.pro:80/movie/887429/DNFgcu/154575.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="PECADORES (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9kYEboW1TQaeilGYUAx1MO0DUp.jpg" group-title="JAVA FILMES",PECADORES (2025)
 http://dnsone.space:80/movie/Rosalinapina/State3/1242002.mp4
