@@ -79,7 +79,7 @@ http://12.proximidade112.top:80/123456/654321/127140.m3u8
 http://12.proximidade112.top:80/123456/654321/4035537.m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/60201.m3u8
+plugin://plugin.video.youtube/play/?video_id=x5wQMfCqcO4
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
 http://200.189.113.201/hls/tve.m3u8
