@@ -51,6 +51,9 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://dnsone.space:80/Rosalinapina/State3/2211
 
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
+plugin://plugin.video.youtube/play/?video_id=LLpNUqHVam8
+
 #EXTINF:-1 tvg-id="redetvrj.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
@@ -730,6 +733,20 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/648941.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="RESGATE SEM LIMITES" tvg-logo="http://gstaticontent.com/images/es8LNVHb9S91T4OHBN57nv24fFu_big.jpg" group-title="JAVA FILMES",RESGATE SEM LIMITES
 http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
+
+
+##########################
+# FILMES YOUTUBE
+##########################
+
+#EXTINF:-1 tvg-id="" tvg-name="INSTINTO RADICAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m8lkQBZWbKj9SwDNT6W1O9ZMA7M.jpg" group-title="FILMES YOUTUBE",INSTINTO RADICAL
+plugin://plugin.video.youtube/play/?video_id=dwPyZ8Za27g
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAOS" tvg-logo="https://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/36/22/48/18470652.jpg" group-title="FILMES YOUTUBE",CHAOS
+plugin://plugin.video.youtube/play/?video_id=M7kdi5wmAaA
+
+#EXTINF:-1 tvg-id="" tvg-name="O ÚLTIMO DESAFIO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/brDYycnYgG6hxsM3Ysyqsg9ANyx.jpg" group-title="FILMES YOUTUBE",O ÚLTIMO DESAFIO
+plugin://plugin.video.youtube/play/?video_id=WURnWQXshfk
 
 
 ##########################
@@ -3370,6 +3387,9 @@ https://24403.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac
 
 #EXTINF:-1 tvg-id="tupi.rj" tvg-name="TUPI FM 96,5 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/FHcQgZFP/TUPI%20RJ.png" group-title="RÁDIOS",TUPI FM 96,5 Mhz (RIO DE JANEIRO - RJ)
 https://8923.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-id="tupi.rj" tvg-name="TV TUPI FM 96,5 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/FHcQgZFP/TUPI%20RJ.png" group-title="RÁDIOS",TV TUPI FM 96,5 Mhz (RIO DE JANEIRO - RJ)
+plugin://plugin.video.youtube/play/?video_id=UYz7pDwr6dE
 
 #EXTINF:-1 tvg-id="jbfm.rj" tvg-name="JB FM 99,9 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/1XjZM7Nj/JBFM.png" group-title="RÁDIOS",JB FM 99,9 Mhz (RIO DE JANEIRO - RJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac
