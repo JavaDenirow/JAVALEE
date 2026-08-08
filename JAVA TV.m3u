@@ -752,6 +752,9 @@ plugin://plugin.video.youtube/play/?video_id=UFPg_0O56ZM
 #EXTINF:-1 tvg-id="" tvg-name="INSTINTO RADICAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m8lkQBZWbKj9SwDNT6W1O9ZMA7M.jpg" group-title="FILMES YOUTUBE",INSTINTO RADICAL
 plugin://plugin.video.youtube/play/?video_id=dwPyZ8Za27g
 
+#EXTINF:-1 tvg-id="" tvg-name="ROGUE, O ASSASSINO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uD82pHlfi7qhNh1DFCTueMeXifP.jpg" group-title="FILMES YOUTUBE",ROGUE, O ASSASSINO
+plugin://plugin.video.youtube/play/?video_id=j9gn6rQTPy8
+
 #EXTINF:-1 tvg-id="" tvg-name="AÇÃO VIOLENTA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/b75QhSCIim35ZymwHUwV38onaCc.jpg" group-title="FILMES YOUTUBE",AÇÃO VIOLENTA
 plugin://plugin.video.youtube/play/?video_id=BdBUzQyVtg8
 
