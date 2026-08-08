@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+outr  #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
 
 
@@ -739,14 +739,42 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
 # FILMES YOUTUBE
 ##########################
 
+
+#EXTINF:-1 tvg-id="" tvg-name="ACIMA DA LEI" tvg-logo="http://gstaticontent.com/images/4d49a2bb3bcbb8afd01bc78cef7edc2b.jpg" group-title="FILMES YOUTUBE",ACIMA DA LEI
+plugin://plugin.video.youtube/play/?video_id=zpDe78CNhZM
+
+#EXTINF:-1 tvg-id="" tvg-name="O SUBSTITUTO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2jSs5AFMhFWCWnbU555LYL2gGDx.jpg" group-title="FILMES YOUTUBE",O SUBSTITUTO
+plugin://plugin.video.youtube/play/?video_id=NCnWLOf9f3g
+
+#EXTINF:-1 tvg-id="" tvg-name="SHAOLIN CONTRA OS 12 HOMENS DE AÇO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xGNoiTOhXfVzk4UDAH7HXKtBljz.jpg" group-title="FILMES YOUTUBE",SHAOLIN CONTRA OS 12 HOMENS DE AÇO
+plugin://plugin.video.youtube/play/?video_id=UFPg_0O56ZM
+
 #EXTINF:-1 tvg-id="" tvg-name="INSTINTO RADICAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m8lkQBZWbKj9SwDNT6W1O9ZMA7M.jpg" group-title="FILMES YOUTUBE",INSTINTO RADICAL
 plugin://plugin.video.youtube/play/?video_id=dwPyZ8Za27g
+
+#EXTINF:-1 tvg-id="" tvg-name="AÇÃO VIOLENTA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/b75QhSCIim35ZymwHUwV38onaCc.jpg" group-title="FILMES YOUTUBE",AÇÃO VIOLENTA
+plugin://plugin.video.youtube/play/?video_id=BdBUzQyVtg8
 
 #EXTINF:-1 tvg-id="" tvg-name="CHAOS" tvg-logo="https://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/36/22/48/18470652.jpg" group-title="FILMES YOUTUBE",CHAOS
 plugin://plugin.video.youtube/play/?video_id=M7kdi5wmAaA
 
 #EXTINF:-1 tvg-id="" tvg-name="O ÚLTIMO DESAFIO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/brDYycnYgG6hxsM3Ysyqsg9ANyx.jpg" group-title="FILMES YOUTUBE",O ÚLTIMO DESAFIO
 plugin://plugin.video.youtube/play/?video_id=WURnWQXshfk
+
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMÉRICA: GUERRA CIVIL (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg" group-title="FILMES YOUTUBE",CAPITÃO AMÉRICA: GUERRA CIVIL (2016)
+plugin://plugin.video.youtube/play/?video_id=rm91Nj2BP0E
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: DE VOLTA AO LAR (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/jBcZuqugLRxEvazMPvxKiQlfWlo.jpg" group-title="FILMES YOUTUBE",HOMEM ARANHA: DE VOLTA AO LAR (2017)
+plugin://plugin.video.youtube/play/?video_id=TIvYW1g1sWI
+
+#EXTINF:-1 tvg-id="" tvg-name="VINGADORES: GUERRA INFINITA (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg" group-title="FILMES YOUTUBE",VINGADORES: GUERRA INFINITA (2018)
+plugin://plugin.video.youtube/play/?video_id=LYknRvCvnmw
+
+#EXTINF:-1 tvg-id="" tvg-name="VINGADORES: ULTIMATO (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jvlqGsxeMKscskuUZgKk0Kuv99.jpg" group-title="FILMES YOUTUBE",VINGADORES: ULTIMATO (2019)
+plugin://plugin.video.youtube/play/?video_id=f1zilyjIPMU
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: SEM VOLTA PARA CASA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg" group-title="FILMES YOUTUBE",HOMEM ARANHA: SEM VOLTA PARA CASA (2022)
+plugin://plugin.video.youtube/play/?video_id=0PCFJNcT1iA
 
 
 ##########################
