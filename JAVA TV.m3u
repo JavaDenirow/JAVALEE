@@ -740,6 +740,9 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
 ##########################
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NETMOVIES 24H" tvg-logo="https://www.oficinadanet.com.br/imagens/post/13994/scc.jpg" group-title="NETMOVIES 24H
+plugin://plugin.video.youtube/play/?video_id=b1J_mC3pWvM?list=PLOPwi-kdBOL8
+
 #EXTINF:-1 tvg-id="" tvg-name="ACIMA DA LEI" tvg-logo="http://gstaticontent.com/images/4d49a2bb3bcbb8afd01bc78cef7edc2b.jpg" group-title="FILMES YOUTUBE",ACIMA DA LEI
 plugin://plugin.video.youtube/play/?video_id=zpDe78CNhZM
 
@@ -784,17 +787,26 @@ plugin://plugin.video.youtube/play/?video_id=0PCFJNcT1iA
 # CÂMERAS AO VIVO YOUTUBE
 ##########################
 
+
+#EXTINF:-1 tvg-id="" tvg-name="COPACABANA POSTO 6 - RIO DE JANEIRO" tvg-logo="https://www.guiaviagensbrasil.com/imagens/lindas-pranchas-praia-copacabana-rj.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",COPACABANA POSTO 6 - RIO DE JANEIRO
+plugin://plugin.video.youtube/play/?video_id=65lUphjTAro
+
+#EXTINF:-1 tvg-id="" tvg-name="PRAIA DO FORTE - CABO FRIO - RJ" tvg-logo="https://praia.info/wp-content/uploads/2025/09/praia-do-forte-.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",PRAIA DO FORTE - CABO FRIO - RJ
+plugin://plugin.video.youtube/play/?video_id=l8o5Q55p_pg
+
 #EXTINF:-1 tvg-id="" tvg-name="AEROPORTO INTERNACIONAL DO GALEÃO - RIO DE JANEIRO" tvg-logo="https://portalclubedeengenharia.org.br/wp-content/uploads/2023/07/revitalizacao-do-galeao-inicia-fase-de-decolagem-revitalizacao-do-galeao-inicia-fase-de-decolagem-1.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO INTERNACIONAL DO GALEÃO - RIO DE JANEIRO
 plugin://plugin.video.youtube/play/?video_id=OKZcGuEmaHk
 
 #EXTINF:-1 tvg-id="" tvg-name="AEROPORTO SANTOS DUMONT - RIO DE JANEIRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO0UV475VpgQaj8y5mVJoBoQnFDgHkI0BVLW-v13yJD84kWXwvZQfVbnM&s=10" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO SANTOS DUMONT - RIO DE JANEIRO
 plugin://plugin.video.youtube/play/?video_id=Zx4Yl7rLkZ0
 
+
 #EXTINF:-1 tvg-id="" tvg-name="AEROPORTO CONGONHAS - SÃO PAULO" tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/10/20/aeroporto-1ibhjhzw5xvms.PNG" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO CONGONHAS - SÃO PAULO
 plugin://plugin.video.youtube/play/?video_id=GVs9xT0Qe5E
 
 #EXTINF:-1 tvg-id="" tvg-name="AEROPORTO INTERNACIONAL DE GUARULHOS - SÃO PAULO" tvg-logo="https://www.fmetropolitana.com.br/wp-content/uploads/2022/05/Aeroporto-Aviao-1-scaled.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO INTERNACIONAL DE GUARULHOS - SÃO PAULO
-plugin://plugin.video.youtube/play/?video_id=4FF9rCjTNxQ
+plugin://plugin.video.youtube/play/?video_id=BqeKcsdS1ug
+
 
 
 
