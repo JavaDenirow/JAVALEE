@@ -781,6 +781,24 @@ plugin://plugin.video.youtube/play/?video_id=0PCFJNcT1iA
 
 
 ##########################
+# CÂMERAS AO VIVO YOUTUBE
+##########################
+
+#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO INTERNACIONAL DO GALEÃO - RIO DE JANEIRO" tvg-logo="https://portalclubedeengenharia.org.br/wp-content/uploads/2023/07/revitalizacao-do-galeao-inicia-fase-de-decolagem-revitalizacao-do-galeao-inicia-fase-de-decolagem-1.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO INTERNACIONAL DO GALEÃO - RIO DE JANEIRO
+plugin://plugin.video.youtube/play/?video_id=OKZcGuEmaHk
+
+#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO SANTOS DUMONT - RIO DE JANEIRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO0UV475VpgQaj8y5mVJoBoQnFDgHkI0BVLW-v13yJD84kWXwvZQfVbnM&s=10" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO SANTOS DUMONT - RIO DE JANEIRO
+plugin://plugin.video.youtube/play/?video_id=Zx4Yl7rLkZ0
+
+#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO CONGONHAS - SÃO PAULO" tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/10/20/aeroporto-1ibhjhzw5xvms.PNG" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO CONGONHAS - SÃO PAULO
+plugin://plugin.video.youtube/play/?video_id=GVs9xT0Qe5E
+
+#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO INTERNACIONAL DE GUARULHOS - SÃO PAULO" tvg-logo="https://www.fmetropolitana.com.br/wp-content/uploads/2022/05/Aeroporto-Aviao-1-scaled.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO INTERNACIONAL DE GUARULHOS - SÃO PAULO
+plugin://plugin.video.youtube/play/?video_id=4FF9rCjTNxQ
+
+
+
+##########################
 # SÉRIES 24H
 ##########################
 
