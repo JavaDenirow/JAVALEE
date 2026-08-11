@@ -33,6 +33,9 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
 http://dnsone.space:80/Rosalinapina/State3/2056
 
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
+plugin://plugin.video.youtube/play/?video_id=-Je16zP-_0k
+
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://dnsone.space:80/Rosalinapina/State3/898378
 
@@ -47,6 +50,9 @@ http://dnsone.space:80/Rosalinapina/State3/978124
 
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
+
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
+plugin://plugin.video.youtube/play/?video_id=lO7dxnpExOQ
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://dnsone.space:80/Rosalinapina/State3/2211
