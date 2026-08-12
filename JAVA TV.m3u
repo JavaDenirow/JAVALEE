@@ -747,7 +747,7 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/649763.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NETMOVIES 24H" tvg-logo="https://www.oficinadanet.com.br/imagens/post/13994/scc.jpg" group-title="NETMOVIES 24H
-plugin://plugin.video.youtube/play/?video_id=b1J_mC3pWvM?list=PLOPwi-kdBOL8
+plugin://plugin.video.youtube/play/?video_id=b1J_mC3pWvM
 
 #EXTINF:-1 tvg-id="" tvg-name="ACIMA DA LEI" tvg-logo="http://gstaticontent.com/images/4d49a2bb3bcbb8afd01bc78cef7edc2b.jpg" group-title="FILMES YOUTUBE",ACIMA DA LEI
 plugin://plugin.video.youtube/play/?video_id=zpDe78CNhZM
