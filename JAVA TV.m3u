@@ -1,4 +1,4 @@
-outr  #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
 
 ##########################
@@ -7,10 +7,10 @@ outr  #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml
 
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-http://dnsone.space:80/Rosalinapina/State3/1943
+http://138.255.2.6:8084/GLOBOHD/index.m3u8
 
 #EXTINF:-1 tvg-id="tvglobo.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-http://45.190.28.50/BAND_HD/index.m3u8
+http://45.190.28.50/GLOBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://46.151.196.223:14861
@@ -28,7 +28,7 @@ http://dnsone.space:80/Rosalinapina/State3/913990
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://dnsone.space:80/Rosalinapina/State3/2056
+http://138.255.2.6:8084/BAND/index.m3u8
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
 plugin://plugin.video.youtube/play/?video_id=-Je16zP-_0k
@@ -40,7 +40,7 @@ http://dnsone.space:80/Rosalinapina/State3/898378
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://dnsone.space:80/Rosalinapina/State3/2206
+http://45.190.28.50/RECORD/index.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="TV ALTEROSA JF HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA JF HD
 http://dnsone.space:80/Rosalinapina/State3/978124
@@ -52,7 +52,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 plugin://plugin.video.youtube/play/?video_id=lO7dxnpExOQ
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://dnsone.space:80/Rosalinapina/State3/2211
+http://45.190.28.50/SBT_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 plugin://plugin.video.youtube/play/?video_id=LLpNUqHVam8
@@ -61,7 +61,7 @@ plugin://plugin.video.youtube/play/?video_id=LLpNUqHVam8
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV HD
-http://dnsone.space:80/Rosalinapina/State3/1910
+http://45.190.28.50/REDE_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
@@ -72,11 +72,8 @@ https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 #EXTINF:-1 tvg-id="istv.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
-#EXTINF:-1 tvg-id="redeminas.br" tvg-name="REDE MINAS HD" tvg-logo="https://i.postimg.cc/GhkWgS9B/REDE-MINAS.png" group-title="CANAIS ABERTOS",REDEMINAS HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/91504.ts
-
 #EXTINF:-1 tvg-id="	TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+http://170.83.49.66:8083/TVCULTURAHD/index.m3u8
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
 http://12.proximidade112.top:80/123456/654321/127140.m3u8
@@ -91,19 +88,19 @@ plugin://plugin.video.youtube/play/?video_id=x5wQMfCqcO4
 http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-id="amazonsat.br" tvg-name="AMAZON SAT HD" tvg-logo="https://i.postimg.cc/bvcpK5Fs/AMAZON-SAT.png" group-title="CANAIS ABERTOS",AMAZON SAT HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/162982.ts
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-id="tvpocos.br" tvg-name="TV POÇOS HD" tvg-logo="https://i.postimg.cc/K8t2dVgq/TV-POCOS.png" group-title="CANAIS ABERTOS",TV POÇOS HD
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/91273.ts
 
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="CANAIS ABERTOS"",AGRO+
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/90975.ts
+http://45.177.114.115/AGROMAIS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/68528.ts
+http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/215146.ts
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 
 ##########################
@@ -118,7 +115,7 @@ http://46.151.196.223:14636
 http://dnsone.space:80/Rosalinapina/State3/2067
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
-http://dnsone.space:80/Rosalinapina/State3/2074
+http://177.52.24.163/CINEMAX-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://46.151.196.223:14379
@@ -160,10 +157,10 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
 http://46.151.196.223:14607
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/62917.ts
+http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/37037.ts
+http://45.190.28.50/TCM_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://46.151.196.223:14349
@@ -184,7 +181,7 @@ http://46.151.196.223:14359
 http://46.151.196.223:14333
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://dnsone.space:80/Rosalinapina/State3/1868
+http://170.83.49.66:8083/TNTHD/index.m3u8
 
 
 ##########################
@@ -193,28 +190,28 @@ http://dnsone.space:80/Rosalinapina/State3/1868
 
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
-http://dnsone.space:80/Rosalinapina/State3/1806
+http://45.190.28.50/AE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://dnsone.space:80/Rosalinapina/State3/1553
+http://170.83.49.66:8083/AXNHD/index.m3u8
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://dnsone.space:80/Rosalinapina/State3/1869
+http://45.162.64.114/TNTSERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
 http://dnsone.space:80/Rosalinapina/State3/1872
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://dnsone.space:80/Rosalinapina/State3/1864
+http://177.52.24.163/USA-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
-http://dnsone.space:80/Rosalinapina/State3/1844
+http://138.255.2.6:8084/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
 http://46.151.196.223:14603
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
-http://dnsone.space:80/Rosalinapina/State3/1280671
+http://45.162.64.114/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
 http://46.151.196.223:14650
@@ -226,7 +223,7 @@ http://46.151.196.223:14650
 
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/38392.ts
+http://170.83.49.66:8083/ANIMALPLANETHD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
 http://46.151.196.223:14074
@@ -238,22 +235,22 @@ http://46.151.196.223:14409
 http://45.190.28.50/H2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
-http://dnsone.space:80/Rosalinapina/State3/1843
+http://170.83.49.66:8083/DISCOVERYIDHD/index.m3u8
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://dnsone.space:80/Rosalinapina/State3/1822
+http://170.83.49.66:8083/DISCOVERYSCIENCEHD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://dnsone.space:80/Rosalinapina/State3/1824
+http://170.83.49.66:8083/DISCOVERYTURBOHD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://dnsone.space:80/Rosalinapina/State3/2091
+http://170.83.49.66:8083/DISCOVERYTHEATERHD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://dnsone.space:80/Rosalinapina/State3/1825
+http://170.83.49.66:8083/DISCOVERYWORLDHD/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
-http://dnsone.space:80/Rosalinapina/State3/2126
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
 
 
 ##########################
