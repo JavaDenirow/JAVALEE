@@ -16,11 +16,14 @@ http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://46.151.196.223:14861
 
-#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 
+#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
 http://dnsone.space:80/Rosalinapina/State3/85936
 
-#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 
+#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
 http://dnsone.space:80/Rosalinapina/State3/85937
+
+#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD 3" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 3
+https://live-01.edge-oi-hga-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1vaS1oZ2EtbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg2ODIzMDIzLCJpYXQiOjE3ODY4MDE0MjMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTdlNDQ5NjUtNzM5Zi00OGY5LTg4MzgtZTg2MmI5ZjIyMWZiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1qZi9wbGF5bGlzdC5tM3U4In0.xbyNPxgc-XkgteMRyPCqtfcMiy1EB_iqz2bAmur6XaAgPDprSIq-gxCG7DHTVerTuiSVMDKA1X87dO_h1yyI1qxiGZVgd1qE_Ufk3t79o6Q1zBMsMTZRqd2IdiSPs235yOPdsrd9eiYj4BTfa_BkxIceimeUAHR1k9QRchGYoO6wYftbEyz7SJN2KSeYUiNQJvdv4c3BYl_TShrfiEZcW-covH9qadpfT52loaqlQ91Lt9aceSlQi7jnr1Re0G0IR9HuQvu_Ag0ZdaywiEM-ZenfTwuoDue2XFpE6xiTpcJPA-BkL5YJDk1elS2_b0Mvz6R4gBGVMWRcd0U0lsBDNg/live/f(i=2)/globo-jf/playlist.m3u8?originpath=/linear/hls/pa/event/TKkAJfPcRGOaiqQfAD0wPg/stream/6a14847f-394d-4581-8274-af5d72a475f4:SCL2/variant/324618868168a395d20bccd399486d76/bandwidth/1224000.m3u8
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
