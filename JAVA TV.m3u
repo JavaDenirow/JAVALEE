@@ -32,7 +32,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 http://138.255.2.6:8084/BAND/index.m3u8
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
-plugin://plugin.video.youtube/play/?video_id=-Je16zP-_0k
+https://hqf6tcxuhk.singularcdn.net.br/live/0195cdf3-d8d8-74b6-9516-6c79c06bcec8/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NDRiZDJmLWQxMjktNGMwYS05YjdjLTUzNGRmNjI3OWNhNyIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4Njc5OTY5OCwibmJmIjoxNzg2Nzk5Njk4LCJleHAiOjE3ODkzOTE2OTgsInVyaV9zdWIiOiIvMDE5NWNkZjMtZDhkOC03NGI2LTk1MTYtNmM3OWMwNmJjZWM4LyIsInVpZCI6IjY0NDRiZDJmLWQxMjktNGMwYS05YjdjLTUzNGRmNjI3OWNhNyIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.GWa3FXP64EJVtDib6XJzuHJMye4GuO2HH4quTdQJCs0&uid=6444bd2f-d129-4c0a-9b7c-534df6279ca7
 
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://dnsone.space:80/Rosalinapina/State3/898378
