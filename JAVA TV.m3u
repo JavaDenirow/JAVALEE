@@ -43,9 +43,6 @@ http://dnsone.space:80/Rosalinapina/State3/898378
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
-#EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD 3" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 3
-https://rjo4.akamaized.net/linear/hls/pa/event/Yn7TFrISTyG0150n2gyEWw/stream/68b6d372-35f0-4bf4-9762-6836f892fad4:SCL2/variant/718e9f9fefd000dc25314d386dd93f63/bandwidth/750306.m3u8?hdntl=exp=1786890805~acl=%2f*~data=hdntl~hmac=b89d3568697bf3c3d195680328d738f37b8c71d947278e174ba6c2b1fdc7c158&CMCD=mtp%3D800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22334f166a-b7ed-4beb-86e0-a8177427b23c%22
-
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 http://45.190.28.50/RECORD/index.m3u8
 
@@ -71,7 +68,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 http://45.190.28.50/REDE_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
+http://45.190.28.50/REDE_BRASIL_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
@@ -89,7 +86,7 @@ http://12.proximidade112.top:80/123456/654321/127140.m3u8
 http://12.proximidade112.top:80/123456/654321/4035537.m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-plugin://plugin.video.youtube/play/?video_id=x5wQMfCqcO4
+http://138.255.2.6:8084/GAZETA/index.m3u8
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
 http://200.189.113.201/hls/tve.m3u8
