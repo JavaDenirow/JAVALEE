@@ -49,13 +49,13 @@ http://dnsone.space:80/Rosalinapina/State3/978124
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 
-#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
-plugin://plugin.video.youtube/play/?video_id=lO7dxnpExOQ
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD 2" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD 2
+http://up.kiwi/351921603109/34939156/296866
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://45.190.28.50/SBT_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD 2" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD 2
 http://up.kiwi/351921603109/34939156/296880
 
 #EXTINF:-1 tvg-id="redetvrj.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
