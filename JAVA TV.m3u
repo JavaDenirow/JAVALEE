@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+#EXTM3U x-tvg-url="http://up.kiwi/epg/351921603109/34939156"
 
 
 
@@ -23,10 +23,10 @@ http://up.kiwi/351921603109/34939156/296738
 http://dnsone.space:80/Rosalinapina/State3/85937
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
-http://up.kiwi/351921603109/34939156/296919
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
+https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="Band.HD.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
 http://up.kiwi/351921603109/34939156/296927
@@ -35,13 +35,13 @@ http://up.kiwi/351921603109/34939156/296927
 http://up.kiwi/351921603109/34939156/296915
 
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-http://dnsone.space:80/Rosalinapina/State3/898378
+https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://45.190.28.50/RECORD/index.m3u8
+http://190.83.85.68/record/index.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="TV ALTEROSA JF HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA JF HD
 http://dnsone.space:80/Rosalinapina/State3/978124
@@ -116,7 +116,7 @@ http://up.kiwi/351921603109/34939156/296432
 http://up.kiwi/351921603109/34939156/188
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
-http://up.kiwi/351921603109/34939156/260
+http://190.83.85.68/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://up.kiwi/351921603109/34939156/292
@@ -209,13 +209,13 @@ http://177.52.24.163/USA-HD/index.m3u8
 http://138.255.2.6:8084/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
-http://45.190.28.50/SONY_HD/index.m3u8
+http://190.83.85.68/sony/index.m3u8
 
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
-http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="sony.movies.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
+http://190.83.85.68/sony_movies/index.m3u8
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
-http://170.83.49.66:8083/WARNERCHANNELHD/index.m3u8
+http://190.83.85.68/warner/index.m3u8
 
 
 ##########################
@@ -224,31 +224,31 @@ http://170.83.49.66:8083/WARNERCHANNELHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://170.83.49.66:8083/ANIMALPLANETHD/index.m3u8
+http://190.83.85.68/animal_planet/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://up.kiwi/351921603109/34939156/340
+http://190.83.85.68/discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.postimg.cc/BbVGN71w/HISTORY.png" group-title="DOCUMENTÁRIOS",HISTORY HD
-http://up.kiwi/351921603109/34939156/669
+http://190.83.85.68/history/index.m3u8
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
-http://45.190.28.50/H2_HD/index.m3u8
+http://190.83.85.68/h2/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
 http://170.83.49.66:8083/DISCOVERYIDHD/index.m3u8
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://170.83.49.66:8083/DISCOVERYSCIENCEHD/index.m3u8
+http://190.83.85.68/discovery_science/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
 http://170.83.49.66:8083/DISCOVERYTURBOHD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://170.83.49.66:8083/DISCOVERYTHEATERHD/index.m3u8
+http://190.83.85.68/discovery_theater/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://170.83.49.66:8083/DISCOVERYWORLDHD/index.m3u8
+http://190.83.85.68/discovery_world/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
@@ -281,10 +281,10 @@ http://45.162.64.114/FISH_TV/index.m3u8
 http://up.kiwi/351921603109/34939156/296133
 
 #EXTINF:-1 tvg-id="globoplaynovelas.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://i.postimg.cc/2y6DQN3x/GLOBO%20PLAY%20NOVELAS.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS HD
-http://up.kiwi/351921603109/34939156/1581
+http://79.127.238.228:14455
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/8c0VwXrt/HGTV.png" group-title="VARIEDADES",HGTV HD
-http://up.kiwi/351921603109/34939156/296137
+http://190.83.85.68/hgtv/index.m3u8
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/D0ZTr3mB/GNT.png" group-title="VARIEDADES",GNT HD
 http://up.kiwi/351921603109/34939156/552
@@ -293,10 +293,10 @@ http://up.kiwi/351921603109/34939156/552
 http://up.kiwi/351921603109/34939156/296141
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
-http://45.162.64.114/TLC/index.m3u8
+http://190.83.85.68/tlc/index.m3u8
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://45.162.64.114/TNT_NOVELAS/index.m3u8
+http://190.83.85.68/tnt_novelas/index.m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
@@ -401,7 +401,7 @@ http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
-http://up.kiwi/351921603109/34939156/1255534
+http://190.83.85.68/tooncast/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
 http://170.83.49.66:8083/CARTOONHD/index.m3u8
@@ -410,7 +410,7 @@ http://170.83.49.66:8083/CARTOONHD/index.m3u8
 http://170.83.49.66:8083/CARTOONITOHD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/JnK8Hz7h/DISCOVERY-KIDS.png" group-title="INFANTIL E DESENHOS 24H",DISCOVERY KIDS HD
-http://up.kiwi/351921603109/34939156/359
+http://190.83.85.68/discovery_kids/index.m3u8
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
 http://up.kiwi/351921603109/34939156/545
@@ -434,7 +434,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 http://up.kiwi/351921603109/34939156/296342
 
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.postimg.cc/yNmsBTwm/BAND-NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD
-http://up.kiwi/351921603109/34939156/116
+http://190.83.85.68/band_news/index.m3u8
 
 #EXTINF:-1 tvg-id="sbtnews.br" tvg-name="SBT NEWS HD" tvg-logo="https://i.postimg.cc/L6JShScR/SBT%20NEWS.png" group-title="NOTÍCIAS",SBT NEWS HD
 https://sbtnews.maissbt.com/3.m3u8
@@ -474,7 +474,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD TESTE" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD TESTE
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
-
 
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
 http://up.kiwi/351921603109/34939156/299681
@@ -625,6 +624,9 @@ http://12.proximidade112.top:80/123456/654321/152573.m3u8
 # JAVA FILMES 
 ##########################
 
+
+#EXTINF:-1 tvg-id="" tvg-name="INSTINTO RADICAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m8lkQBZWbKj9SwDNT6W1O9ZMA7M.jpg" group-title="JAVA FILMES",INSTINTO RADICAL
+http://up.kiwi/movie/351921603109/34939156/1270328.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMÉRICA: GUERRA CIVIL (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg" group-title="JAVA FILMES",CAPITÃO AMÉRICA: GUERRA CIVIL (2016)
 http://asxc.pro:80/movie/887429/DNFgcu/98657.mp4
