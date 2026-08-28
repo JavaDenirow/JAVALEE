@@ -624,6 +624,11 @@ http://12.proximidade112.top:80/123456/654321/152573.m3u8
 # JAVA FILMES 
 ##########################
 
+#EXTINF:-1 tvg-id="" tvg-name="RESGATE IMPLACÁVEL" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/1w01rEQRYvIoSs5Is9cQDJhiUel.jpg" group-title="JAVA FILMES",RESGATE IMPLACÁVEL
+http://up.kiwi/movie/351921603109/34939156/1036778.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="CÓDIGO ALARUM" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/nGZ7S9eW9PH39XsGSgofLfxPoEH.jpg" group-title="JAVA FILMES",CÓDIGO ALARUM
+http://up.kiwi/movie/351921603109/34939156/1036818.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="INSTINTO RADICAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m8lkQBZWbKj9SwDNT6W1O9ZMA7M.jpg" group-title="JAVA FILMES",INSTINTO RADICAL
 http://up.kiwi/movie/351921603109/34939156/1270328.mp4
