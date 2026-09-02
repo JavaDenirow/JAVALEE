@@ -28,7 +28,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
 https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 
-#EXTINF:-1 tvg-id="Band SP" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
 http://190.83.85.68/band/index.m3u8
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
