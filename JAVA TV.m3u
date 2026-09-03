@@ -464,7 +464,6 @@ https://cdn-sp2.satlabscloud.com.br/DW/index.m3u8
 
 
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD TESTE" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD TESTE
-http://177.52.24.163/SPORTV-1-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
 http://up.kiwi/351921603109/34939156/299681
