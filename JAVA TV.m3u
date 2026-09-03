@@ -47,7 +47,7 @@ http://dnsone.space:80/Rosalinapina/State3/978124
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD 2" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD 2
-http://up.kiwi/351921603109/34939156/296866
+https://cdn-sp2.satlabscloud.com.br/SBT_RIO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://45.190.28.50/SBT_HD/index.m3u8
@@ -62,7 +62,7 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 http://45.190.28.50/REDE_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
-http://45.190.28.50/REDE_BRASIL_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
 https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
@@ -188,7 +188,7 @@ http://170.83.49.66:8083/TNTHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ae.br" tvg-name="A&E HD" tvg-logo="https://i.postimg.cc/g0Fmf7tC/A-E.png" group-title="SÉRIES",A&E HD
-http://45.190.28.50/AE_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/AE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
 https://cdn-sp2.satlabscloud.com.br/AXN_HD/index.m3u8
