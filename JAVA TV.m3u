@@ -113,7 +113,7 @@ http://up.kiwi/351921603109/34939156/296432
 http://up.kiwi/351921603109/34939156/188
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
-http://190.83.85.68/cinemax/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://up.kiwi/351921603109/34939156/292
@@ -122,25 +122,25 @@ http://up.kiwi/351921603109/34939156/292
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/61965.ts
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
-http://45.190.28.50/HBO/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.postimg.cc/ZnRS8z07/HBO%202.png" group-title="FILMES",HBO 2 HD
-http://45.190.28.50/HBO2/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.postimg.cc/7h6k3rbt/HBO%20FAMILY.png" group-title="FILMES",HBO FAMILY HD
-http://45.190.28.50/HBO_FAMILY/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.postimg.cc/mkDsYWh5/HBO%20MUNDI.png" group-title="FILMES",HBO MUNDI HD
-http://45.190.28.50/HBO_MUNDI_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.postimg.cc/qqRTsHgY/HBO%20PLUS.png" group-title="FILMES",HBO PLUS HD
-http://45.190.28.50/HBO_PLUS/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://i.postimg.cc/Hnxgw1jF/HBO%20POP.png" group-title="FILMES",HBO POP HD
-http://45.190.28.50/HBO_POP_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.postimg.cc/gjJWVbrQ/HBO%20SIGNATURE.png" group-title="FILMES",HBO SIGNATURE HD
-http://45.190.28.50/HBO_SIGNATURE/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.postimg.cc/Bb60Tftd/HBO%20XTREME.png" group-title="FILMES",HBO XTREME HD
 http://up.kiwi/351921603109/34939156/656
