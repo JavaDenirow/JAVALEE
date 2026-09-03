@@ -22,9 +22,6 @@ http://up.kiwi/351921603109/34939156/296738
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
 http://dnsone.space:80/Rosalinapina/State3/85937
 
-#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD 3" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 3
-plugin://plugin.video.globoplay/play/g1/
-
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
 https://cdn-sp2.satlabscloud.com.br/BAND_RIO_HD/index.m3u8
 
