@@ -8,7 +8,7 @@
 
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-http://up.kiwi/351921603109/34939156/296719
+https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8
 
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
 http://45.190.28.50/GLOBO_HD/index.m3u8
@@ -23,22 +23,22 @@ http://up.kiwi/351921603109/34939156/296738
 http://dnsone.space:80/Rosalinapina/State3/85937
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImYwNTU3Y2FhLTZmZjQtNDk5Ni05YjE1LWI5YjE0OWNmZDcxMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4ODM2MzAxNSwibmJmIjoxNzg4MzYzMDE1LCJleHAiOjE3OTA5NTUwMTUsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6ImYwNTU3Y2FhLTZmZjQtNDk5Ni05YjE1LWI5YjE0OWNmZDcxMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.o2A9EDiy5t3X9yTN1hVgg5KD9VU6FKokEUqS7xt0Eeo&uid=f0557caa-6ff4-4996-9b15-b9b149cfd712
+https://cdn-sp2.satlabscloud.com.br/BAND_RIO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
 https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://190.83.85.68/band/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
+https://cdn-sp2.satlabscloud.com.br/RECORD_RIO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="record.sp.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://190.83.85.68/record/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/RECORD/index.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="TV ALTEROSA JF HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA JF HD
 http://dnsone.space:80/Rosalinapina/State3/978124
@@ -53,7 +53,7 @@ http://up.kiwi/351921603109/34939156/296866
 http://45.190.28.50/SBT_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD 2" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD 2
-http://up.kiwi/351921603109/34939156/296880
+https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="redetvrj.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
@@ -191,10 +191,10 @@ http://170.83.49.66:8083/TNTHD/index.m3u8
 http://45.190.28.50/AE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
-http://170.83.49.66:8083/AXNHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/AXN_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="SÉRIES",TNT SÉRIES HD
-http://45.162.64.114/TNTSERIES/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TNT_SERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
 http://up.kiwi/351921603109/34939156/299687
@@ -203,16 +203,16 @@ http://up.kiwi/351921603109/34939156/299687
 http://177.52.24.163/USA-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
-http://138.255.2.6:8084/LIFETIME/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/LIFE_TIME_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
-http://190.83.85.68/sony/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/SONY_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="sony.movies.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
-http://190.83.85.68/sony_movies/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
-http://190.83.85.68/warner/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8
 
 
 ##########################
@@ -221,31 +221,31 @@ http://190.83.85.68/warner/index.m3u8
 
 
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.postimg.cc/VNQm3hHC/ANIMAL-PLANET.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://190.83.85.68/animal_planet/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.postimg.cc/nzTx9hVn/DISCOVERY-CHANNEL.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://190.83.85.68/discovery/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.postimg.cc/BbVGN71w/HISTORY.png" group-title="DOCUMENTÁRIOS",HISTORY HD
-http://190.83.85.68/history/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HISTORY_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY 2 HD" tvg-logo="https://i.postimg.cc/vTNdX26P/HISTORY%202.png" group-title="DOCUMENTÁRIOS",HISTORY 2 HD
-http://190.83.85.68/h2/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/H2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryinvestigacao.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.postimg.cc/RFGmJZCV/DISCOVERY-INVESTIGACAO.png" group-title="DOCUMENTÁRIOS"",ID - INVESTIGAÇÃO DISCOVERY HD
-http://170.83.49.66:8083/DISCOVERYIDHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="dicoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.postimg.cc/DZ5h4wf0/DISCOVERY-SCIENCE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://190.83.85.68/discovery_science/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
 http://170.83.49.66:8083/DISCOVERYTURBOHD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://190.83.85.68/discovery_theater/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.postimg.cc/85wGfzkF/DISCOVERY%20WORLD.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://190.83.85.68/discovery_world/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
@@ -281,7 +281,7 @@ http://up.kiwi/351921603109/34939156/296133
 http://79.127.238.228:14455
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/8c0VwXrt/HGTV.png" group-title="VARIEDADES",HGTV HD
-http://190.83.85.68/hgtv/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/D0ZTr3mB/GNT.png" group-title="VARIEDADES",GNT HD
 http://up.kiwi/351921603109/34939156/552
@@ -290,16 +290,16 @@ http://up.kiwi/351921603109/34939156/552
 http://up.kiwi/351921603109/34939156/296141
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
-http://190.83.85.68/tlc/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://i.postimg.cc/NfZcHVtJ/TNT%20NOVELAS.png" group-title="VARIEDADES",TNT NOVELAS HD
-http://190.83.85.68/tnt_novelas/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TNT_NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/Pqjn6wPx/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD
-http://45.162.64.114/WOOHOO/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/WOOHOO_HD/index.m3u8
 
 
 ##########################
@@ -482,25 +482,25 @@ http://up.kiwi/351921603109/34939156/1219
 http://up.kiwi/351921603109/34939156/296213
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
-http://up.kiwi/351921603109/34939156/296355
+https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJ4pL2ch/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD
-http://up.kiwi/351921603109/34939156/475
+https://cdn-sp2.satlabscloud.com.br/ESPN2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/xCgQN1jM/ESPN%203.png" group-title="ESPORTES",ESPN 3 HD
-http://up.kiwi/351921603109/34939156/296552
+https://cdn-sp2.satlabscloud.com.br/ESPN3_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.postimg.cc/Y987LC2Q/ESPN%204.png" group-title="ESPORTES",ESPN 4 HD
-http://up.kiwi/351921603109/34939156/487
+https://cdn-sp2.satlabscloud.com.br/ESPN4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/G2zRTm3k/ESPN%205.png" group-title="ESPORTES",ESPN 5 HD
-http://up.kiwi/351921603109/34939156/495
+https://cdn-sp2.satlabscloud.com.br/ESPN5_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
-http://up.kiwi/351921603109/34939156/305236
+https://cdn-sp2.satlabscloud.com.br/ESPN6_HD/index.m3u8
 
 EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
-http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
 http://up.kiwi/351921603109/34939156/278
@@ -569,7 +569,7 @@ http://up.kiwi/351921603109/34939156/895
 
 
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
-http://172.110.219.252/live/47125065/12264670/223746.m3u8
+https://cdn-sp2.satlabscloud.com.br/CAZE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
 http://172.110.219.252/live/47125065/12264670/223747.m3u8
