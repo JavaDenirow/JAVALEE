@@ -11,7 +11,7 @@
 https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8
 
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-http://45.190.28.50/GLOBO_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://up.kiwi/351921603109/34939156/296713
@@ -59,7 +59,7 @@ https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV HD
-http://45.190.28.50/REDE_TV_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/REDE_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="redebrasil.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 https://cdn-sp2.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8
@@ -71,7 +71,7 @@ https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 tvg-id="	TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-http://170.83.49.66:8083/TVCULTURAHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
 http://12.proximidade112.top:80/123456/654321/127140.m3u8
@@ -80,7 +80,7 @@ http://12.proximidade112.top:80/123456/654321/127140.m3u8
 http://12.proximidade112.top:80/123456/654321/4035537.m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-http://138.255.2.6:8084/GAZETA/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/GAZETA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
 http://200.189.113.201/hls/tve.m3u8
@@ -92,7 +92,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/91273.ts
 
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AGRO+" tvg-logo="https://i.postimg.cc/q7V49FZR/AGRO.png" group-title="CANAIS ABERTOS"",AGRO+
-http://45.177.114.115/AGROMAIS_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/AGROMAIS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
 http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
@@ -152,13 +152,13 @@ http://up.kiwi/351921603109/34939156/299677
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
-http://45.162.64.114/SPACE/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
 http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
-http://45.190.28.50/TCM_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TCM_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://up.kiwi/351921603109/34939156/299684
@@ -179,7 +179,7 @@ http://up.kiwi/351921603109/34939156/1288
 http://up.kiwi/351921603109/34939156/296199
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
-http://170.83.49.66:8083/TNTHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8
 
 
 ##########################
@@ -239,7 +239,7 @@ https://cdn-sp2.satlabscloud.com.br/ID_HD/index.m3u8
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_SCIENCE_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.postimg.cc/G2zRTm34/DISCOVERY%20TURBO.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://170.83.49.66:8083/DISCOVERYTURBOHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_TURBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.postimg.cc/vBXyxZ8c/DISCOVERY%20THEATER.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8
@@ -257,10 +257,10 @@ http://170.83.49.66:8083/FUTURAHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULT SWIM" tvg-logo="https://i.postimg.cc/LsK2rW0R/ADULT-SWIM.png" group-title="VARIEDADES",ADULT SWIM
-http://45.190.28.50/TRUTV_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
-http://168.197.104.22/ARTE1/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/ARTE_1/index.m3u8
 
 #EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="VARIEDADES",CANAL OFF HD
 http://up.kiwi/351921603109/34939156/824
@@ -272,7 +272,7 @@ http://up.kiwi/351921603109/34939156/296568
 http://up.kiwi/351921603109/34939156/296155
 
 #EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV" tvg-logo="https://i.postimg.cc/gjJWVbrL/FISH%20TV.png" group-title="VARIEDADES",FISH TV
-http://45.162.64.114/FISH_TV/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/3NRTXQWm/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD
 http://up.kiwi/351921603109/34939156/296133
@@ -296,7 +296,7 @@ https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8
 https://cdn-sp2.satlabscloud.com.br/TNT_NOVELAS/index.m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8
 
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/Pqjn6wPx/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD
 https://cdn-sp2.satlabscloud.com.br/WOOHOO_HD/index.m3u8
@@ -306,12 +306,6 @@ https://cdn-sp2.satlabscloud.com.br/WOOHOO_HD/index.m3u8
 # CORTESIA
 ##########################
 
-
-#EXTINF:-1 tvg-id="PlayPocaFilmes.br" tvg-name="PLAYPOCA FILMES" tvg-logo="https://i.postimg.cc/25kcQGTD/PLAYPOCA-FILMES.png" group-title="CORTESIA",PLAYPOCA FILMES
-http://172.110.219.252/live/47125065/12264670/223563.m3u8
-
-#EXTINF:-1 tvg-id="PlayPocaSeries.br" tvg-name="PLAYPOCA SÉRIES" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="CORTESIA",PLAYPOCA SÉRIES 
-http://172.110.219.252/live/47125065/12264670/223564.m3u8
 
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="CORTESIA",ADRENALINA PURA TV HD
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
@@ -332,7 +326,7 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="geekdot.br" tvg-name="GEEKDOT HD" tvg-logo="https://i.postimg.cc/m2Qvp6hZ/GEEKDOT.png" group-title="CORTESIA",GEEKDOT HD
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
+https://cdn-sp2.satlabscloud.com.br/GEEKDOT/index.m3u8
 
 #EXTINF:-1 tvg-id="loading.br" tvg-name="LOADING TV HD" tvg-logo="https://i.postimg.cc/gkvCtBr0/LOADING.png" group-title="CORTESIA",LOADING TV HD
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
@@ -350,22 +344,22 @@ https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
 #EXTINF:-1 tvg-id="urbanseries.br" tvg-name="URBAN SÉRIES HD" tvg-logo="https://i.postimg.cc/d0Phgd6r/URBAN-SERIES.png" group-title="CORTESIA",URBAN SÉRIES HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/110.m3u8
+https://cdn-sp2.satlabscloud.com.br/URBAN_SERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="urbandrive.br" tvg-name="URBAN DRIVE HD" tvg-logo="https://i.postimg.cc/sDXLBHSr/URBAN-DRIVE.png" group-title="CORTESIA",URBAN DRIVE HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/106.m3u8
+https://cdn-sp2.satlabscloud.com.br/URBAN_DRIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="urbanmovies.br" tvg-name="URBAN MOVIES HD" tvg-logo="https://i.postimg.cc/W4Ldxr8k/URBAN-MOVIES.png" group-title="CORTESIA",URBAN MOVIES HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/108.m3u8
+https://cdn-sp2.satlabscloud.com.br/URBAN_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="urbankids.br" tvg-name="URBAN KIDS HD" tvg-logo="https://i.postimg.cc/MG2ngR5f/URBAN%20KIDS.png" group-title="CORTESIA",URBAN KIDS HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/105.m3u8
+https://cdn-sp2.satlabscloud.com.br/URBAN_KIDS/index.m3u8
 
 #EXTINF:-1 tvg-id="urbantravel.br" tvg-name="URBAN TRAVEL HD" tvg-logo="https://i.postimg.cc/CKTR9D7b/URBAN-TRAVEL.png" group-title="CORTESIA",URBAN TRAVEL HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/111.m3u8
+https://cdn-sp2.satlabscloud.com.br/URBAN_TRAVEL/index.m3u8
 
 #EXTINF:-1 tvg-id="urbanturbo.br" tvg-name="URBAN TURBO HD" tvg-logo="https://i.postimg.cc/0NRzhmnY/URBAN-TURBO.png" group-title="CORTESIA",URBAN TURBO HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/113.m3u8
+https://cdn-sp2.satlabscloud.com.br/URBAN_TURBO/index.m3u8
 
 #EXTINF:-1 tvg-id="xtremetv.br" tvg-name="XTREME TV HD" tvg-logo="https://i.postimg.cc/PfBDrs0M/XTREME-TV.png" group-title="CORTESIA",XTREME TV HD
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
@@ -383,13 +377,13 @@ http://up.kiwi/351921603109/34939156/745
 http://up.kiwi/351921603109/34939156/296124
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8
 
 #EXTINF:-1 tvg-id="travelboxbrasil.br" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/tT3HVSmw/TRAVEL-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",TRAVEL BOX BRAZIL HD
-http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TRAVEL_BOX_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/L8mXNfp2/MUSIC-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL HD
-http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8
 
 
 ##########################
@@ -398,16 +392,16 @@ http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
-http://190.83.85.68/tooncast/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
-http://170.83.49.66:8083/CARTOONHD/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.postimg.cc/KzmFYM26/CARTOONITO.png" group-title="INFANTIL E DESENHOS 24H",CARTOONITO HD
 http://170.83.49.66:8083/CARTOONITOHD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/JnK8Hz7h/DISCOVERY-KIDS.png" group-title="INFANTIL E DESENHOS 24H",DISCOVERY KIDS HD
-http://190.83.85.68/discovery_kids/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
 http://up.kiwi/351921603109/34939156/545
@@ -431,19 +425,19 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 http://up.kiwi/351921603109/34939156/296342
 
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.postimg.cc/yNmsBTwm/BAND-NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD
-http://190.83.85.68/band_news/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="sbtnews.br" tvg-name="SBT NEWS HD" tvg-logo="https://i.postimg.cc/L6JShScR/SBT%20NEWS.png" group-title="NOTÍCIAS",SBT NEWS HD
 https://sbtnews.maissbt.com/3.m3u8
 
 #EXTINF:-1 tvg-id="timesbrasilcnbc.br" tvg-name="TIMES BRASIL (CNBC) HD" tvg-logo="https://i.postimg.cc/kXLmbZCf/TIMES%20BRASIL%20CNBC.png" group-title="NOTÍCIAS",TIMES BRASIL (CNBC) HD
-http://45.190.28.50/CNBC/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/CNBC_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/gkxprpf1/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD
-http://45.177.114.115/RECORD_NEWS/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="jpnews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.postimg.cc/1XjZM7Nb/JP%20NEWS.png" group-title="NOTÍCIAS",JOVEM PAN NEWS HD
-http://45.190.28.50/JP_NEWS/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.postimg.cc/PxKHv5Xg/CNN-BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
 http://up.kiwi/351921603109/34939156/266
@@ -458,10 +452,10 @@ http://up.kiwi/351921603109/34939156/273
 http://up.kiwi/351921603109/34939156/1260743
 
 #EXTINF:-1 tvg-id="rai.it" tvg-name="RAI ITÁLIA" tvg-logo="https://i.postimg.cc/DZ60qh05/RAI-ITALIA.png" group-title="NOTÍCIAS",RAI ITÁLIA
-http://up.kiwi/351921603109/34939156/964
+https://cdn-sp2.satlabscloud.com.br/RAI_ITALIA/index.m3u8
 
 #EXTINF:-1 tvg-id="dw" tvg-name="DW ALEMANHA" tvg-logo="https://i.postimg.cc/SsdRW4RD/TV-DW.png" group-title="NOTÍCIAS",DW ALEMANHA
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+https://cdn-sp2.satlabscloud.com.br/DW/index.m3u8
 
 
 ##########################
@@ -524,13 +518,13 @@ http://up.kiwi/351921603109/34939156/296535
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/99261.ts
 
 #EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://i.postimg.cc/zfrYdgVv/X%20SPORTS.png" group-title="ESPORTES",XSPORTS HD
-http://dnsone.space:80/Rosalinapina/State3/1270005
+https://cdn-sp2.satlabscloud.com.br/XSPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="redbulltv.br" tvg-name="REDBULL TV HD" tvg-logo="https://i.postimg.cc/4NYGnGDk/REDBULL%20TV.png" group-title="ESPORTES",REDBULL TV HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46.m3u8
 
-#EXTINF:-1 tvg-id="fueltv.br" tvg-logo="https://i.postimg.cc/zvBrCY3T/FUEL%20TV.png" group-title="ESPORTES",FUEL TV HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/101.m3u8
+#EXTINF:-1 tvg-id="fueltv.br" tvg-name="FUEL TV HD" tvg-logo="https://i.postimg.cc/zvBrCY3T/FUEL%20TV.png" group-title="ESPORTES",FUEL TV HD
+https://cdn-sp2.satlabscloud.com.br/FUEL_TV/index.m3u8
 
 
 ##########################
@@ -620,6 +614,7 @@ http://12.proximidade112.top:80/123456/654321/152573.m3u8
 ##########################
 # JAVA FILMES 
 ##########################
+
 
 #EXTINF:-1 tvg-id="" tvg-name="RESGATE IMPLACÁVEL" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/1w01rEQRYvIoSs5Is9cQDJhiUel.jpg" group-title="JAVA FILMES",RESGATE IMPLACÁVEL
 http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/803807.mp4
@@ -783,8 +778,6 @@ plugin://plugin.video.youtube/play/?video_id=GVs9xT0Qe5E
 
 #EXTINF:-1 tvg-id="" tvg-name="AEROPORTO INTERNACIONAL DE GUARULHOS - SÃO PAULO" tvg-logo="https://www.fmetropolitana.com.br/wp-content/uploads/2022/05/Aeroporto-Aviao-1-scaled.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO INTERNACIONAL DE GUARULHOS - SÃO PAULO
 plugin://plugin.video.youtube/play/?video_id=BqeKcsdS1ug
-
-
 
 
 ##########################
@@ -1597,19 +1590,19 @@ http://aguasdecoco.cdnxjp.space:80/awz8gmbn/z0j3bp58/96617
 
 
 #EXTINF:-1 tvg-id="redevida.br" tvg-name="TV REDE VIDA HD" tvg-logo="https://i.postimg.cc/nrQFMLCC/REDE-VIDA.png" group-title="RELIGIOSOS",TV REDE VIDA HD
-https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="cancaonova.br" tvg-name="TV CANÇÃO NOVA HD" tvg-logo="https://i.postimg.cc/j5RKj7TV/CANCAO-NOVA.png" group-title="RELIGIOSOS",TV CANÇÃO NOVA HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/5.m3u8
+https://cdn-sp2.satlabscloud.com.br/CANCAO_NOVA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://i.postimg.cc/RhFWV9zy/TV-APARECIDA.png" group-title="RELIGIOSOS",TV APARECIDA HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/17.m3u8
+https://cdn-sp2.satlabscloud.com.br/TV_APARECIDA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="paieterno.br" tvg-name="TV PAI ETERNO HD" tvg-logo="https://i.postimg.cc/8Ph2Xnsd/TV-PAI-ETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO HD
-https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+https://cdn-sp2.satlabscloud.com.br/PAI_ETERNO/index.m3u8
 
 #EXTINF:-1 tvg-id="evangelizar.br" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://i.postimg.cc/8Ph2Xnsd/TV-PAI-ETERNO.png" group-title="RELIGIOSOS",TV EVANGELIZAR HD
-https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/TV_EVANGELIZAR/index.m3u8
 
 
 ##########################
@@ -1697,7 +1690,6 @@ https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
 
 #EXTINF:-1 tvg-id="ondapocos.mg" tvg-name="ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)" tvg-logo="https://i.postimg.cc/cCbNTknH/ONDA%20PO%C3%87OS%20FM.png" group-title="RÁDIOS",ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)
 https://stmv1.transmissaodigital.com/ondapocos/ondapocos/chunklist_w1278587177.m3u8
-
 
 #EXTINF:-1 tvg-id="ondapocos.mg" tvg-name="LÍDER FM FM 103,5 Mhz (UBÁ- MG)" tvg-logo="https://i.postimg.cc/qqSh4NCQ/LIDER-FM-UBA.png" group-title="RÁDIOS",LÍDER FM FM 103,5 Mhz (UBÁ- MG)
 https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
