@@ -86,7 +86,7 @@ https://cdn-sp2.satlabscloud.com.br/GAZETA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-id="amazonsat.br" tvg-name="AMAZON SAT HD" tvg-logo="https://i.postimg.cc/bvcpK5Fs/AMAZON-SAT.png" group-title="CANAIS ABERTOS",AMAZON SAT HD
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 #EXTINF:-1 tvg-id="tvpocos.br" tvg-name="TV POÇOS HD" tvg-logo="https://i.postimg.cc/K8t2dVgq/TV-POCOS.png" group-title="CANAIS ABERTOS",TV POÇOS HD
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/91273.ts
@@ -95,7 +95,7 @@ http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/91273.ts
 https://cdn-sp2.satlabscloud.com.br/AGROMAIS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.postimg.cc/JnRmhkLd/CANAL-DO-BOI.png" group-title="CANAIS ABERTOS",CANAL DO BOI HD
-http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
 https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -155,7 +155,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 https://cdn-sp2.satlabscloud.com.br/TCM_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -200,7 +200,7 @@ https://cdn-sp2.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=Mw3YKkujzIi9hYQJ
 http://up.kiwi/351921603109/34939156/299687
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://177.52.24.163/USA-HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://177.52.24.163/USA-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
 https://cdn-sp2.satlabscloud.com.br/LIFE_TIME_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -248,7 +248,7 @@ https://cdn-sp2.satlabscloud.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=Mw3YKk
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="TV FUTURA HD" tvg-logo="https://i.postimg.cc/fRXhjKW6/TV%20FUTURA.png" group-title="DOCUMENTÁRIOS",TV FUTURA HD
-http://170.83.49.66:8083/FUTURAHD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
 
 
 ##########################
@@ -308,7 +308,7 @@ https://cdn-sp2.satlabscloud.com.br/WOOHOO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 
 
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="CORTESIA",ADRENALINA PURA TV HD
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
 
 #EXTINF:-1 tvg-id="adesso.br" tvg-name="ADESSO TV HD" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="CORTESIA",ADESSO TV HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
@@ -407,10 +407,10 @@ https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=Mw3YKkujz
 http://up.kiwi/351921603109/34939156/545
 
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
-http://177.52.24.163/GLOOBINHO-HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://177.52.24.163/GLOOBINHO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUM DUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUM DUM HD
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 
 #EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -1664,7 +1664,7 @@ https://live.paineldj.com.br/proxy/transclube?mp=/stream
 https://str1.streamhostpg.com.br:8108/stream?1760992304045
 
 #EXTINF:-1 tvg-id="clubefm.bsb" tvg-name="CLUBE FM 105,5 Mhz (BRASÍLIA - DF)" tvg-logo="https://i.postimg.cc/7PsDxhQW/RADIO%20CLUBE%20FM%20BRASILIA.png" group-title="RÁDIOS",CLUBE FM 105,5 Mhz (BRASÍLIA - DF)
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 
 #EXTINF:-1 tvg-id="fmodia.rj" tvg-name="FM O DIA 100,5 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/2y6DQN3B/FM%20O%20DIA.png" group-title="RÁDIOS",FM O DIA 100,5 Mhz (RIO DE JANEIRO - RJ)
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/42.m3u8
@@ -1685,10 +1685,10 @@ plugin://plugin.video.youtube/play/?video_id=UYz7pDwr6dE
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac
 
 #EXTINF:-1 tvg-id="montanhesa.vicosa" tvg-name="MONTANHESA FM 106,5 Mhz (VIÇOSA - MG)" tvg-logo="https://i.postimg.cc/ZKWm0m11/RADIO%20MONTANHESA%20FM.png" group-title="RÁDIOS",MONTANHESA FM 106,5 Mhz (VIÇOSA - MG)
-https://qfm.sistemasgerais.com.br/hlsm/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
 
 #EXTINF:-1 tvg-id="ondapocos.mg" tvg-name="ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)" tvg-logo="https://i.postimg.cc/cCbNTknH/ONDA%20PO%C3%87OS%20FM.png" group-title="RÁDIOS",ONDA POÇOS FM 96,7 Mhz (POÇOS DE CALDAS- MG)
 https://stmv1.transmissaodigital.com/ondapocos/ondapocos/chunklist_w1278587177.m3u8
 
 #EXTINF:-1 tvg-id="ondapocos.mg" tvg-name="LÍDER FM FM 103,5 Mhz (UBÁ- MG)" tvg-logo="https://i.postimg.cc/qqSh4NCQ/LIDER-FM-UBA.png" group-title="RÁDIOS",LÍDER FM FM 103,5 Mhz (UBÁ- MG)
-https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
