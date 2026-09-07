@@ -463,15 +463,15 @@ https://cdn-sp2.satlabscloud.com.br/DW/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvl
 ##########################
 
 
-#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD TESTE" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD TESTE
+#EXTINF:-1 tvg-id="Òsportv-hd" tvg-name="SPORTV HD TESTE" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD TESTE
 
-#EXTINF:-1 tvg-id="br#sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
+#EXTINF:-1 tvg-id="sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
 http://up.kiwi/351921603109/34939156/299681
 
-#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
+#EXTINF:-1 tvg-id="sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
 http://up.kiwi/351921603109/34939156/1219
 
-#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
+#EXTINF:-1 tvg-id="sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
 http://up.kiwi/351921603109/34939156/296213
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
