@@ -43,6 +43,9 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1 tvg-id="record.sp.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 https://cdn-sp2.satlabscloud.com.br/RECORD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
+#EXTINF:-1 tvg-id="record.mg.br" tvg-name="RECORD MG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="CANAIS ABERTOS",RECORD MG HD
+http://168.205.87.198:8555/live/1347/123456/285.m3u8
+
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="TV ALTEROSA JF HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA JF HD
 http://dnsone.space:80/Rosalinapina/State3/978124
 
