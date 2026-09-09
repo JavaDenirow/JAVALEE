@@ -14,7 +14,7 @@ https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
-http://up.kiwi/351921603109/34939156/296713
+http://168.205.87.198:8555/live/1347/123456/282.m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
 http://up.kiwi/351921603109/34939156/296738
@@ -27,6 +27,9 @@ https://cdn-sp2.satlabscloud.com.br/BAND_RIO_HD/index.m3u8?token=Mw3YKkujzIi9hYQ
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
 https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
+
+#EXTINF:-1 tvg-id="Band.minas.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
+http://168.205.87.198:8555/live/1347/123456/276.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -99,6 +102,18 @@ http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV CÂMARA HD" tvg-logo="https://i.postimg.cc/qvndXLBD/TV%20CAMARA.png" group-title="CANAIS ABERTOS",TV CÂMARA HD
 https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
+
+##########################
+# FILMES E SÉRIES 24H 
+##########################
+
+
+#EXTINF:-1 tvg-id="playpoca.filmes" tvg-name="PLAYPOCA FILMES HD" tvg-logo="https://i.postimg.cc/25kcQGTD/PLAYPOCA-FILMES.png" group-title="FILMES E SÉRIES 24H ",PLAYPOCA FILMES HD
+http://168.205.87.198:8555/live/1347/123456/326.m3u8
+
+#EXTINF:-1 tvg-id="playpoca.series" tvg-name="PLAYPOCA SÉRIES HD" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="FILMES E SÉRIES 24H ",PLAYPOCA SÉRIES HD
+http://168.205.87.198:8555/live/1347/123456/327.m3u8
 
 
 ##########################
@@ -440,7 +455,7 @@ https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9
 https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.postimg.cc/PxKHv5Xg/CNN-BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
-http://up.kiwi/351921603109/34939156/266
+https://cdn-sp2.satlabscloud.com.br/CNNB_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="cnn.espanol" tvg-name="CNN ESPANHOL" tvg-logo="https://i.postimg.cc/1tXhj1J1/CNN-ESPANHOL.png" group-title="NOTÍCIAS",CNN ESPANHOL
 http://up.kiwi/351921603109/34939156/270
@@ -462,8 +477,6 @@ https://cdn-sp2.satlabscloud.com.br/DW/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvl
 # ESPORTES
 ##########################
 
-
-#EXTINF:-1 tvg-id="Òsportv-hd" tvg-name="SPORTV HD TESTE" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD TESTE
 
 #EXTINF:-1 tvg-id="sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
 http://up.kiwi/351921603109/34939156/299681
