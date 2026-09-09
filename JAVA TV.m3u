@@ -29,7 +29,7 @@ https://cdn-sp2.satlabscloud.com.br/BAND_RIO_HD/index.m3u8?token=Mw3YKkujzIi9hYQ
 https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="Band.minas.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
-http://168.205.87.198:8555/live/1347/123456/276.m3u8
+http://168.205.87.198:8555/streaming/clients_live.php?extension=m3u8&username=1347&password=123456&stream=276&type=hls&segment=276_962.ts
 
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
 https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
