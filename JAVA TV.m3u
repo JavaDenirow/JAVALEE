@@ -112,10 +112,10 @@ https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 ##########################
 
 
-#EXTINF:-1 tvg-id="playpoca.filmes" tvg-name="PLAYPOCA FILMES HD" tvg-logo="https://i.postimg.cc/25kcQGTD/PLAYPOCA-FILMES.png" group-title="FILMES E SÉRIES 24H ",PLAYPOCA FILMES HD
+#EXTINF:-1 tvg-id="playpoca.filmes" tvg-name="PLAYPOCA FILMES HD" tvg-logo="https://i.postimg.cc/25kcQGTD/PLAYPOCA-FILMES.png" group-title="FILMES E SÉRIES 24H",PLAYPOCA FILMES HD
 http://168.205.87.198:8555/live/1347/123456/326.m3u8
 
-#EXTINF:-1 tvg-id="playpoca.series" tvg-name="PLAYPOCA SÉRIES HD" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="FILMES E SÉRIES 24H ",PLAYPOCA SÉRIES HD
+#EXTINF:-1 tvg-id="playpoca.series" tvg-name="PLAYPOCA SÉRIES HD" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="FILMES E SÉRIES 24H",PLAYPOCA SÉRIES HD
 http://168.205.87.198:8555/live/1347/123456/327.m3u8
 
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="FILMES E SÉRIES 24H",ADRENALINA PURA TV HD
