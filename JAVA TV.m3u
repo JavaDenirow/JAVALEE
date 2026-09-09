@@ -118,6 +118,12 @@ http://168.205.87.198:8555/live/1347/123456/326.m3u8
 #EXTINF:-1 tvg-id="playpoca.series" tvg-name="PLAYPOCA SÉRIES HD" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="FILMES E SÉRIES 24H ",PLAYPOCA SÉRIES HD
 http://168.205.87.198:8555/live/1347/123456/327.m3u8
 
+#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="FILMES E SÉRIES 24H",ADRENALINA PURA TV HD
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
+
+#EXTINF:-1 tvg-id="tvseries.br" tvg-name="TV SÉRIES HD" tvg-logo="https://i.postimg.cc/gkvCtBrH/TV-SERIES.png" group-title="FILMES E SÉRIES 24H",TV SÉRIES HD
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
+
 
 ##########################
 # FILMES
@@ -325,9 +331,6 @@ https://cdn-sp2.satlabscloud.com.br/WOOHOO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 ##########################
 
 
-#EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="CORTESIA",ADRENALINA PURA TV HD
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
-
 #EXTINF:-1 tvg-id="adesso.br" tvg-name="ADESSO TV HD" tvg-logo="https://i.postimg.cc/SKFkwPtk/ADESSO-TV.png" group-title="CORTESIA",ADESSO TV HD
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
@@ -354,9 +357,6 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002313.m3u8
 
 #EXTINF:-1 tvg-id="classicosdocinema.br" tvg-name="TV CLÁSSICOS DO CINEMA HD" tvg-logo="https://i.postimg.cc/YCpgWNRs/TV-CLASSICOS-DO-CINEMA.png" group-title="CORTESIA",CLÁSSICOS DO CINEMA HD
 https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.m3u8.m3u8
-
-#EXTINF:-1 tvg-id="tvseries.br" tvg-name="TV SÉRIES HD" tvg-logo="https://i.postimg.cc/gkvCtBrH/TV-SERIES.png" group-title="CORTESIA",TV SÉRIES HD
-https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvsonata.br" tvg-name="TV SONATA HD" tvg-logo="https://i.postimg.cc/FK5YwcpJ/TV-SONATA.png" group-title="CORTESIA",TV SONATA HD
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
