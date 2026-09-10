@@ -26,7 +26,7 @@ http://dnsone.space:80/Rosalinapina/State3/85937
 https://cdn-sp2.satlabscloud.com.br/BAND_RIO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
-https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
+https://iptv.vivatele.com/auth/3.m3u8?token=dpAr5v5bufYdMqGSFI74_UcgVcyhzm-b82aY_rVtf9a4ejODHtt6rKPtjlQN2WhLOnkPbK9kNUsdbaDPl7FDiThdLkLROcABaKCfi9H5f82XeGWyPad8EP3Uf6arWm8hlrSfe6wv4aGULI3mQXVk-Rrmhn2UmtvKbKkb9G4M1GiIUoCFxmQX98PvD-Av5MIUBBayN7cQiScrBN1G5DcheicgY3XhOIFZS9GABAog-sIgtrjY8fipTmxz0Cup_7pgZ1JTBTD95BBjcnRVI8thTYlhKUC4J3T7X-8HL6TVRD2KXZEUMLqcqmXjrANYoYgHhqTPdWuO127g16N71O-EGJ1AGai3tdoynUivRMjtS_zgEVqYCmrKSFQcr3e9z2YASF_Mjga1a1reHNNjLcuh7oL0L4CNbX6Nzr7PS7oYxNfiJAlK6FzxcDbOJzPVHXW3td-8Z7Cc5qclKlX7arhNfdpomJ4r6vEY_iPeOn-thYicPQN_dWY1AVykcWkYHaXmQSzfuVzceNZdHRmP6DJApod9L-uvM7w8PEiTMNRU44lQciK-eVNKebQPVJYcMKVWjNGHVaTJnd_UfBNDQfyWjGUXDaABzcJ7YIid3n-OSuc
 
 #EXTINF:-1 tvg-id="Band.minas.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
 http://168.205.87.198:8555/live/1347/123456/276.m3u8
@@ -38,7 +38,7 @@ https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 https://cdn-sp2.satlabscloud.com.br/RECORD_RIO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
+https://gerenciar.vivatele.com/auth/13.m3u8?token=uQC1i4gcpXelnGPS74O0Co-b71pG8KQRhMuMWnnDqKeTIomgnDRRaiGUEpY0MOki4rdekj_Z7lIbaIwmPIcbb-mOrndp8U-x92om_ko6GaQ7rPkqBIzoAUcsvf_fge1QfhwBNgHpgtDaP0Ws9-yvIUi74rqHkw5ZPPSiJldelfqNJxOSpZJpp-xSck4NSTq73-v9l0tqhbscOwww2Wav8MKN-ZNFzn11iNippWbdhEOY8Oh4mMH3fLx2rIHwkuVkmjaq3U3zG-OAYxkhUccZtAdaNvwkqBNKfaNmyyh_RheGX-P5XoYqXNu9SKBV33XUlFSqibhvdCc_5oBW3XXUIiNqPWDNGqrbPZXRHOlNyRhs9CSpz-wKl_BkLCp4HK32u4gLF7r1IMBg-bXFYn9K-ZA2t70jPe7RAVA_ls1Ged6VKqYEq42AdXy7fUqATiEzso5SlflkrPaLbcrLBhBDrJp6D3qCTxi04DsL0TKFsM52A-Z885nySPgVUYG63EaRpiFH8cmUQ2ZgBka9iXlhjI6MtdAoNjXTs5kphZM9K5swAi_74euh_IoP5NUkhHv_brSUDIdzz9fRrBYMLRugVIYaMWy1-yhj1lsxtNYaxgU
 
 #EXTINF:-1 tvg-id="record.sp.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 https://cdn-sp2.satlabscloud.com.br/RECORD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -83,7 +83,7 @@ https://cdn-sp2.satlabscloud.com.br/TV_CULTURA_HD/index.m3u8?token=Mw3YKkujzIi9h
 https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="tbc.goias" tvg-name="TV BRASIL CENTRAL TBC HD" tvg-logo="https://i.postimg.cc/RhG3Qhvy/TBC-LOGO.png" group-title="CANAIS ABERTOS",TV BRASIL CENTRAL TBC HD
-http://12.proximidade112.top:80/123456/654321/4035537.m3u8
+https://5a1c76baf08c0.streamlock.net/tbc/tbc/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
 https://cdn-sp2.satlabscloud.com.br/GAZETA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -235,6 +235,12 @@ https://cdn-sp2.satlabscloud.com.br/SONY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 #EXTINF:-1 tvg-id="sony.movies.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
 https://cdn-sp2.satlabscloud.com.br/SONY_MOVIES/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
+#EXTINF:-1 tvg-id="sony.classicas.br" tvg-name="SONY ONE CLÁSSICAS HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE CLÁSSICAS HD
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="sony.emocoes.br" tvg-name="SONY ONE EMOÇÕES HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE EMOÇÕES HD
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
 https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
@@ -359,7 +365,7 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002313.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.m3u8.m3u8
 
 #EXTINF:-1 tvg-id="tvsonata.br" tvg-name="TV SONATA HD" tvg-logo="https://i.postimg.cc/FK5YwcpJ/TV-SONATA.png" group-title="CORTESIA",TV SONATA HD
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w65777454.m3u8
 
 #EXTINF:-1 tvg-id="urbanseries.br" tvg-name="URBAN SÉRIES HD" tvg-logo="https://i.postimg.cc/d0Phgd6r/URBAN-SERIES.png" group-title="CORTESIA",URBAN SÉRIES HD
 https://cdn-sp2.satlabscloud.com.br/URBAN_SERIES/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -412,6 +418,9 @@ https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=Mw3YKkujzIi9hY
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
 https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="RETRÔ CARTOON" tvg-logo="https://i.postimg.cc/FsjMCn1d/RETRO-CARTOON.png" group-title="INFANTIL E DESENHOS 24H",RETRÔ CARTOON
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w2027700775.m3u8
+
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
 https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
@@ -431,7 +440,7 @@ http://177.52.24.163/GLOOBINHO-HD/index.m3u8
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 
 #EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8.
 
 
 ##########################
@@ -590,7 +599,7 @@ http://172.110.219.252/live/47125065/12264670/223748.m3u8
 http://12.proximidade112.top:80/123456/654321/252415.m3u8
 
 #EXTINF:-1 tvg-id="canalgoat.br" tvg-name="CANAL GOAT HD" tvg-logo="https://i.postimg.cc/fLMZb9NF/CANAL-GOAT.png" group-title="ESPORTES PPV",CANAL GOAT HD
-http://46.151.196.223:14401
+https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
 
 #EXTINF:-1 tvg-id="primevideo.br" tvg-name="PRIME VÍDEO 1 HD" tvg-logo="https://i.postimg.cc/PJqVqm5B/PRIME-VIDEO.png" group-title="ESPORTES PPV",PRIME VÍDEO 1 HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/939690.m3u8
@@ -1695,7 +1704,7 @@ https://24403.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac
 https://8923.brasilstream.com.br/stream
 
 #EXTINF:-1 tvg-id="tupi.rj" tvg-name="TV TUPI FM 96,5 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/FHcQgZFP/TUPI%20RJ.png" group-title="RÁDIOS",TV TUPI FM 96,5 Mhz (RIO DE JANEIRO - RJ)
-plugin://plugin.video.youtube/play/?video_id=UYz7pDwr6dE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1789100329/ei/yCyjarjqPOHK1sQPvti54Ac/ip/2804%3Ad45%3A9b1c%3A1000%3Aa94f%3Ae3f6%3A0%3A17c8/id/SB_orq3VUM8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AR3QkAn7ms59yofAq2w4Q_8s9pCk1JS9JNu_XB-XF-Dem5VyoS5A8hYUERCmxYtckFo21gqrnuSf7Dom/spc/I-rgIRf7BZIWXb-WHASXvylV4hlZ7mhw5919pivfxD4ac68FujJldZFFtQ/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52135441/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhANogh3BNul26AWtxsD_efI3z9dg8cOQ3JOuaLV3oE_S6AiB2ViT-6GBlbWNkz_wm0GjVbzJz_QjuxE2zb-0-HI6nzg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="jbfm.rj" tvg-name="JB FM 99,9 Mhz (RIO DE JANEIRO - RJ)" tvg-logo="https://i.postimg.cc/1XjZM7Nj/JBFM.png" group-title="RÁDIOS",JB FM 99,9 Mhz (RIO DE JANEIRO - RJ
 https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac
