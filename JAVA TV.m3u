@@ -121,6 +121,24 @@ http://168.205.87.198:8555/live/1347/123456/327.m3u8
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="FILMES E SÉRIES 24H",ADRENALINA PURA TV HD
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
 
+#EXTINF:-1 tvg-id="runtime.acao.br" tvg-name="RUNTIME AÇÃO" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES E SÉRIES 24H",RUNTIME AÇÃO
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+
+#EXTINF:-1 tvg-id="runtime.cinema.br" tvg-name="RUNTIME CINEMA" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES E SÉRIES 24H",RUNTIME CINEMA
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+
+#EXTINF:-1 tvg-id="runtime.comedia.br" tvg-name="RUNTIME COMÉDIA" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES E SÉRIES 24H",RUNTIME COMÉDIA
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+
+#EXTINF:-1 tvg-id="runtime.familia.br" tvg-name="RUNTIME FAMÍLIA" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES E SÉRIES 24H",RUNTIME FAMÍLIA
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
+
+#EXTINF:-1 tvg-id="runtime.romance.br" tvg-name="RUNTIME ROMANCE" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES E SÉRIES 24H",RUNTIME ROMANCE
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+
+#EXTINF:-1 tvg-id="runtime.crime.br" tvg-name="RUNTIME CRIME" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES E SÉRIES 24H",RUNTIME CRIME
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+
 #EXTINF:-1 tvg-id="tvseries.br" tvg-name="TV SÉRIES HD" tvg-logo="https://i.postimg.cc/gkvCtBrH/TV-SERIES.png" group-title="FILMES E SÉRIES 24H",TV SÉRIES HD
 https://stmv2.painelvideocast.com.br/tvseries/tvseries/playlist.m3u8
 
