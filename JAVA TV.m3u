@@ -26,7 +26,7 @@ http://dnsone.space:80/Rosalinapina/State3/85937
 https://cdn-sp2.satlabscloud.com.br/BAND_RIO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
-https://iptv.vivatele.com/auth/3.m3u8?token=dpAr5v5bufYdMqGSFI74_UcgVcyhzm-b82aY_rVtf9a4ejODHtt6rKPtjlQN2WhLOnkPbK9kNUsdbaDPl7FDiThdLkLROcABaKCfi9H5f82XeGWyPad8EP3Uf6arWm8hlrSfe6wv4aGULI3mQXVk-Rrmhn2UmtvKbKkb9G4M1GiIUoCFxmQX98PvD-Av5MIUBBayN7cQiScrBN1G5DcheicgY3XhOIFZS9GABAog-sIgtrjY8fipTmxz0Cup_7pgZ1JTBTD95BBjcnRVI8thTYlhKUC4J3T7X-8HL6TVRD2KXZEUMLqcqmXjrANYoYgHhqTPdWuO127g16N71O-EGJ1AGai3tdoynUivRMjtS_zgEVqYCmrKSFQcr3e9z2YASF_Mjga1a1reHNNjLcuh7oL0L4CNbX6Nzr7PS7oYxNfiJAlK6FzxcDbOJzPVHXW3td-8Z7Cc5qclKlX7arhNfdpomJ4r6vEY_iPeOn-thYicPQN_dWY1AVykcWkYHaXmQSzfuVzceNZdHRmP6DJApod9L-uvM7w8PEiTMNRU44lQciK-eVNKebQPVJYcMKVWjNGHVaTJnd_UfBNDQfyWjGUXDaABzcJ7YIid3n-OSuc
+
 
 #EXTINF:-1 tvg-id="Band.minas.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
 http://168.205.87.198:8555/live/1347/123456/276.m3u8
@@ -509,13 +509,13 @@ https://cdn-sp2.satlabscloud.com.br/DW/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvl
 
 
 #EXTINF:-1 tvg-id="sportv-hd" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-http://up.kiwi/351921603109/34939156/299681
+http://195.178.110.110/sportv/index.m3u8
 
 #EXTINF:-1 tvg-id="sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-http://up.kiwi/351921603109/34939156/1219
+http://195.178.110.110/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-id="sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-http://up.kiwi/351921603109/34939156/296213
+http://195.178.110.110/sportv3/index.m3u8
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
 https://cdn-sp2.satlabscloud.com.br/ESPN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -575,25 +575,25 @@ https://cdn-sp2.satlabscloud.com.br/FUEL_TV/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-http://up.kiwi/351921603109/34939156/305246
+http://195.178.110.110/premiere1/index.m3u8
 
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-http://up.kiwi/351921603109/34939156/305247
+http://195.178.110.110/premiere2/index.m3u8
 
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
-http://up.kiwi/351921603109/34939156/305248
+http://195.178.110.110/premiere3/index.m3u8
 
 #EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
-http://up.kiwi/351921603109/34939156/873
+http://195.178.110.110/premiere4/index.m3u8
 
 #EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-http://up.kiwi/351921603109/34939156/305249
+http://195.178.110.110/premiere5/index.m3u8
 
 #EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
-http://up.kiwi/351921603109/34939156/883
+http://195.178.110.110/premiere6/index.m3u8
 
 #EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
-http://up.kiwi/351921603109/34939156/889
+http://195.178.110.110/premiere7/index.m3u8
 
 #EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
 http://up.kiwi/351921603109/34939156/895
