@@ -119,7 +119,7 @@ http://168.205.87.198:8555/live/1347/123456/326.m3u8
 http://168.205.87.198:8555/live/1347/123456/327.m3u8
 
 #EXTINF:-1 tvg-id="adrenalinapuratv.br" tvg-name="ADRENALINA PURA TV HD" tvg-logo="https://i.postimg.cc/NjrZ6bSt/ADRENALINA-PURA-TV-2.png" group-title="FILMES E SÉRIES 24H",ADRENALINA PURA TV HD
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-pt-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="runtime.acao.br" tvg-name="RUNTIME AÇÃO" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="FILMES E SÉRIES 24H",RUNTIME AÇÃO
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
