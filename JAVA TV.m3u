@@ -112,10 +112,10 @@ https://cdn-sp2.satlabscloud.com.br/TV_CAMARA/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 
 
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/KYSxdWsk/AMC.png" group-title="FILMES",AMC HD
-http://up.kiwi/351921603109/34939156/296432
+http://45.185.11.126:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
-http://up.kiwi/351921603109/34939156/188
+http://45.185.11.126:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
 https://cdn-sp2.satlabscloud.com.br/CINEMAX/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -151,7 +151,7 @@ https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=Mw3YKkujzIi9h
 https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
-http://up.kiwi/351921603109/34939156/299677
+http://45.185.11.126:8000/play/a057/index.m3u8
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
@@ -160,28 +160,28 @@ http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8
+http://45.185.11.126:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 https://cdn-sp2.satlabscloud.com.br/TCM_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
-http://up.kiwi/351921603109/34939156/299684
+http://45.185.11.126:8000/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
-http://up.kiwi/351921603109/34939156/299682
+http://45.185.11.126:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
-http://up.kiwi/351921603109/34939156/299683
+http://45.185.11.126:8000/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-http://up.kiwi/351921603109/34939156/1268
+http://45.185.11.126:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
-http://up.kiwi/351921603109/34939156/1288
+http://45.185.11.126:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
-http://up.kiwi/351921603109/34939156/296199
+http://45.185.11.126:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
 https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -202,10 +202,13 @@ https://cdn-sp2.satlabscloud.com.br/AXN_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQ
 https://cdn-sp2.satlabscloud.com.br/TNT_SERIES/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
-http://up.kiwi/351921603109/34939156/299687
+http://45.185.11.126:8000/play/a0af/index.m3u8
+
+#EXTINF:-1 tvg-id="universal.premiere.br" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.postimg.cc/y8kkW26K/UNIVERSAL-PREMIERE.png" group-title="SÉRIES",UNIVERSAL PREMIERE HD
+http://45.185.11.126:8000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://177.52.24.163/USA-HD/index.m3u8
+http://45.185.11.126:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
 https://cdn-sp2.satlabscloud.com.br/LIFE_TIME_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -262,13 +265,16 @@ EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.p
 https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
-http://up.kiwi/351921603109/34939156/278
+http://45.185.11.126:8000/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-id="ge.br" tvg-name="GETV 4K" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV 4K
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+http://45.185.11.126:8000/play/a08v/index.m3u8
 
 #EXTINF:-1 tvg-id="nsports.br" tvg-name="NSports HD" tvg-logo="https://i.postimg.cc/5yRMpKC9/N%20SPORTS.png" group-title="ESPORTES",NSports HD
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+
+#EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="ESPORTES",CANAL OFF HD
+http://45.185.11.126:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
 http://up.kiwi/351921603109/34939156/296530
@@ -319,7 +325,7 @@ http://195.178.110.110/premiere6/index.m3u8
 http://195.178.110.110/premiere7/index.m3u8
 
 #EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
-http://up.kiwi/351921603109/34939156/895
+http://45.185.11.126:8000/play/a05l/index.m3u8
 
 
 ##########################
@@ -373,7 +379,7 @@ http://12.proximidade112.top:80/123456/654321/152571.m3u8
 http://12.proximidade112.top:80/123456/654321/152572.m3u8
 
 #EXTINF:-1 tvg-id="paramountplus4.br" tvg-name="PARAMOUNT PLUS 4" tvg-logo="https://i.postimg.cc/90nj1g70/PARAMOUNT.png" group-title="ESPORTES PPV",PARAMOUNT PLUS 4
-http://12.proximidade112.top:80/123456/654321/152573.m3u8
+http://45.185.11.126:8000/play/a0aq/index.m3u8
 
 
 ##########################
@@ -459,11 +465,8 @@ https://cdn-sp2.satlabscloud.com.br/TRUTV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6k
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.postimg.cc/GpFdrjZ4/ARTE1.png" group-title="VARIEDADES",ARTE 1 HD
 https://cdn-sp2.satlabscloud.com.br/ARTE_1/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="VARIEDADES",CANAL OFF HD
-http://up.kiwi/351921603109/34939156/824
-
 #EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.postimg.cc/MTtwfpZ6/DISCOVERY-H-H.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
-http://up.kiwi/351921603109/34939156/296568
+http://45.185.11.126:8000/play/a07y/index.m3u8
 
 #EXTINF:-1 tvg-id="e.br" tvg-name="E!" tvg-logo="https://i.postimg.cc/TwQx5325/E.png" group-title="VARIEDADES",E!
 http://up.kiwi/351921603109/34939156/296155
@@ -472,7 +475,7 @@ http://up.kiwi/351921603109/34939156/296155
 https://cdn-sp2.satlabscloud.com.br/FISH_TV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/3NRTXQWm/FOOD%20NETWORK.png" group-title="VARIEDADES",FOOD NETWORK HD
-http://up.kiwi/351921603109/34939156/296133
+http://45.185.11.126:8000/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-id="globoplaynovelas.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://i.postimg.cc/2y6DQN3x/GLOBO%20PLAY%20NOVELAS.png" group-title="VARIEDADES",GLOBOPLAY NOVELAS HD
 http://79.127.238.228:14455
@@ -481,10 +484,10 @@ http://79.127.238.228:14455
 https://cdn-sp2.satlabscloud.com.br/HGTV_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://i.postimg.cc/D0ZTr3mB/GNT.png" group-title="VARIEDADES",GNT HD
-http://up.kiwi/351921603109/34939156/552
+http://45.185.11.126:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-id="modoviagem.br" tvg-name="MODO VIAGEM HD" tvg-logo="https://i.postimg.cc/VvVc4ZCQ/MODO%20VIAGEM.png" group-title="VARIEDADES",MODO VIAGEM HD
-http://up.kiwi/351921603109/34939156/296141
+http://45.185.11.126:8000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/3JzTv6hL/TLC.png" group-title="VARIEDADES",TLC HD
 https://cdn-sp2.satlabscloud.com.br/TLC_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -494,6 +497,9 @@ https://cdn-sp2.satlabscloud.com.br/TNT_NOVELAS/index.m3u8?token=Mw3YKkujzIi9hYQ
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="VARIEDADES",TRACE BRASIL HD
 https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
+#EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="UNIVERSAL REALITY HD" tvg-logo="https://i.postimg.cc/wj773nxH/UNIVERSAL-REALITY.png" group-title="VARIEDADES",UNIVERSAL REALITY HD
+http://45.185.11.126:8000/play/a08c/index.m3u8
 
 #EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.postimg.cc/Pqjn6wPx/WOOHOO.png" group-title="VARIEDADES",WOOHOO HD
 https://cdn-sp2.satlabscloud.com.br/WOOHOO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -562,10 +568,10 @@ https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="multishowhd.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.postimg.cc/MHF8t3Qx/MULTI%20SHOW.png" group-title="ENTRETENIMENTO"",MULTISHOW HD
-http://up.kiwi/351921603109/34939156/745
+http://45.185.11.126:8000/play/a07a/index.m3u8
 
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/xC9Ydz2x/BIS.png" group-title="ENTRETENIMENTO",BIS HD
-http://up.kiwi/351921603109/34939156/296124
+http://45.185.11.126:8000/play/a07w/index.m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
 https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -598,13 +604,13 @@ https://cdn-sp2.satlabscloud.com.br/BOOMERANG_HD/index.m3u8?token=Mw3YKkujzIi9hY
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
-http://up.kiwi/351921603109/34939156/545
+http://45.185.11.126:8000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
-http://177.52.24.163/GLOOBINHO-HD/index.m3u8
+http://45.185.11.126:8000/play/a071/index.m3u8
 
 #EXTINF:-1 tvg-id="dumdum.br" tvg-name="DUM DUM HD" tvg-logo="https://i.postimg.cc/NMbt2jG9/DUM%20DUM.png" group-title="INFANTIL E DESENHOS 24H",DUM DUM HD
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+http://45.185.11.126:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="osjetsons.br" tvg-name="OS JETSONS 24H" tvg-logo="https://i.postimg.cc/8kKD1cnM/OS%20JETSONS.png" group-title="INFANTIL E DESENHOS 24H",OS JETSONS 24H
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
@@ -616,7 +622,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.postimg.cc/Hnxgw1j0/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS HD
-http://up.kiwi/351921603109/34939156/296342
+http://45.185.11.126:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.postimg.cc/yNmsBTwm/BAND-NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD
 https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -640,7 +646,7 @@ https://cdn-sp2.satlabscloud.com.br/CNNB_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 http://up.kiwi/351921603109/34939156/270
 
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN INTERNACIONAL" tvg-logo="https://i.postimg.cc/LX5KbFNK/CNN-INTERNACIONAL.png" group-title="NOTÍCIAS",CNN INTERNACIONAL
-http://up.kiwi/351921603109/34939156/273
+http://45.185.11.126:8000/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 MONDE" tvg-logo="https://i.postimg.cc/DZ60qh0p/TV5-MONDE.png" group-title="NOTÍCIAS",TV5 MONDE
 http://up.kiwi/351921603109/34939156/1260743
