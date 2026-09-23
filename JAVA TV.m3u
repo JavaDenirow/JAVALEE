@@ -573,6 +573,27 @@ http://45.185.11.126:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://i.postimg.cc/xC9Ydz2x/BIS.png" group-title="ENTRETENIMENTO",BIS HD
 http://45.185.11.126:8000/play/a07w/index.m3u8
 
+#EXTINF:-1 tvg-id="musicblack.br" tvg-name="MUSIC BLACK HD" tvg-logo="https://i.postimg.cc/0N9mjc4z/MUSIC-BLACK.png" group-title="ENTRETENIMENTO",MUSIC BLACK HD
+http://168.205.87.198:8555/live/1347/123456/320.m3u8
+
+#EXTINF:-1 tvg-id="musicclassics.br" tvg-name="MUSIC CLASSICS HD" tvg-logo="https://i.postimg.cc/8CTWctYj/MUSIC-CLASSICS.png" group-title="ENTRETENIMENTO",MUSIC CLASSICS HD
+http://168.205.87.198:8555/live/1347/123456/319.m3u8
+
+#EXTINF:-1 tvg-id="musichits.br" tvg-name="MUSIC HIT'S HD" tvg-logo="https://i.postimg.cc/N0QTFpn9/MUSIC-HITS.png" group-title="ENTRETENIMENTO",MUSIC HIT'S HD
+http://168.205.87.198:8555/live/1347/123456/321.m3u8
+
+#EXTINF:-1 tvg-id="musiclatino.br" tvg-name="MUSIC LATINO HD" tvg-logo="https://i.postimg.cc/mD587vxV/MUSIC-LATINO.png" group-title="ENTRETENIMENTO",MUSIC LATINO HD
+http://168.205.87.198:8555/live/1347/123456/322.m3u8
+
+#EXTINF:-1 tvg-id="musicparty.br" tvg-name="MUSIC PARTY HD" tvg-logo="https://i.postimg.cc/rpqWsQHr/MUSIC-PARTY.png" group-title="ENTRETENIMENTO",MUSIC PARTY HD
+http://168.205.87.198:8555/live/1347/123456/323.m3u8
+
+#EXTINF:-1 tvg-id="musicpop.br" tvg-name="MUSIC POP HD" tvg-logo="https://i.postimg.cc/W4srzXyZ/MUSIC-POP.png" group-title="ENTRETENIMENTO",MUSIC POP HD
+http://168.205.87.198:8555/live/1347/123456/324.m3u8
+
+#EXTINF:-1 tvg-id="musicrock.br" tvg-name="MUSIC ROCK HD" tvg-logo="https://i.postimg.cc/TPTm1Csg/MUSIC-ROCK.png" group-title="ENTRETENIMENTO",MUSIC ROCK HD
+http://168.205.87.198:8555/live/1347/123456/325.m3u8
+
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
 https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
