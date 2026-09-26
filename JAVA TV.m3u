@@ -9,6 +9,9 @@
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
 https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD 2" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD 2
+http://dns.fontedecanais.com.br:80/playercodestv/947942/69
+
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
 https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
@@ -121,10 +124,10 @@ http://45.185.11.126:8000/play/a06x/index.m3u8
 https://cdn-sp2.satlabscloud.com.br/CINEMAX/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
-http://up.kiwi/351921603109/34939156/292
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1897
 
 #EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
-http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/61965.ts
+http://dns.fontedecanais.com.br:80/playercodestv/947942/573
 
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
 https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -152,6 +155,9 @@ https://cdn-sp2.satlabscloud.com.br/HBO_EXTREME_HD/index.m3u8?token=Mw3YKkujzIi9
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
 http://45.185.11.126:8000/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD 2" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD 2
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1849
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
@@ -277,7 +283,7 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 http://45.185.11.126:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
-http://up.kiwi/351921603109/34939156/296530
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1999
 
 #EXTINF:-1 tvg-id="sportynet2.br" tvg-name="SPORTY NET 2 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 2 HD
 http://up.kiwi/351921603109/34939156/296533
@@ -334,10 +340,10 @@ http://45.185.11.126:8000/play/a05l/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cazetv.br" tvg-name="CAZÉ TV 1 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 1 HD
-https://cdn-sp2.satlabscloud.com.br/CAZE_TV/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1959
 
 #EXTINF:-1 tvg-id="Cazetv2.br" tvg-name="CAZÉ TV 2 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 2 HD
-http://172.110.219.252/live/47125065/12264670/223747.m3u8
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1962
 
 #EXTINF:-1 tvg-id="Cazetv3.br" tvg-name="CAZÉ TV 3 HD" tvg-logo="https://i.postimg.cc/tT9ygxb9/CAZE-TV.png" group-title="ESPORTES PPV",CAZÉ TV 3 HD
 http://172.110.219.252/live/47125065/12264670/223748.m3u8
