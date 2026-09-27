@@ -40,7 +40,7 @@ https://cdn-sp2.satlabscloud.com.br/BAND_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 https://cdn-sp2.satlabscloud.com.br/RECORD_RIO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
-https://gerenciar.vivatele.com/auth/13.m3u8?token=uQC1i4gcpXelnGPS74O0Co-b71pG8KQRhMuMWnnDqKeTIomgnDRRaiGUEpY0MOki4rdekj_Z7lIbaIwmPIcbb-mOrndp8U-x92om_ko6GaQ7rPkqBIzoAUcsvf_fge1QfhwBNgHpgtDaP0Ws9-yvIUi74rqHkw5ZPPSiJldelfqNJxOSpZJpp-xSck4NSTq73-v9l0tqhbscOwww2Wav8MKN-ZNFzn11iNippWbdhEOY8Oh4mMH3fLx2rIHwkuVkmjaq3U3zG-OAYxkhUccZtAdaNvwkqBNKfaNmyyh_RheGX-P5XoYqXNu9SKBV33XUlFSqibhvdCc_5oBW3XXUIiNqPWDNGqrbPZXRHOlNyRhs9CSpz-wKl_BkLCp4HK32u4gLF7r1IMBg-bXFYn9K-ZA2t70jPe7RAVA_ls1Ged6VKqYEq42AdXy7fUqATiEzso5SlflkrPaLbcrLBhBDrJp6D3qCTxi04DsL0TKFsM52A-Z885nySPgVUYG63EaRpiFH8cmUQ2ZgBka9iXlhjI6MtdAoNjXTs5kphZM9K5swAi_74euh_IoP5NUkhHv_brSUDIdzz9fRrBYMLRugVIYaMWy1-yhj1lsxtNYaxgU
+http://dns.fontedecanais.com.br:80/playercodestv/947942/1654
 
 #EXTINF:-1 tvg-id="record.sp.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 https://cdn-sp2.satlabscloud.com.br/RECORD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
