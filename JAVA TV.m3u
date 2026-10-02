@@ -686,6 +686,18 @@ https://cdn-sp2.satlabscloud.com.br/DW/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvl
 
 
 ##########################
+# ADULTOS
+##########################
+
+
+#EXTINF:-1 tvg-id="playboy.tv" tvg-name="PLAYBOY TV HD 2" tvg-logo="https://i.postimg.cc/rpM12f4M/PLAYBOY-TV.png" group-title="ADULTOS",PLAYBOY TV HD 2
+http://45.185.11.126:8000/play/a09n/index.m3u8
+
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="ADULTOS",SEXY HOT HD
+http://45.185.11.126:8000/play/a09o/index.m3u8
+
+
+##########################
 # JAVA FILMES 
 ##########################
 
@@ -779,79 +791,6 @@ http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/648941.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="RESGATE SEM LIMITES" tvg-logo="http://gstaticontent.com/images/es8LNVHb9S91T4OHBN57nv24fFu_big.jpg" group-title="JAVA FILMES",RESGATE SEM LIMITES
 http://hubby.cx:80/movie/Pdsrv-vods/726216683528qroqv/649763.mp4
-
-
-##########################
-# FILMES YOUTUBE
-##########################
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NET MOVIES 24H" tvg-logo="https://www.oficinadanet.com.br/imagens/post/13994/scc.jpg" group-title="FILMES YOUTUBE",NET MOVIES 24H
-plugin://plugin.video.youtube/play/?video_id=b1J_mC3pWvM
-
-#EXTINF:-1 tvg-id="" tvg-name="ACIMA DA LEI" tvg-logo="http://gstaticontent.com/images/4d49a2bb3bcbb8afd01bc78cef7edc2b.jpg" group-title="FILMES YOUTUBE",ACIMA DA LEI
-plugin://plugin.video.youtube/play/?video_id=zpDe78CNhZM
-
-#EXTINF:-1 tvg-id="" tvg-name="O SUBSTITUTO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2jSs5AFMhFWCWnbU555LYL2gGDx.jpg" group-title="FILMES YOUTUBE",O SUBSTITUTO
-plugin://plugin.video.youtube/play/?video_id=NCnWLOf9f3g
-
-#EXTINF:-1 tvg-id="" tvg-name="SHAOLIN CONTRA OS 12 HOMENS DE AÇO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xGNoiTOhXfVzk4UDAH7HXKtBljz.jpg" group-title="FILMES YOUTUBE",SHAOLIN CONTRA OS 12 HOMENS DE AÇO
-plugin://plugin.video.youtube/play/?video_id=UFPg_0O56ZM
-
-#EXTINF:-1 tvg-id="" tvg-name="INSTINTO RADICAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m8lkQBZWbKj9SwDNT6W1O9ZMA7M.jpg" group-title="FILMES YOUTUBE",INSTINTO RADICAL
-plugin://plugin.video.youtube/play/?video_id=dwPyZ8Za27g
-
-#EXTINF:-1 tvg-id="" tvg-name="ROGUE, O ASSASSINO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uD82pHlfi7qhNh1DFCTueMeXifP.jpg" group-title="FILMES YOUTUBE",ROGUE, O ASSASSINO
-plugin://plugin.video.youtube/play/?video_id=j9gn6rQTPy8
-
-#EXTINF:-1 tvg-id="" tvg-name="AÇÃO VIOLENTA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/b75QhSCIim35ZymwHUwV38onaCc.jpg" group-title="FILMES YOUTUBE",AÇÃO VIOLENTA
-plugin://plugin.video.youtube/play/?video_id=BdBUzQyVtg8
-
-#EXTINF:-1 tvg-id="" tvg-name="CHAOS" tvg-logo="https://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/36/22/48/18470652.jpg" group-title="FILMES YOUTUBE",CHAOS
-plugin://plugin.video.youtube/play/?video_id=M7kdi5wmAaA
-
-#EXTINF:-1 tvg-id="" tvg-name="O ÚLTIMO DESAFIO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/brDYycnYgG6hxsM3Ysyqsg9ANyx.jpg" group-title="FILMES YOUTUBE",O ÚLTIMO DESAFIO
-plugin://plugin.video.youtube/play/?video_id=WURnWQXshfk
-
-#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMÉRICA: GUERRA CIVIL (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg" group-title="FILMES YOUTUBE",CAPITÃO AMÉRICA: GUERRA CIVIL (2016)
-plugin://plugin.video.youtube/play/?video_id=rm91Nj2BP0E
-
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: DE VOLTA AO LAR (2017)" tvg-logo="https://image.tmdb.org/t/p/w780/jBcZuqugLRxEvazMPvxKiQlfWlo.jpg" group-title="FILMES YOUTUBE",HOMEM ARANHA: DE VOLTA AO LAR (2017)
-plugin://plugin.video.youtube/play/?video_id=TIvYW1g1sWI
-
-#EXTINF:-1 tvg-id="" tvg-name="VINGADORES: GUERRA INFINITA (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg" group-title="FILMES YOUTUBE",VINGADORES: GUERRA INFINITA (2018)
-plugin://plugin.video.youtube/play/?video_id=LYknRvCvnmw
-
-#EXTINF:-1 tvg-id="" tvg-name="VINGADORES: ULTIMATO (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jvlqGsxeMKscskuUZgKk0Kuv99.jpg" group-title="FILMES YOUTUBE",VINGADORES: ULTIMATO (2019)
-plugin://plugin.video.youtube/play/?video_id=f1zilyjIPMU
-
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA: SEM VOLTA PARA CASA (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg" group-title="FILMES YOUTUBE",HOMEM ARANHA: SEM VOLTA PARA CASA (2022)
-plugin://plugin.video.youtube/play/?video_id=0PCFJNcT1iA
-
-
-##########################
-# CÂMERAS AO VIVO YOUTUBE
-##########################
-
-
-#EXTINF:-1 tvg-id="" tvg-name="COPACABANA POSTO 6 - RIO DE JANEIRO" tvg-logo="https://www.guiaviagensbrasil.com/imagens/lindas-pranchas-praia-copacabana-rj.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",COPACABANA POSTO 6 - RIO DE JANEIRO
-plugin://plugin.video.youtube/play/?video_id=65lUphjTAro
-
-#EXTINF:-1 tvg-id="" tvg-name="PRAIA DO FORTE - CABO FRIO - RJ" tvg-logo="https://praia.info/wp-content/uploads/2025/09/praia-do-forte-.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",PRAIA DO FORTE - CABO FRIO - RJ
-plugin://plugin.video.youtube/play/?video_id=l8o5Q55p_pg
-
-#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO INTERNACIONAL DO GALEÃO - RIO DE JANEIRO" tvg-logo="https://portalclubedeengenharia.org.br/wp-content/uploads/2023/07/revitalizacao-do-galeao-inicia-fase-de-decolagem-revitalizacao-do-galeao-inicia-fase-de-decolagem-1.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO INTERNACIONAL DO GALEÃO - RIO DE JANEIRO
-plugin://plugin.video.youtube/play/?video_id=OKZcGuEmaHk
-
-#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO SANTOS DUMONT - RIO DE JANEIRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO0UV475VpgQaj8y5mVJoBoQnFDgHkI0BVLW-v13yJD84kWXwvZQfVbnM&s=10" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO SANTOS DUMONT - RIO DE JANEIRO
-plugin://plugin.video.youtube/play/?video_id=Zx4Yl7rLkZ0
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO CONGONHAS - SÃO PAULO" tvg-logo="https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/10/20/aeroporto-1ibhjhzw5xvms.PNG" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO CONGONHAS - SÃO PAULO
-plugin://plugin.video.youtube/play/?video_id=GVs9xT0Qe5E
-
-#EXTINF:-1 tvg-id="" tvg-name="AEROPORTO INTERNACIONAL DE GUARULHOS - SÃO PAULO" tvg-logo="https://www.fmetropolitana.com.br/wp-content/uploads/2022/05/Aeroporto-Aviao-1-scaled.jpg" group-title="CÂMERAS AO VIVO YOUTUBE",AEROPORTO INTERNACIONAL DE GUARULHOS - SÃO PAULO
-plugin://plugin.video.youtube/play/?video_id=BqeKcsdS1ug
 
 
 ##########################
