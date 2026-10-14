@@ -19,7 +19,8 @@ https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6k
 http://168.205.87.198:8555/live/1347/123456/282.m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
-https://abre.ai/tvintegracaojf
+
+https://live-02.edge-oi-hga-mg.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS1vaS1oZ2EtbWcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkyMDIwMTE2LCJpYXQiOjE3OTE5OTg1MTYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTdlNDQ5NjUtNzM5Zi00OGY5LTg4MzgtZTg2MmI5ZjIyMWZiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1qZi9wbGF5bGlzdC5tM3U4In0.hFOPus1AwHzAMx3FW2IQOZJ2z4shDefg-d5LP_oAvDrDlXj-Xke6rjBWu0qlb9sej0im0-u3HYxJ-wssPe2cBQgmO6WzmU_ECZAnUfsxazZNq7mpMgtajVOXyGimr7Ps6Tv4J0fWintivRx_lNUw_dRVskpE5-Dte2nDkNBp1HhmdZKBJXxC2O9mNGXrC635D0Vde2lW8DFwKS3t-QJZzSQWe3zw_G8Es2foLnhmfHVMiIMUx1PT4dW_zDNkeQbgK_lmqhudPr7ZDGTr6lcf_Yl4QfJCD2Lo2lej_OQfk5aKnbzN97UaNyUYmE8kCUNWE3h1oJyXUPLvpx4YmRKrkg/live/f(i=2)/globo-jf/playlist.m3u8?originpath=/linear/hls/pa/event/TKkAJfPcRGOaiqQfAD0wPg/stream/76dded7f-2611-42f9-a332-82743dd993d7:SCL2/variant/a799ef840a9309400701e57d0696bdcb/bandwidth/2751000.m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
 http://149.102.252.201:80/171350/B89tAq/72067.ts
