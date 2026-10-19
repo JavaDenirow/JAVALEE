@@ -446,6 +446,9 @@ https://video01.brascast.com/tv411747/tv411747/playlist.m3u8
 #EXTINF:-1 tvg-id="tmz.br" tvg-name="TMZ HD" tvg-logo="https://i.postimg.cc/vBN3jTmS/TMZ.png" group-title="FILMES E SÉRIES 24H",TMZ HD
 https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="moviesphere.br" tvg-name="MOVIE SPHERE HD" tvg-logo="https://i.postimg.cc/MHb281jx/MOVIE-SPHERE.png" group-title="FILMES E SÉRIES 24H",MOVIE SPHERE HD
+https://stream.ads.ottera.tv/cl/261019dbb8vg1ar3as73cvj79g/1920x1080_6046040_3_f.m3u8
+
 #EXTINF:-1 tvg-id="seriesclassicas.br" tvg-name="SÉRIES CLÁSSICAS HD" tvg-logo="https://i.postimg.cc/7L1FkfPr/SERIES-CLASSICAS.png" group-title="FILMES E SÉRIES 24H",SÉRIES CLÁSSICAS HD
 http://168.205.87.198:8555/live/1347/123456/307.m3u8
 
