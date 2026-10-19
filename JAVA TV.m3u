@@ -437,6 +437,9 @@ http://168.205.87.198:8555/live/1347/123456/326.m3u8
 #EXTINF:-1 tvg-id="playpocaseries.br" tvg-name="PLAYPOCA SÉRIES HD" tvg-logo="https://i.postimg.cc/R0Ss7dGm/PLAYPOCA-SERIES.png" group-title="FILMES E SÉRIES 24H",PLAYPOCA SÉRIES HD
 http://168.205.87.198:8555/live/1347/123456/327.m3u8
 
+#EXTINF:-1 tvg-id="sbc.br" tvg-name="SBC PIPOCA HD" tvg-logo="https://i.postimg.cc/8cfTv73w/SBC.png" group-title="FILMES E SÉRIES 24H",SBC PIPOCA HD
+https://video01.brascast.com/d8e52626/d8e52626/playlist.m3u8
+
 #EXTINF:-1 tvg-id="seriesclassicas.br" tvg-name="SÉRIES CLÁSSICAS HD" tvg-logo="https://i.postimg.cc/7L1FkfPr/SERIES-CLASSICAS.png" group-title="FILMES E SÉRIES 24H",SÉRIES CLÁSSICAS HD
 http://168.205.87.198:8555/live/1347/123456/307.m3u8
 
