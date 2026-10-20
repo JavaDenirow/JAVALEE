@@ -241,10 +241,10 @@ https://cdn-sp2.satlabscloud.com.br/WARNER_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6
 
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-https://aws.s13-s1001604.lat/stream/f809a47c8a40c3642b96a3df2c2e563c/sportv.m3u8
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fsportv.m3u8
 
 #EXTINF:-1 tvg-id="sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fp16.tiktokcdn.com%2Ftos-alisg-p-0037%2Fo0f1aGKDBdBasWbiuaiSlEAUASACIwB2zCAKZA~tplv-tiktokx-origin.image&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fsportv2.m3u8
 
 #EXTINF:-1 tvg-id="sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
 https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fsportv3.m3u8
