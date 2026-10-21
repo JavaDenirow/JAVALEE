@@ -73,7 +73,7 @@ https://cdn-sp2.satlabscloud.com.br/REDE_BRASIL_HD/index.m3u8?token=Mw3YKkujzIi9
 https://cdn-sp2.satlabscloud.com.br/TV_BRASIL/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="istv.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
