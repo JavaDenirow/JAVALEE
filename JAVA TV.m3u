@@ -563,6 +563,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tvsonata.br" tvg-name="TV SONATA HD" tvg-logo="https://i.postimg.cc/FK5YwcpJ/TV-SONATA.png" group-title="CORTESIA",TV SONATA HD
 https://video04.logicahost.com.br/isonata/isonata/chunklist_w65777454.m3u8
 
+#EXTINF:-1 tvg-id="redeutvbrasil.br" tvg-name="REDE UTV BRASIL HD" tvg-logo="https://i.postimg.cc/Wby3VTbV/REDE-UTV-BRASIL.png" group-title="CORTESIA",REDE UTV BRASIL HD
+http://168.205.87.198:8555/live/1347/123456/341.m3u8
+
 #EXTINF:-1 tvg-id="urbanseries.br" tvg-name="URBAN SÉRIES HD" tvg-logo="https://i.postimg.cc/d0Phgd6r/URBAN-SERIES.png" group-title="CORTESIA",URBAN SÉRIES HD
 https://cdn-sp2.satlabscloud.com.br/URBAN_SERIES/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
