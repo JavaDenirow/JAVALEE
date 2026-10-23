@@ -79,7 +79,10 @@ https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2
 https://5a1c76baf08c0.streamlock.net/tbc/tbc/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
-	https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
+
+#EXTINF:-1 tvg-id="redeminas.br" tvg-name="REDE MINAS HD" tvg-logo="https://i.postimg.cc/GhkWgS9B/REDE-MINAS.png" group-title="CANAIS ABERTOS",REDE MINAS HD
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b2771072.m3u8
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
 http://200.189.113.201/hls/tve.m3u8
@@ -528,10 +531,13 @@ http://45.185.11.126:8000/play/a075/index.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="awtv.br"tvg-name="AWTV HD" tvg-logo="https://i.postimg.cc/jjHtKhGN/AWTV.png" group-title="CORTESIA",AWTV HD
-https://awtv.nuvemplay.live/hls/stream.m3u8
+http://168.205.87.198:8555/live/1347/123456/315.m3u8
 
 #EXTINF:-1 tvg-id="canal29.br" tvg-name="CANAL 29 HD" tvg-logo="https://i.postimg.cc/rFSBZYzF/CANAL-29.png" group-title="CORTESIA",CANAL 29 HD
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal29.br" tvg-name="CINE BRASIL HD" tvg-logo="https://i.postimg.cc/NfS85hfP/CINE-BRASIL.png" group-title="CORTESIA",CINE BRASIL HD
+http://168.205.87.198:8555/live/1347/123456/331.m3u8
 
 #EXTINF:-1 tvg-id="gallotv.br"tvg-name="GALLO TV HD" tvg-logo="https://i.postimg.cc/02pTXHrD/TV-GALLO.png" group-title="CORTESIA",GALLO TV HD
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
