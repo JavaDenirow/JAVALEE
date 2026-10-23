@@ -15,10 +15,10 @@ https://saimo-tv-f2w.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://168.205.87.198:8555/live/1347/123456/282.m3u8
 
-#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
+#EXTINF:-1 tvg-id="TVIntegraCAoJuizdeFora" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
 https://live-cm-ah-25-10.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjUtMTAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkyODAwODIyLCJpYXQiOjE3OTI3NzkyMjIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nMWludGVncmFtZ2pkZi9wbGF5bGlzdC5tM3U4In0.Sfi7PdX9LrRwUl8gDTV9R8SXsXA1NLwchcumAy-lmw1rYoOaeSGZ_Mfm3ztnNi8Q0VCQylznUqYIxUSTVOTil1NGILxh_g4Z1pBD6XfRhjQxuIQKIdjYeZhtBmat1b8mUwqCWWBFNdS_DCP_nj1RDiweXQk0C402Gy21IOsRWVW4GypbynX1qrI1ktWEBq1vB4Rw8z3WHGEK9x4aM2WJJXvQgyltmugp_wRKDcaz-asl3B5Xiua6pU4JhmImDLu-qKrf02JMjLBvAw_JY4B6RAqtVQ3Uq_zzbzYcqY-tHyGx4QkTQ4H5rYfkW9KPD5lyOHjgBUoW0UFtDjcgu5iFSw/live/f(i=2)/g1integramgjdf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="globomg.br" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
+#EXTINF:-1 tvg-id="TVIntegraCAoJuizdeFora" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/1169040.ts
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
@@ -45,7 +45,7 @@ https://saimo-tv-f2w.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886
 #EXTINF:-1 tvg-id="record.mg.br" tvg-name="RECORD MG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="CANAIS ABERTOS",RECORD MG HD
 http://168.205.87.198:8555/live/1347/123456/285.m3u8
 
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="TV ALTEROSA HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA HD
+#EXTINF:-1 tvg-id="TVAlterosaZonadaMata" tvg-name="TV ALTEROSA HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA HD
 http://168.205.87.198:8555/live/1347/123456/291.m3u8
 
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
