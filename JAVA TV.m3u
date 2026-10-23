@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml"
+#EXTM3U x-tvg-url="http://up.kiwi/epg/351921603109/34939156"
 
 
 ##########################
@@ -10,7 +10,7 @@
 https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fgloborj.m3u8
 
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://saimo-tv-f2w.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fglobosp.m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://168.205.87.198:8555/live/1347/123456/282.m3u8
@@ -52,10 +52,10 @@ http://168.205.87.198:8555/live/1347/123456/291.m3u8
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD 2" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD 2
-https://cdn-sp2.satlabscloud.com.br/SBT_RIO_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://saimo-tv-f2w.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fsbtrj.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-https://cdn-sp2.satlabscloud.com.br/SBT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://aovivo.maissbt.com/channel_720.m3u8
 
 #EXTINF:-1 tvg-id="redetvrj.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
