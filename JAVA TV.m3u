@@ -7,10 +7,10 @@
 
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/ed2db35b67b0d1b134795406bbbe0ea2/globorjhd.m3u8
+https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/ed2db35b67b0d1b134795406bbbe0ea2/globo_rio_uhd.m3u8
 
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/9d72f23ca18446b0eb54489bdcb83d29/globohd.m3u8
+https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/9d72f23ca18446b0eb54489bdcb83d29/globo_sp_uhd.m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://168.205.87.198:8555/live/1347/123456/282.m3u8
@@ -19,7 +19,7 @@ http://168.205.87.198:8555/live/1347/123456/282.m3u8
 https://live-cm-ah-18-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTgtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzMDYyMTcyLCJpYXQiOjE3OTMwNDA1NzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nMWludGVncmFtZ2pkZi9wbGF5bGlzdC5tM3U4In0.oBzxLv6uf-UDm4ygXjKuEgp_pQp_4hRcE7k6bIfOkG668GDKwx9_i08Xv2MGsBjtLld_isti5jXKoTG9jgq9WAXRwi4d7Ooxv2VhFqPk9iTdVFZSjwSEGfhlV-lriDA0-4T3ZTrMY_6-_o2DQdGVFP_M1TxQtJpqzLYJEyRLqkLtg7y3px8oIO8_EI2Lhj2CogELbMaIhEf69WX1TQujgTU8_rVctrMiiLleS_FAED8L1ilnXO-lzgwr8EoIJKm2iqbLBAVUD0rBEY_BFji2SzGzID8i_Jztng1XdPhnumCYWkjuBMbL2IDfXrxaI48gI2_JPDIuOKu36Q_uvteXyw/live/f(i=2)/g1integramgjdf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVIntegraCAoJuizdeFora" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
-http://governosptx.org:80/3llohwk4g9/kwf099q30o/1169040.ts
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/1169040.m3u8
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
@@ -52,7 +52,7 @@ http://168.205.87.198:8555/live/1347/123456/291.m3u8
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD 2" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD 2
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/1a91e73b10e408a1dbcb94a1e0f85c78/sbtrjhd.m3u8
+https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/1a91e73b10e408a1dbcb94a1e0f85c78/sbt_rio_uhd.m3u8
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 https://aovivo.maissbt.com/channel_720.m3u8
@@ -154,7 +154,7 @@ http://45.185.11.126:8000/play/a083/index.m3u8
 http://45.185.11.126:8000/play/a057/index.m3u8
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002372.m3u8
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
 http://45.185.11.126:8000/play/a08b/index.m3u8
@@ -163,7 +163,7 @@ http://45.185.11.126:8000/play/a08b/index.m3u8
 http://45.185.11.126:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/1a2df0c99de08a512e4c29ef7cd0fa52/tcmhd.m3u8
+https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/1a2df0c99de08a512e4c29ef7cd0fa52/tcm_hd.m3u8
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://45.185.11.126:8000/play/a08e/index.m3u8
@@ -280,13 +280,13 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2F6e304f19a9b875ae903399bab6fbd661%2Foff_uhd.m3u8
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fsportynetplus1.m3u8
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2Ffca2dde0562b977ba1cf9059c32aa408%2Fsportynet_uhd.m3u8
 
 #EXTINF:-1 tvg-id="sportynet2.br" tvg-name="SPORTY NET 2 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 2 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fsportynetplus2.m3u8
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2F3465e19856c73155e131f88a80f50eb8%2Fsportynet2_uhd.m3u8
 
 #EXTINF:-1 tvg-id="sportynet3.br" tvg-name="SPORTY NET 3 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 3 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fsportynetplus3.m3u8
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2F611cf59ffd90c43038baed05f594f362%2Fsportynet3_uhd.m3u8
 
 #EXTINF:-1 tvg-id="sportynet4.br" tvg-name="SPORTY NET 4 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 4 HD
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/99261.ts
@@ -295,7 +295,7 @@ http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/99261.ts
 http://168.205.87.198:8555/live/1347/123456/309.m3u8
 
 #EXTINF:-1 tvg-id="redbulltv.br" tvg-name="REDBULL TV HD" tvg-logo="https://i.postimg.cc/4NYGnGDk/REDBULL%20TV.png" group-title="ESPORTES",REDBULL TV HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/46.m3u8
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/78fcb7d7-cb51-47ac-a135-49dfa4382c6d/1.m3u8
 
 #EXTINF:-1 tvg-id="fueltv.br" tvg-name="FUEL TV HD" tvg-logo="https://i.postimg.cc/zvBrCY3T/FUEL%20TV.png" group-title="ESPORTES",FUEL TV HD
 https://cdn-sp2.satlabscloud.com.br/FUEL_TV/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -539,7 +539,7 @@ http://168.205.87.198:8555/live/1347/123456/315.m3u8
 #EXTINF:-1 tvg-id="canal29.br" tvg-name="CANAL 29 HD" tvg-logo="https://i.postimg.cc/rFSBZYzF/CANAL-29.png" group-title="CORTESIA",CANAL 29 HD
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 tvg-id="canal29.br" tvg-name="CINE BRASIL HD" tvg-logo="https://i.postimg.cc/NfS85hfP/CINE-BRASIL.png" group-title="CORTESIA",CINE BRASIL HD
+#EXTINF:-1 tvg-id="cinebrasil.br" tvg-name="CINE BRASIL HD" tvg-logo="https://i.postimg.cc/NfS85hfP/CINE-BRASIL.png" group-title="CORTESIA",CINE BRASIL HD
 http://168.205.87.198:8555/live/1347/123456/331.m3u8
 
 #EXTINF:-1 tvg-id="gallotv.br"tvg-name="GALLO TV HD" tvg-logo="https://i.postimg.cc/02pTXHrD/TV-GALLO.png" group-title="CORTESIA",GALLO TV HD
@@ -553,9 +553,6 @@ https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="loading.br" tvg-name="LOADING TV HD" tvg-logo="https://i.postimg.cc/gkvCtBr0/LOADING.png" group-title="CORTESIA",LOADING TV HD
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tastemade.br" tvg-name="TASTEMADE HD" tvg-logo="https://i.postimg.cc/wjJvMC5g/TASTEMADE-TV.png" group-title="CORTESIA",TASTEMADE HD
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/1002313.m3u8
 
 #EXTINF:-1 tvg-id="classicosdocinema.br" tvg-name="TV CLÁSSICOS DO CINEMA HD" tvg-logo="https://i.postimg.cc/YCpgWNRs/TV-CLASSICOS-DO-CINEMA.png" group-title="CORTESIA",CLÁSSICOS DO CINEMA HD
 https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
@@ -621,13 +618,13 @@ http://168.205.87.198:8555/live/1347/123456/324.m3u8
 http://168.205.87.198:8555/live/1347/123456/325.m3u8
 
 #EXTINF:-1 tvg-id="tracebrasil.br" tvg-name="TRACE BRASIL HD" tvg-logo="https://i.postimg.cc/Sx8p7rQD/TRACE%20BRASIL.png" group-title="ENTRETENIMENTO",TRACE BRASIL HD
-https://cdn-sp2.satlabscloud.com.br/TRACE_BRAZUCA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/ts-us-e2-n1/playlist/amg01131-tracetv-tracebrazuca-xiaomi/cb553e1e7b6c64889ed43e62d4ef42a3dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27757c39e0a957f378bbdbe306f2c180680585ee2be5da5edf55c44d93da9b01f4b887b44ef8b5fc8d54aba9d850ac8169b7ff314ccc4a58ed243808e9901c26d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a57f160ca07ecb8ed1a323a2424b514fb1ba66285867aaaa74487ea948187fe273abe67b491e8d24c4c98e318777d040cb22d06378af4c718858c40d8e663cd8360133ccf8656dbb386c3bee0c31ac765fdceface69190e7b5256cf1d838a7dd72cea7daae51a35131817fad40692c69175185662aacc1ed81a10bc9bac86dc053483203852fa6fd45e4a3d9962222cab7db7ca7c5f88200b973c72ae0b62ce11aaca599fcdecec083fbac9d402ae3f9dd224e6b653f9236c2341d9940b504a4b71d594162e386bcc48e19387a140000ee8f8daed82341c022a1c46039be88524cb6ea1e4e1897735a439c53ee7ab32935f9f6d1fbc2d3785/40/1920x1080_4143876/index.m3u8
 
 #EXTINF:-1 tvg-id="travelboxbrasil.br" tvg-name="TRAVEL BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/tT3HVSmw/TRAVEL-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",TRAVEL BOX BRAZIL HD
-https://cdn-sp2.satlabscloud.com.br/TRAVEL_BOX_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 
 #EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.postimg.cc/L8mXNfp2/MUSIC-BOX-BRAZIL.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL HD
-https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://168.205.87.198:8555/live/1347/123456/344.m3u8
 
 
 ##########################
@@ -636,22 +633,22 @@ https://cdn-sp2.satlabscloud.com.br/MUSIC_BOX_HD/index.m3u8?token=Mw3YKkujzIi9hY
 
 
 #EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.postimg.cc/rF7krbTP/TOONCAST.png" group-title="INFANTIL E DESENHOS 24H",TOONCAST HD
-https://cdn-sp2.satlabscloud.com.br/TOONCAST/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fp16.tiktokcdn.com%2Ftos-alisg-p-0037%2FokQVCtSW4ffnfLkgvwNGeAASgqMeABMA2gA8Iz~tplv-tiktokx-origin.image&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
 
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="RETRÔ CARTOON" tvg-logo="https://i.postimg.cc/FsjMCn1d/RETRO-CARTOON.png" group-title="INFANTIL E DESENHOS 24H",RETRÔ CARTOON
+#EXTINF:-1 tvg-id="retrocartoon.br" tvg-name="RETRÔ CARTOON" tvg-logo="https://i.postimg.cc/FsjMCn1d/RETRO-CARTOON.png" group-title="INFANTIL E DESENHOS 24H",RETRÔ CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w2027700775.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.postimg.cc/wv9HBmpS/CARTOON-NETWORK.png" group-title="INFANTIL E DESENHOS 24H",CARTOON NETWORK HD
-https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/13e7136f7a738fca5e5276642ab5bb76/cartoon_network_uhd.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.postimg.cc/KzmFYM26/CARTOONITO.png" group-title="INFANTIL E DESENHOS 24H",CARTOONITO HD
-https://cdn-sp2.satlabscloud.com.br/BOOMERANG_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fde0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat%2Fstream%2F855d7a3e388dbb9c840df2e36186616f%2Fcartoonito_uhd.m3u8
 
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.postimg.cc/JnK8Hz7h/DISCOVERY-KIDS.png" group-title="INFANTIL E DESENHOS 24H",DISCOVERY KIDS HD
-https://cdn-sp2.satlabscloud.com.br/DISCOVERY_KIDS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdadinhodetapioca.fun%2Fplay%2Fdiscoverykids.html&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
 
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/XqJbf6Xk/GLOOB.png" group-title="INFANTIL E DESENHOS 24H",GLOOB HD
-http://dns.fontedecanais.com.br:80/playercodestv/947942/1835
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2F5dac114726f038e6885ebae720ab9686%2Fgloob_uhd.m3u8
 
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.postimg.cc/ZnRS8z0c/GLOOBINHO.png" group-title="INFANTIL E DESENHOS 24H",GLOOBINHO HD
 http://45.185.11.126:8000/play/a071/index.m3u8
@@ -672,7 +669,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 http://45.185.11.126:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.postimg.cc/yNmsBTwm/BAND-NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD
-https://cdn-sp2.satlabscloud.com.br/BAND_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdadinhodetapioca.fun%2Fplay%2Fbandnews.html&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
 
 #EXTINF:-1 tvg-id="sbtnews.br" tvg-name="SBT NEWS HD" tvg-logo="https://i.postimg.cc/L6JShScR/SBT%20NEWS.png" group-title="NOTÍCIAS",SBT NEWS HD
 https://sbtnews.maissbt.com/3.m3u8
@@ -681,13 +678,13 @@ https://sbtnews.maissbt.com/3.m3u8
 https://cdn-sp2.satlabscloud.com.br/CNBC_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.postimg.cc/gkxprpf1/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD
-https://cdn-sp2.satlabscloud.com.br/RECORD_NEWS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 
 #EXTINF:-1 tvg-id="jpnews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.postimg.cc/1XjZM7Nb/JP%20NEWS.png" group-title="NOTÍCIAS",JOVEM PAN NEWS HD
-https://cdn-sp2.satlabscloud.com.br/JP_NEWS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+http://168.205.87.198:8555/live/1347/123456/308.m3u8
 
 #EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.postimg.cc/PxKHv5Xg/CNN-BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL HD
-https://cdn-sp2.satlabscloud.com.br/CNNB_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cnn.espanol" tvg-name="CNN ESPANHOL" tvg-logo="https://i.postimg.cc/1tXhj1J1/CNN-ESPANHOL.png" group-title="NOTÍCIAS",CNN ESPANHOL
 http://45.167.1.138:8000/play/a01i
