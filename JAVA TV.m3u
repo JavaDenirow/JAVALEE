@@ -307,10 +307,10 @@ https://cdn-sp2.satlabscloud.com.br/FUEL_TV/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fpremiere.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/aa94a244616b924aa0c680affeedbab6/premiere_clubes_uhd.m3u8
 
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fpremiere2.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/6591d929ce93980de1fe19e723abb3f8/premiere_2_hd.m3u8
 
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
 https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fpremiere3.m3u8
