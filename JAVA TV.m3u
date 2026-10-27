@@ -238,16 +238,16 @@ http://45.185.11.126:8000/play/a0am/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/65b761ca1e8106dff0e9ba4e9900e059/sportv_uhd.m3u8
+https://de0d6aa7bdb37f9e0728cdc87ce80833.s25-cloudfront-net.lat/stream/13e4ee94b5aba2ab7309b44d43b8ad72/sportvhd.m3u8
 
 #EXTINF:-1 tvg-id="sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/23ae854b151edd4aa4db60bf885a2f9e/sportv2_uhd.m3u8
+https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/23ae854b151edd4aa4db60bf885a2f9e/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/808372ce0338c47307119133401beebd/sportv3_uhd.m3u8
+https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/808372ce0338c47307119133401beebd/sportv3.m3u8
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/ec08ea1c348775198ca7f591f909506d/espn_uhd.m3u8
+https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/ec08ea1c348775198ca7f591f909506d/espn.m3u8
 
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/gJ4pL2ch/ESPN%202.png" group-title="ESPORTES",ESPN 2 HD
 https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2F79c6f0e71d5702edc0b15514c1bd9c20%2Fespn2_uhd.m3u8
