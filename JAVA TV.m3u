@@ -693,13 +693,13 @@ http://45.167.1.138:8000/play/a01i
 http://45.185.11.126:8000/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 MONDE" tvg-logo="https://i.postimg.cc/DZ60qh0p/TV5-MONDE.png" group-title="NOTÍCIAS",TV5 MONDE
-http://up.kiwi/351921603109/34939156/1260743
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/TV5/default/TV5-audio_210600_fre=210400.m3u8
 
 #EXTINF:-1 tvg-id="rai.it" tvg-name="RAI ITÁLIA" tvg-logo="https://i.postimg.cc/DZ60qh05/RAI-ITALIA.png" group-title="NOTÍCIAS",RAI ITÁLIA
-https://cdn-sp2.satlabscloud.com.br/RAI_ITALIA/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live_408.m3u8
 
 #EXTINF:-1 tvg-id="dw" tvg-name="DW ALEMANHA" tvg-logo="https://i.postimg.cc/SsdRW4RD/TV-DW.png" group-title="NOTÍCIAS",DW ALEMANHA
-https://cdn-sp2.satlabscloud.com.br/DW/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 
 ##########################
