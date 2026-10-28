@@ -235,13 +235,13 @@ http://138.204.86.4:8080/WARNER_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-/
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdadinhodetapioca.fun%2Fplay%2Fsportv.html&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
 
 #EXTINF:-1 tvg-id="sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/23ae854b151edd4aa4db60bf885a2f9e/sportv2.m3u8
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdadinhodetapioca.fun%2Fplay%2Fsportv2.html&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
 
 #EXTINF:-1 tvg-id="sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/808372ce0338c47307119133401beebd/sportv3.m3u8
+https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdadinhodetapioca.fun%2Fplay%2Fsportv3.html&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
 http://138.204.86.4:8080/ESPN_HD/index.m3u8
