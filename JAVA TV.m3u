@@ -705,10 +705,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 #EXTINF:-1 tvg-id="playboy.tv" tvg-name="PLAYBOY TV HD 2" tvg-logo="https://i.postimg.cc/rpM12f4M/PLAYBOY-TV.png" group-title="ADULTOS",PLAYBOY TV HD 2
-http://45.185.11.126:8000/play/a09n/index.m3u8
+http://167.250.223.26:9998/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXY HOT HD" tvg-logo="https://i.postimg.cc/hPXnhnkG/SEXY-HOT.png" group-title="ADULTOS",SEXY HOT HD
-http://45.185.11.126:8000/play/a09o/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6282/index.m3u8
 
 #EXTINF:-1 tvg-id="venus.br" tvg-name="VENUS HD" tvg-logo="https://images.seeklogo.com/logo-png/46/1/canal-venus-logo-png_seeklogo-463134.png" group-title="ADULTOS",VENUS HD
 http://158.172.217.18:8000/play/a0ni/index.m3u8
