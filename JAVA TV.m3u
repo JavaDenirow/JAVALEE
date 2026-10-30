@@ -10,7 +10,7 @@
 https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/9b767d4291d4f4d3dcfa927e3be5924c/error.txt
 
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/9d72f23ca18446b0eb54489bdcb83d29/globo_sp_uhd.m3u8
+https://live-cm-ah-06-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMDYtMDcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzNDE2MTExLCJpYXQiOjE3OTMzOTQ1MTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzNlNzEyNTUtMzMzZS00YzhjLTliNDItOWZmNzYwYmE3ZDZjIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.hP5gAQJ1oNgDWIq3OUqgoivIhO9IWJLpdN5c5Q_CE3CMIwsFdxVozOUkLI55eSU1jKke5UmAZw-lFyOj4DTVMwvgIWobRUjr-cjDeqkremv86DiImowUWskRKb4HMFzNDan6GcbTFuInE3wlCESxRpGSc8EM2FpmWcwoCXfsWo6t9Md7aK4JcLfzc1w9BSuu-cj5dSid9rQYuDz5weIR-5ZTJL3_WlyHfalTocujz_D_7usagGReIdeu-4kU0w2OY0bNyI7epnaRaxZDTucdYEkXSuCVqxC2scOeisIT9fPsGEkBhfzUTU4szlKyt6DNj_CbvIfc-LbB9UPduVz9Dg/live/f(i=2)/globo-rj/globo-rj-audio_1=128000-video=3632000.m3u8
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://168.205.87.198:8555/live/1347/123456/282.m3u8
