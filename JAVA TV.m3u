@@ -7,37 +7,37 @@
 
 
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/9b767d4291d4f4d3dcfa927e3be5924c/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/2374
 
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-https://live-cm-ah-06-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMDYtMDcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzNDE2MTExLCJpYXQiOjE3OTMzOTQ1MTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzNlNzEyNTUtMzMzZS00YzhjLTliNDItOWZmNzYwYmE3ZDZjIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.hP5gAQJ1oNgDWIq3OUqgoivIhO9IWJLpdN5c5Q_CE3CMIwsFdxVozOUkLI55eSU1jKke5UmAZw-lFyOj4DTVMwvgIWobRUjr-cjDeqkremv86DiImowUWskRKb4HMFzNDan6GcbTFuInE3wlCESxRpGSc8EM2FpmWcwoCXfsWo6t9Md7aK4JcLfzc1w9BSuu-cj5dSid9rQYuDz5weIR-5ZTJL3_WlyHfalTocujz_D_7usagGReIdeu-4kU0w2OY0bNyI7epnaRaxZDTucdYEkXSuCVqxC2scOeisIT9fPsGEkBhfzUTU4szlKyt6DNj_CbvIfc-LbB9UPduVz9Dg/live/f(i=2)/globo-rj/globo-rj-audio_1=128000-video=3632000.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/289883
 
 #EXTINF:-1 tvg-id="globomg.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://168.205.87.198:8555/live/1347/123456/282.m3u8
 
 #EXTINF:-1 tvg-id="TVIntegracaoJuizdeFora" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
-https://live-cm-ah-25-10.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjUtMTAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkzNDEyNjYwLCJpYXQiOjE3OTMzOTEwNjAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nMWludGVncmFtZ2pkZi9wbGF5bGlzdC5tM3U4In0.YPoypgzLT8DGcsJTINLwGInZB2TzERdZs8gdjEgmTn9TRqSimv4dktM4H2s81XKGere-2uCZQ_3um_pXIYf1NIOqvSPLadMHJl5owplacpxMPpoAT69CzYvOkVXouMGOuVO1ZyuXsfXwi-klD11b4_N82Dh_vEkui9Kvv2qvKCcWIP0trhp0Mc1YZs5JzjtoX8fHVOArQCB9sFt7Mf73uGuq093XwChRXUL87YYo0-Vd1EUPc8lsJWkSzTvJpRrZD_psYqgl1oVxcm5tq7Q6-2rZG_GYOpeA4urhMoMyH54r5Dzovz92kT5BMHMBGxIMuCuj8TJcQRsD4IMKQu_uUg/live/f(i=2)/g1integramgjdf/playlist.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/234853
 
 #EXTINF:-1 tvg-id="TVIntegracaoJuizdeFora" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
-http://governosptx.org:80/3llohwk4g9/kwf099q30o/1169040.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/234852
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/255474
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/284b43f93b4499845e985274bb3f0647/bandrjhd.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/255475
 
 #EXTINF:-1 tvg-id="Band.minas.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
 http://168.205.87.198:8555/live/1347/123456/276.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/d79edfa24c234be4dc1636515045ab7a/bandsphd.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/255465
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/528662
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/099896b7ceb6440c0e64a7961b799253/recordrjhd.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/528661
 
 #EXTINF:-1 tvg-id="record.sp.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/f42ad1a3fbb5ad6e35ccb2ed1e8fd67f/recordhd.m3u8
@@ -49,13 +49,10 @@ http://168.205.87.198:8555/live/1347/123456/285.m3u8
 http://168.205.87.198:8555/live/1347/123456/291.m3u8
 
 #EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/2.m3u8
-
-#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD 2" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD 2
-https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/1a91e73b10e408a1dbcb94a1e0f85c78/sbt_rio_uhd.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/244174
 
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-https://aovivo.maissbt.com/channel_720.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/244167
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://168.205.87.198:8555/live/1347/123456/289.m3u8
@@ -115,13 +112,13 @@ http://168.205.87.198:8555/live/1347/123456/295.m3u8
 http://45.176.228.245:80/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.postimg.cc/85TDC6SX/CANAL-BRASIL.png" group-title="FILMES",CANAL BRASIL HD
-http://45.185.11.126:8000/play/a06x/index.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/145
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
 http://138.204.86.4:8080/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
-http://dns.fontedecanais.com.br:80/playercodestv/947942/1897
+http://dns.explouddev.com:80/632270679/F823j7133R/2611
 
 #EXTINF:-1 tvg-id="film&arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
 http://dns.fontedecanais.com.br:80/playercodestv/947942/573
@@ -151,7 +148,7 @@ http://138.204.86.4:8080/HBO_SIGNATURE/index.m3u8
 http://138.204.86.4:8080/HBO_EXTREME_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.postimg.cc/5yRMpKFZ/MEGAPIX.png" group-title="FILMES",MEGAPIX HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/1c57b04ab53fb8ae8d28a293676cc706/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/691
 
 #EXTINF:-1 tvg-id="mytimemovienetworkbrasil.br" tvg-name="MYTIME MOVIE NETWORK BRASIL HD" tvg-logo="https://i.postimg.cc/Xqz0x1Cn/MY%20TIME%20MOVIE%20NETWORK.png" group-title="FILMES",MYTIME NETWORK BRASIL HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
@@ -160,28 +157,28 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 http://170.83.16.50/SPACE/index.m3u8
 
 #EXTINF:-1 tvg-id="studiouniversal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/f77e6b490b90dbc49d6d709a2ceb7259/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/711
 
 #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 http://170.83.16.50/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/74ede75a4dc47add907b7017d8972487/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/633
 
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
-https://8cc92f775b4063fd8bfd2577376b0698.s25-cloudfront-net.lat/stream/19169227b38228adaf6515f4075c6255/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/615
 
 #EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdadinhodetapioca.fun%2Fplay%2Ftelecinepipoca.html&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
+http://dns.explouddev.com:80/632270679/F823j7133R/628
 
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/2adbf55d11c726481e87114c55026907/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/21281
 
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdadinhodetapioca.fun%2Fplay%2Ftelecinetouch.html&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
+http://dns.explouddev.com:80/632270679/F823j7133R/587
 
 #EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fp16.tiktokcdn.com%2Ftos-alisg-p-0037%2FoQOQwgfVAAlMGy8zWLesPrGJfAiqwIJNLAhfAI~tplv-tiktokx-origin.image&referer=https%3A%2F%2Fdadinhodetapioca.fun%2F
+http://dns.explouddev.com:80/632270679/F823j7133R/618
 
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
 http://170.83.16.50/TNT/index.m3u8
@@ -202,13 +199,13 @@ http://170.83.16.50/AXN/index.m3u8
 http://170.83.16.50/TNT_SERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/56a4ebf4468d142130f1387652d1ee09/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/284596
 
 #EXTINF:-1 tvg-id="universal.premiere.br" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.postimg.cc/y8kkW26K/UNIVERSAL-PREMIERE.png" group-title="SÉRIES",UNIVERSAL PREMIERE HD
-http://45.185.11.126:8000/play/a08m/index.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/552459
 
 #EXTINF:-1 tvg-id="usa.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
-http://45.185.11.126:8000/play/a06k/index.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/718
 
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
 http://170.83.16.50/LIFETIME/index.m3u8
@@ -235,16 +232,13 @@ http://138.204.86.4:8080/WARNER_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fd1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz%2Fsportv%2Fseg_1793371818.ts&referer=https%3A%2F%2Fembedcanaisdetv.xyz%2F&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F126.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.postimg.cc/TYB6DSxw/SPORTV.png" group-title="ESPORTES",SPORTV HD
-https://rdcanais.org/sportv
+http://dns.explouddev.com:80/632270679/F823j7133R/52090
 
 #EXTINF:-1 tvg-id="sportv2-hd" tvg-name="SPORTV 2 HD" tvg-logo="https://i.postimg.cc/Yqv7j75G/SPORTV%202.png" group-title="ESPORTES",SPORTV 2 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fd1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz%2Fsportv2%2Findex.m3u8&referer=https%3A%2F%2Fembedcanaisdetv.xyz%2F&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F126.0%20Safari%2F537.36
+http://dns.explouddev.com:80/632270679/F823j7133R/118703
 
 #EXTINF:-1 tvg-id="sportv3-hd" tvg-name="SPORTV 3 HD" tvg-logo="https://i.postimg.cc/Kv1b4b6T/SPORTV%203.png" group-title="ESPORTES",SPORTV 3 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fd1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn13embed.xyz%2Fsportv3%2Findex.m3u8&referer=https%3A%2F%2Fembedcanaisdetv.xyz%2F&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F126.0%20Safari%2F537.36
+http://dns.explouddev.com:80/632270679/F823j7133R/21274
 
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/0jQsY1rz/ESPN.png" group-title="ESPORTES",ESPN HD
 http://138.204.86.4:8080/ESPN_HD/index.m3u8
@@ -259,16 +253,16 @@ http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/G2zRTm3k/ESPN%205.png" group-title="ESPORTES",ESPN 5 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2Fa788938acf695e2f9acb92cc9685738c%2Fespn5_uhd.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/563032
 
 #EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/fyLNcQkJ/ESPN%206.png" group-title="ESPORTES",ESPN 6 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2F01a0dfa550c704c770a79d7c60cb3542%2Fespn6_uhd.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/563034
 
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.postimg.cc/rmqcprkJ/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS HD
 http://170.83.16.50/BAND_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.postimg.cc/XJxWBYN0/COMBATE.png" group-title="ESPORTES",COMBATE HD
-http://45.185.11.126:8000/play/a073/index.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/238
 
 #EXTINF:-1 tvg-id="ge.br" tvg-name="GETV 4K" tvg-logo="https://i.postimg.cc/0jQsY1rY/GETV.png" group-title="ESPORTES",GETV 4K
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist720p.m3u8
@@ -277,7 +271,7 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist720p
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 
 #EXTINF:-1 tvg-id="canaloff.br" tvg-name="CANAL OFF HD" tvg-logo="https://i.postimg.cc/yd7BNZH2/CANAL-OFF.png" group-title="ESPORTES",CANAL OFF HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2F6e304f19a9b875ae903399bab6fbd661%2Foff_uhd.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/252
 
 #EXTINF:-1 tvg-id="sportynet.br" tvg-name="SPORTY NET 1 HD" tvg-logo="https://i.postimg.cc/wTnpmPzM/SPORTY%20NET.png" group-title="ESPORTES",SPORTY NET 1 HD
 https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2Fdbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat%2Fstream%2Ffca2dde0562b977ba1cf9059c32aa408%2Fsportynet_uhd.m3u8
@@ -307,28 +301,28 @@ https://cdn-sp2.satlabscloud.com.br/FUEL_TV/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 
 
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/ce5e4e48f42e4039150f158595a201d8/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/21269
 
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 2 HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/c3ebaacbb37d62611eebe19d2a39208f/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/284579
 
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 3 HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/0277e147e8e3a96ef847ee55c6785bf6/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/21267
 
 #EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 4 HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/ddcd69035b58bff19f1e1b8d17d428e7/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/21327
 
 #EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 5 HD
-https://8f246fdcdd11e03e7750ed4f8e050161.s25-cloudfront-net.lat/stream/78794afbb05a92322bf0aeb782837ffd/error.txt
+http://dns.explouddev.com:80/632270679/F823j7133R/21268
 
 #EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 6 HD
-https://saimo-tv.pages.dev/api/proxy?url=https%3A%2F%2F52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat%2F8e8e8b142192ea65%2Fpremiere6.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/21328
 
 #EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 7 HD
-http://45.185.11.126:8000/play/a05k/index.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/522
 
 #EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE 8 HD" tvg-logo="https://i.postimg.cc/zDt5JvPn/PREMIERE.png" group-title="PREMIERE",PREMIERE 8 HD
-http://45.185.11.126:8000/play/a05l/index.m3u8
+http://dns.explouddev.com:80/632270679/F823j7133R/380749
 
 
 ##########################
