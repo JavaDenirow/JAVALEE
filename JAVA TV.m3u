@@ -216,10 +216,10 @@ http://170.83.16.50/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="São.Paulo/SP..Sony.HD.³.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony.Movies.Brazil.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Sony.Movies.Brazil.HD.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
 http://170.83.16.50/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-id="sony.classicas.br" tvg-name="SONY ONE CLÁSSICAS HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE CLÁSSICAS HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Sony.Classicas.br.HD" tvg-name="SONY ONE CLÁSSICAS HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE CLÁSSICAS HD
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="sony.emocoes.br" tvg-name="SONY ONE EMOÇÕES HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE EMOÇÕES HD
