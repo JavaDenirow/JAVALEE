@@ -9,6 +9,9 @@
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168921.m3u8
 
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="TV RIO SUL RJ HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV-RIO-SUL.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1.m3u8
+
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
 http://dns.explouddev.com:80/632270679/F823j7133R/289883
 
@@ -25,7 +28,7 @@ https://live-cm-ah-25-10.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0e
 http://64.31.23.207:80/96795792/50165825/5721436.m3u8
 
 #EXTINF:-1 tvg-id="Band.Rio.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE4MjJjZjJiLTc3YzAtNDg1Yy1iZmZhLWE3OWFhNDEwMTViNCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5NDIzMjU1OCwibmJmIjoxNzk0MjMyNTU4LCJleHAiOjE3OTY4MjQ1NTgsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6IjE4MjJjZjJiLTc3YzAtNDg1Yy1iZmZhLWE3OWFhNDEwMTViNCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.RdHS6gguMNO9rdA1F5oevZdNiWxCtT4sp19afMoiCDE&uid=1822cf2b-77c0-485c-bffa-a79aa41015b4
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="Band.minas.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
 http://168.205.87.198:8555/live/1347/123456/276.m3u8
@@ -34,7 +37,7 @@ http://168.205.87.198:8555/live/1347/123456/276.m3u8
 http://dns.explouddev.com:80/632270679/F823j7133R/255465
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-http://dns.explouddev.com:80/632270679/F823j7133R/528662
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="record.rj.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
 http://dns.explouddev.com:80/632270679/F823j7133R/528661
@@ -42,7 +45,7 @@ http://dns.explouddev.com:80/632270679/F823j7133R/528661
 #EXTINF:-1 tvg-id="record.sp.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/f42ad1a3fbb5ad6e35ccb2ed1e8fd67f/recordhd.m3u8
 
-#EXTINF:-1 tvg-id="record.mg.br" tvg-name="RECORD MG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png" group-title="CANAIS ABERTOS",RECORD MG HD
+#EXTINF:-1 tvg-id="record.mg.br" tvg-name="RECORD MG HD" tvg-logo="https://i.postimg.cc/wT9QMxQS/RECORD-MG.png" group-title="CANAIS ABERTOS",RECORD MG HD
 http://168.205.87.198:8555/live/1347/123456/285.m3u8
 
 #EXTINF:-1 tvg-id="TVAlterosaZonadaMata" tvg-name="TV ALTEROSA HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA HD
