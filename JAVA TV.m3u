@@ -120,7 +120,7 @@ http://dns.explouddev.com:80/632270679/F823j7133R/145
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cinemax.HD.³.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
 http://45.185.15.154:9080/stream/24/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Curta!.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Curta!.³.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://dns.explouddev.com:80/632270679/F823j7133R/2611
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..Film&Arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
@@ -159,28 +159,28 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="São.Paulo/SP..Space.HD.³.br" tvg-name="SPACE HD" tvg-logo="https://i.postimg.cc/158S4Skg/SPACE.png" group-title="FILMES",SPACE HD
 http://45.185.15.154:9080/stream/05/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Studio.Universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Studio.Universal.³.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.postimg.cc/CL9gqt0R/STUDIO%20UNIVERSAL.png" group-title="FILMES",STUDIO UNIVERSAL HD
 http://dns.explouddev.com:80/632270679/F823j7133R/711
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..TCM.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..TCM.³.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 http://170.83.16.50/TCM/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Premium.³.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://45.185.15.154:9080/stream/28/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Action.³.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
 http://46.151.196.223:14326
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Pipoca.³.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
 http://45.185.15.154:9080/stream/30/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Fun.³.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
 http://45.185.15.154:9080/stream/63/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.³.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
 http://45.185.15.154:9080/stream/29/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Cult.³.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
 http://45.185.15.154:9080/stream/64/index.m3u8
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..TNT.HD.³.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
@@ -198,34 +198,34 @@ http://79.127.238.228:14551
 #EXTINF:-1 tvg-id="São.Paulo/SP..AXN.HD.³.br" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/jjHtKhGz/AXN.png" group-title="SÉRIES",AXN HD
 http://79.127.238.228:14563
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="SÉRIES",TNT SÉRIES HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..TNT.SÉRIES.HD.³.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://i.postimg.cc/tgQs8PkT/TNT-SERIES.png" group-title="SÉRIES",TNT SÉRIES HD
 http://45.185.15.154:9080/stream/03/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP...Universal.TV.HD.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
+#EXTINF:-1 tvg-id="São.Paulo/SP...Universal.TV.HD.³.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.postimg.cc/2SvjgV6P/UNIVERSAL-TV.png" group-title="SÉRIES",UNIVERSAL TV HD
 http://dns.explouddev.com:80/632270679/F823j7133R/284596
 
-#EXTINF:-1 tvg-id="São.Paulo/SP...Universal.Premiere.HD.br" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.postimg.cc/y8kkW26K/UNIVERSAL-PREMIERE.png" group-title="SÉRIES",UNIVERSAL PREMIERE HD
+#EXTINF:-1 tvg-id="São.Paulo/SP...Universal.Premiere.HD.³.br" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.postimg.cc/y8kkW26K/UNIVERSAL-PREMIERE.png" group-title="SÉRIES",UNIVERSAL PREMIERE HD
 http://dns.explouddev.com:80/632270679/F823j7133R/552459
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Syfy.HD.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Syfy.HD.³.br" tvg-name="USA HD" tvg-logo="https://i.postimg.cc/xd2VszcQ/USA.png" group-title="SÉRIES",USA HD
 http://dns.explouddev.com:80/632270679/F823j7133R/718
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Lifetime.HD.³.br" tvg-name="LIFETIME HD" tvg-logo="https://i.postimg.cc/7hWyXtTF/LIFE%20TIME.png" group-title="SÉRIES"",LIFETIME HD
 http://170.83.16.50/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..Sony.HD.³.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.postimg.cc/yYDKWKMx/SONY%20CHANNEL.png" group-title="SÉRIES",SONY CHANNEL HD
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Sony.Movies.Brazil.HD.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Sony.Movies.Brazil.HD.³.br" tvg-name="SONY MOVIES HD" tvg-logo="https://i.postimg.cc/wT1z3zCR/SONY-MOVIES.png" group-title="SÉRIES",SONY MOVIES HD
 http://170.83.16.50/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Sony.Classicas.br.HD" tvg-name="SONY ONE CLÁSSICAS HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE CLÁSSICAS HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Sony.Classicas.HD.³.br" tvg-name="SONY ONE CLÁSSICAS HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE CLÁSSICAS HD
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="sony.emocoes.br" tvg-name="SONY ONE EMOÇÕES HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE EMOÇÕES HD
+#EXTINF:-1 tvg-id="sony.emocoes.HD.³.br" tvg-name="SONY ONE EMOÇÕES HD" tvg-logo="https://i.postimg.cc/26zxRSgk/SONY-ONE.png" group-title="SÉRIES",SONY ONE EMOÇÕES HD
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Warner.Channel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Warner.Channel.HD.³.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.postimg.cc/W4vc9kh1/WARNER.png" group-title="SÉRIES"",WARNER CHANNEL HD
 http://79.127.238.228:14647
 
 
