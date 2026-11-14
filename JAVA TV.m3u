@@ -165,22 +165,22 @@ http://dns.explouddev.com:80/632270679/F823j7133R/711
 #EXTINF:-1 tvg-id="São.Paulo/SP..TCM.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/dtgYyXFZ/TCM.png" group-title="FILMES",TCM HD
 http://170.83.16.50/TCM/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Premium.HD.³.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.postimg.cc/c4PSnjW7/TELECINE%20PREMIUM.png" group-title="FILMES",TELECINE PREMIUM HD
 http://45.185.15.154:9080/stream/28/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Action.HD.³.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Action.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.postimg.cc/28gDZJYZ/TELECINE%20ACTION.png" group-title="FILMES",TELECINE ACTION HD
 http://46.151.196.223:14326
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Pipoca.HD.³.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.postimg.cc/YqTHWV7f/TELECINE%20PIPOCA.png" group-title="FILMES",TELECINE PIPOCA HD
 http://45.185.15.154:9080/stream/30/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Fun.HD.³.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
 http://45.185.15.154:9080/stream/63/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.HD.³.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.HD.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
 http://45.185.15.154:9080/stream/29/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Cult.HD.³.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Cult.HD.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
 http://45.185.15.154:9080/stream/64/index.m3u8
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..TNT.HD.³.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
