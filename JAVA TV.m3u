@@ -120,10 +120,10 @@ http://dns.explouddev.com:80/632270679/F823j7133R/145
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cinemax.HD.³.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
 http://45.185.15.154:9080/stream/24/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Curta!.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Curta!.HD.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://dns.explouddev.com:80/632270679/F823j7133R/2611
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Film&amp;Arts.HD.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Film&Arts.HD.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
 http://dns.fontedecanais.com.br:80/playercodestv/947942/573
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..HBO.HD.³.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
