@@ -6,7 +6,7 @@
 ##########################
 
 
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168921.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV RIO SUL RJ HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV-RIO-SUL.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
@@ -27,7 +27,7 @@ https://live-cm-ah-18-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0e
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
 http://64.31.23.207:80/96795792/50165825/5721436.m3u8
 
-#EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
+#EXTINF:-1 tvg-id="Band Rio" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
