@@ -21,7 +21,7 @@ http://168.205.87.198:8555/live/1347/123456/282.m3u8
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169041.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
+#EXTINF:-1 tvg-id="TV Integração Juiz de Fora" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
 https://live-cm-ah-18-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTgtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzk0NjE3Mzc1LCJpYXQiOjE3OTQ1OTU3NzUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nMWludGVncmFtZ2pkZi9wbGF5bGlzdC5tM3U4In0.U_NFIaYAVMQTI_YDixTvWW262_qUiKic1YSGek10PjIb4zuiWXi463j_--O504D3nmF3dOHk7n-EuNr05hrIomk-tb2T_bT5dFoDIlLw1g58e4ICJRIh0DuqLVdUQ36S2c5-G18yuhL8I84KoBniDA53KndA-wi9XRXzGVaaTgv-kJ7UZRFdasxAwj-6oCyIRTJzrjim1u7mSArwhODUiTU63bvumwOLks1K3_AUmvEopCzA8rxqc6qiYVMYVrnrrZ5FoCtlhTjg4YPjGepbqOUmXL_TD4zwpR3TkEg8M6UNA2A0ctwd9CAgASkN7ntUpM4AG-3VJ7eWVaH2ECITgw/live/f(i=2)/g1integramgjdf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
@@ -63,7 +63,7 @@ http://168.205.87.198:8555/live/1347/123456/289.m3u8
 #EXTINF:-1 tvg-id="REDE TV! São Paulo" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
-#EXTINF:-1 tvg-id="Rede.Brasil.HD.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
+#EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 http://138.204.86.4:8080/REDE_BRASIL_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
@@ -1896,16 +1896,16 @@ http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/43992.mp4
 ##########################
 
 
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="TV REDE VIDA HD" tvg-logo="https://i.postimg.cc/nrQFMLCC/REDE-VIDA.png" group-title="RELIGIOSOS",TV REDE VIDA HD
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="TV REDE VIDA HD" tvg-logo="https://i.postimg.cc/nrQFMLCC/REDE-VIDA.png" group-title="RELIGIOSOS",TV REDE VIDA HD
 https://cdn-sp2.satlabscloud.com.br/REDE_VIDA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="TV CANÇÃO NOVA HD" tvg-logo="https://i.postimg.cc/j5RKj7TV/CANCAO-NOVA.png" group-title="RELIGIOSOS",TV CANÇÃO NOVA HD
+#EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="TV CANÇÃO NOVA HD" tvg-logo="https://i.postimg.cc/j5RKj7TV/CANCAO-NOVA.png" group-title="RELIGIOSOS",TV CANÇÃO NOVA HD
 https://cdn-sp2.satlabscloud.com.br/CANCAO_NOVA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-id="aparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://i.postimg.cc/RhFWV9zy/TV-APARECIDA.png" group-title="RELIGIOSOS",TV APARECIDA HD
+#EXTINF:-1 tvg-id="APARECIDA HD" tvg-name="TV APARECIDA HD" tvg-logo="https://i.postimg.cc/RhFWV9zy/TV-APARECIDA.png" group-title="RELIGIOSOS",TV APARECIDA HD
 https://cdn-sp2.satlabscloud.com.br/TV_APARECIDA_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-id="paieterno.br" tvg-name="TV PAI ETERNO HD" tvg-logo="https://i.postimg.cc/8Ph2Xnsd/TV-PAI-ETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO HD
+#EXTINF:-1 tvg-id="TV Pai Eterno HD" tvg-name="TV PAI ETERNO HD" tvg-logo="https://i.postimg.cc/8Ph2Xnsd/TV-PAI-ETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO HD
 https://cdn-sp2.satlabscloud.com.br/PAI_ETERNO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="evangelizar.br" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://i.postimg.cc/8Ph2Xnsd/TV-PAI-ETERNO.png" group-title="RELIGIOSOS",TV EVANGELIZAR HD
