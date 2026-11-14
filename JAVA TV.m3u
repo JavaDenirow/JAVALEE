@@ -69,10 +69,10 @@ http://138.204.86.4:8080/REDE_BRASIL_HD/index.m3u8
 #EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..iSTV.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
+#EXTINF:-1 tvg-id="ISTV São Paulo " tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
+#EXTINF:-1 tvg-id="TV CULTURA" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
 https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/b005ec83ec30652c8274b59da7031c5b/tvcultura.m3u8
 
 #EXTINF:-1 tvg-id="centraltv.br" tvg-name="CENTRAL TV HD" tvg-logo="https://i.postimg.cc/0Q9xNwvk/CENTRAL-TV.png" group-title="CANAIS ABERTOS",CENTRAL TV HD
