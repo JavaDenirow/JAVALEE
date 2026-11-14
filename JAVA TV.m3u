@@ -6,70 +6,70 @@
 ##########################
 
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.HD.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.br" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168921.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.HD.br" tvg-name="TV RIO SUL RJ HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV-RIO-SUL.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.br" tvg-name="TV RIO SUL RJ HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV-RIO-SUL.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.HD.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.br" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
 http://dns.explouddev.com:80/632270679/F823j7133R/289883
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.HD.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.br" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://168.205.87.198:8555/live/1347/123456/282.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.HD.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
+#EXTINF:-1 tvg-id="São.Paulo/SP..Globo.br" tvg-name="TV INTEGRAÇÃO JF HD" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD  
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169041.m3u8
 
-#EXTINF:-1 tvg-id="TVIntegracaoJuizdeFora" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
+#EXTINF:-1 tvg-id="TV.Integracao.JuizdeFora.br" tvg-name="TV INTEGRAÇÃO JF HD 2" tvg-logo="https://i.postimg.cc/y89zXPYC/TV%20INTEGRA%C3%87%C3%83O%20JF.png" group-title="CANAIS ABERTOS",TV INTEGRAÇÃO JF HD 2
 https://live-cm-ah-18-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTgtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzk0NjE3Mzc1LCJpYXQiOjE3OTQ1OTU3NzUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nMWludGVncmFtZ2pkZi9wbGF5bGlzdC5tM3U4In0.U_NFIaYAVMQTI_YDixTvWW262_qUiKic1YSGek10PjIb4zuiWXi463j_--O504D3nmF3dOHk7n-EuNr05hrIomk-tb2T_bT5dFoDIlLw1g58e4ICJRIh0DuqLVdUQ36S2c5-G18yuhL8I84KoBniDA53KndA-wi9XRXzGVaaTgv-kJ7UZRFdasxAwj-6oCyIRTJzrjim1u7mSArwhODUiTU63bvumwOLks1K3_AUmvEopCzA8rxqc6qiYVMYVrnrrZ5FoCtlhTjg4YPjGepbqOUmXL_TD4zwpR3TkEg8M6UNA2A0ctwd9CAgASkN7ntUpM4AG-3VJ7eWVaH2ECITgw/live/f(i=2)/g1integramgjdf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Band.HD.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.br" tvg-name="BAND RJ HD" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 
 http://64.31.23.207:80/96795792/50165825/5721436.m3u8
 
-#EXTINF:-1 tvg-id=São.Paulo/SP..Band.HD.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
+#EXTINF:-1 tvg-id=São.Paulo/SP..Band.br" tvg-name="BAND RJ HD 2" tvg-logo="https://i.postimg.cc/zfC85k9F/BAND-RJ-2.png" group-title="CANAIS ABERTOS",BAND RJ HD 2
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Band.HD.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.br" tvg-name="BAND MG HD" tvg-logo="https://i.postimg.cc/WzzzRMQS/BAND-MINAS.png" group-title="CANAIS ABERTOS",BAND MG HD
 http://168.205.87.198:8555/live/1347/123456/276.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Band.HD.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.br" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
 http://dns.explouddev.com:80/632270679/F823j7133R/255465
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.br" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.br" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
 http://dns.explouddev.com:80/632270679/F823j7133R/528661
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.br" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 https://dbcd70beab56963578d70df985879ec7.s25-cloudfront-net.lat/stream/f42ad1a3fbb5ad6e35ccb2ed1e8fd67f/recordhd.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-name="RECORD MG HD" tvg-logo="https://i.postimg.cc/wT9QMxQS/RECORD-MG.png" group-title="CANAIS ABERTOS",RECORD MG HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.br" tvg-name="RECORD MG HD" tvg-logo="https://i.postimg.cc/wT9QMxQS/RECORD-MG.png" group-title="CANAIS ABERTOS",RECORD MG HD
 http://168.205.87.198:8555/live/1347/123456/285.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.HD.br" tvg-name="TV ALTEROSA HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-name="TV ALTEROSA HD" tvg-logo="https://i.postimg.cc/W4VkFCnj/TV-ALTEROSA.png" group-title="CANAIS ABERTOS",TV ALTEROSA HD
 http://168.205.87.198:8555/live/1347/123456/291.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.HD.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-name="SBT RJ HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT RJ HD
 http://dns.explouddev.com:80/632270679/F823j7133R/244174
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.HD.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
 http://dns.explouddev.com:80/632270679/F823j7133R/244167
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.TV.HD.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.TV.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://168.205.87.198:8555/live/1347/123456/289.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.TV.HD.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Rede.TV.br" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 
 #EXTINF:-1 tvg-id="Rede.Brasil.HD.br" tvg-name="REDE BRASIL HD" tvg-logo="https://i.postimg.cc/SNn4j4Bp/REDE%20BRASIL.png" group-title="CANAIS ABERTOS",REDE BRASIL HD
 http://138.204.86.4:8080/REDE_BRASIL_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Brasil.HD.br" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://i.postimg.cc/9QTjtpXL/TV%20BRASIL.png" group-title="CANAIS ABERTOS",TV BRASIL HD
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..iS.TV.HD.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..iSTV.br" tvg-name="ISTV HD" tvg-logo="https://i.postimg.cc/qq5dQDCY/ISTV.png" group-title="CANAIS ABERTOS",ISTV HD
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.postimg.cc/W1rP6npK/TV%20CULTURA.png" group-title="CANAIS ABERTOS",TV CULTURA HD
@@ -81,7 +81,7 @@ https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2
 #EXTINF:-1 tvg-id="tbc.goias" tvg-name="TV BRASIL CENTRAL TBC HD" tvg-logo="https://i.postimg.cc/RhG3Qhvy/TBC-LOGO.png" group-title="CANAIS ABERTOS",TV BRASIL CENTRAL TBC HD
 https://5a1c76baf08c0.streamlock.net/tbc/tbc/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.HD.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://i.postimg.cc/1zh8b6Bg/TV-GAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA HD
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
 
 #EXTINF:-1 tvg-id="redeminas.br" tvg-name="REDE MINAS HD" tvg-logo="https://i.postimg.cc/GhkWgS9B/REDE-MINAS.png" group-title="CANAIS ABERTOS",REDE MINAS HD
@@ -120,10 +120,10 @@ http://dns.explouddev.com:80/632270679/F823j7133R/145
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cinemax.HD.³.br" tvg-name="CINEMAX HD" tvg-logo="https://i.postimg.cc/Hx3m8kWD/CINEMAX.png" group-title="FILMES",CINEMAX HD
 http://45.185.15.154:9080/stream/24/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Curta!.HD.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Curta!.br" tvg-name="CURTA HD" tvg-logo="https://i.postimg.cc/xCgQN1jn/CURTA.png" group-title="FILMES",CURTA HD
 http://dns.explouddev.com:80/632270679/F823j7133R/2611
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Film&Arts.HD.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Film&Arts.br" tvg-name="FILM & ARTS HD" tvg-logo="https://i.postimg.cc/SRsh6bj2/FILM%20ARTS.png" group-title="FILMES",FILM & ARTS HD
 http://dns.fontedecanais.com.br:80/playercodestv/947942/573
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..HBO.HD.³.br" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/VvVc4Zb4/HBO.png" group-title="FILMES",HBO HD
@@ -177,10 +177,10 @@ http://45.185.15.154:9080/stream/30/index.m3u8
 #EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.postimg.cc/4Njg9MG6/TELECINE%20FUN.png" group-title="FILMES",TELECINE FUN HD
 http://45.185.15.154:9080/stream/63/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.HD.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.postimg.cc/NfZcHVt4/TELECINE%20TOUCH.png" group-title="FILMES",TELECINE TOUCH HD
 http://45.185.15.154:9080/stream/29/index.m3u8
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Cult.HD.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.postimg.cc/TYB6DSxm/TELECINE%20CULT.png" group-title="FILMES",TELECINE CULT HD
 http://45.185.15.154:9080/stream/64/index.m3u8
 
 #EXTINF:-1 tvg-id="São.Paulo/SP..TNT.HD.³.br" tvg-name="TNT HD" tvg-logo="https://i.postimg.cc/s2dMbSmx/TNT.png" group-title="FILMES",TNT HD
