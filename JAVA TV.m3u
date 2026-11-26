@@ -7,13 +7,13 @@
 
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV GLOBO RJ HD" tvg-logo="https://i.postimg.cc/bwbY4src/TV-GLOBO-RJ.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
-http://rtv30t.com:80/Kamiyama82/Banzaiplay28/131163.m3u8
+http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/411
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV RIO SUL RJ HD" tvg-logo="https://i.postimg.cc/cLYNMm4Z/TV-RIO-SUL.png" group-title="CANAIS ABERTOS",TV GLOBO RJ HD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV GLOBO SP HD" tvg-logo="https://i.postimg.cc/ZqSYm4Bw/TV-GLOBO-SP.png" group-title="CANAIS ABERTOS",TV GLOBO SP HD
-http://dns.explouddev.com:80/632270679/F823j7133R/289883
+http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/428
 
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="TV GLOBO MG HD" tvg-logo="https://i.postimg.cc/fRXW1Jy4/TV-GLOBO-MG.png" group-title="CANAIS ABERTOS",TV GLOBO MG HD
 http://168.205.87.198:8555/live/1347/123456/282.m3u8
@@ -34,13 +34,13 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 http://168.205.87.198:8555/live/1347/123456/276.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND SP HD" tvg-logo="https://i.postimg.cc/V6z1NC89/BAND-SP-2.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://rtv30t.com:80/Kamiyama82/Banzaiplay28/79311.m3u8
+http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/40
 
 #EXTINF:-1 tvg-id="RECORD - Sao Paulo" tvg-name="RECORD RJ HD" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
+http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/732
 
 #EXTINF:-1 tvg-id="RECORD - Sao Paulo" tvg-name="RECORD RJ HD 2" tvg-logo="https://i.postimg.cc/ZKWm0m1G/RECORD%20RJ.png" group-title="CANAIS ABERTOS",RECORD RJ HD 2
-http://rtv30t.com:80/Kamiyama82/Banzaiplay28/72594.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="RECORD - Sao Paulo" tvg-name="RECORD SP HD" tvg-logo="https://i.postimg.cc/vH4yDyJR/RECORD%20SP.png" group-title="CANAIS ABERTOS",RECORD SP HD
 http://rtv30t.com:80/Kamiyama82/Banzaiplay28/72973.m3u8
@@ -55,7 +55,7 @@ http://168.205.87.198:8555/live/1347/123456/291.m3u8
 http://dns.explouddev.com:80/632270679/F823j7133R/244174
 
 #EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT SP HD" tvg-logo="https://i.postimg.cc/281Y3Ys8/SBT.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://rtv30t.com:80/Kamiyama82/Banzaiplay28/72598.m3u8
+http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/758
 
 #EXTINF:-1 tvg-id="REDE TV! São Paulo" tvg-name="REDE TV RJ HD" tvg-logo="https://i.postimg.cc/VLJw5wx8/REDE%20TV.png" group-title="CANAIS ABERTOS",REDE TV RJ HD
 http://168.205.87.198:8555/live/1347/123456/289.m3u8
@@ -85,7 +85,7 @@ https://5a1c76baf08c0.streamlock.net/tbc/tbc/chunklist.m3u8
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
 
 #EXTINF:-1 tvg-id="redeminas.br" tvg-name="REDE MINAS HD" tvg-logo="https://i.postimg.cc/GhkWgS9B/REDE-MINAS.png" group-title="CANAIS ABERTOS",REDE MINAS HD
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b2771072.m3u8
+http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/1233
 
 #EXTINF:-1 tvg-id="tv.parana.turismo" tvg-name="TV PARANÁ TURISMO HD" tvg-logo="https://i.postimg.cc/sDpkH01J/TV-PARANA-TURISMO.png" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO HD
 http://200.189.113.201/hls/tve.m3u8
@@ -710,8 +710,11 @@ http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/777
 #EXTINF:-1 tvg-id="São.Paulo/SP..Sextreme.br" tvg-name="SEXTREME HD" tvg-logo="https://i.postimg.cc/ZKWm0mG5/SEXTREME.png" group-title="ADULTOS",SEXTREME HD
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/775
 
-#EXTINF:-1 tvg-id="São.Paulo/SP..Venus.br" tvg-name="VENUS HD" tvg-logo="https://images.seeklogo.com/logo-png/46/1/canal-venus-logo-png_seeklogo-463134.png" group-title="ADULTOS",VENUS HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Venus.br" tvg-name="VENUS HD" tvg-logo="https://i.postimg.cc/ydSKw8wc/VENUS.png" group-title="ADULTOS",VENUS HD
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/984
+
+#EXTINF:-1 tvg-id="São.Paulo/SP..Sexy.Prive.br" tvg-name="SEXY PRIVE HD" tvg-logo="https://i.postimg.cc/DZ3LX8QH/SEXY-PRIVE.png" group-title="ADULTOS",SEXY PRIVE HD
+http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/772
 
 
 ##########################
